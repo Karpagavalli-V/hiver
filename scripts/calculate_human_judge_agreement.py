@@ -2,6 +2,10 @@ import os
 import sys
 import pandas as pd
 from typing import Dict
+
+# Ensure project root is in sys.path when script is executed directly
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
 from src.evaluation.human_judge_agreement import calculate_weighted_kappa, calculate_cohen_kappa
 
 CSV_PATH = "data/human_judge/human_judge_20.csv"

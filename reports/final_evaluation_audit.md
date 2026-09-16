@@ -49,7 +49,10 @@ The live model outperforms the TF-IDF baseline by **+22.00% in Accuracy** and **
 ## 5. LLM Judge & Human Agreement Status
 
 - **Judge Coverage**: 200 / 200 generated replies evaluated cleanly.
-- **Human / Judge Agreement**: Marked **NOT AVAILABLE**. No genuine human reply-quality ratings exist in the Golden Set; zero agreement score was fabricated. The calculation infrastructure (`calculate_cohen_kappa`, `calculate_weighted_kappa`) is implemented and unit-tested in `src/evaluation/human_judge_agreement.py`.
+- **Human / Judge Agreement**: **COMPLETED** ($N=20$ Validation Sample). All 20 human ratings were validated (`scripts/validate_human_judge_20.py`) and evaluated against LLM judge ratings (`scripts/calculate_human_judge_agreement.py`).
+- **Macro-Averaged QWK**: **`0.3038`** (Fair inter-rater agreement across 5 dimensions).
+- **Dimension QWK Breakdown**: Safety (1.0000), Helpfulness (0.3443), Groundedness (0.1875), Relevance (0.0244), Tone (-0.0370).
+- **Statistical Scope**: Treated as a small validation sample ($N=20$), not a population-level estimate across all queries.
 
 ---
 

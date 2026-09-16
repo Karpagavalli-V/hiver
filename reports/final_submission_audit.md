@@ -84,12 +84,13 @@ All commands listed in `README.md` were executed and verified for exact function
 
 ---
 
-## 6. Truthful Evaluation Status: Judge-Human Agreement
+## 6. Evaluation Status: Judge-Human Agreement
 
 - **LLM-as-a-Judge Evaluation**: **100% COMPLETE** (All 200 generated replies scored on Relevance, Groundedness, Helpfulness, Safety, and Tone).
-- **Human Ratings of Generated Replies**: **NOT COMPLETED**.
-- **Judge-Human Agreement Score**: **`N/A`** (No agreement metric is fabricated).
-- **Workflow Prepared**: The 20-example sampling and CLI rating workflow (`scripts/sample_human_judge_20.py` and `scripts/human_judge_20.py`) is fully implemented, unit-tested, and ready for future human rating collection.
+- **Human Ratings of Generated Replies**: **COMPLETED** ($N=20$ Validation Sample). All 20 human ratings were validated with `scripts/validate_human_judge_20.py`.
+- **Judge-Human Agreement Score**: **COMPLETED** (Macro-Averaged QWK = **`0.3038`**; Cohen's Kappa = **`0.1949`**).
+- **Dimension QWK Breakdown**: Safety (1.0000), Helpfulness (0.3443), Groundedness (0.1875), Relevance (0.0244), Tone (-0.0370).
+- **Validation Sample Scope**: Treated as a focused 20-example validation sample for inter-rater reliability, not a population-level estimate.
 
 ---
 

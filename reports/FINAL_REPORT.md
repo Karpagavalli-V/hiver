@@ -235,16 +235,27 @@ A responsible engineering evaluation must critically examine headline metrics:
 
 ## 11. Judge-Human Agreement
 
-- **Status**: **`N/A` (`NOT AVAILABLE`)** — Outstanding Evaluation Item
-- **Truthful Status**:
-  - LLM-as-judge rubric: **COMPLETE**
-  - 200 generated replies judged: **COMPLETE**
-  - Human ratings of generated replies: **NOT COMPLETED**
-  - Judge-human agreement score: **`N/A`** (No agreement score is fabricated)
-  - 20-example human-rating workflow: **IMPLEMENTED and ready** (`python scripts/human_judge_20.py`)
-- **Details**: The LLM Judge evaluated all 200 generated replies cleanly. However, genuine human ratings of the AI agent's generated replies have not been completed. Therefore, judge-human agreement remains an outstanding evaluation item pending human rating completion.
-- **Agreement Infrastructure**: Inter-rater reliability functions (`calculate_cohen_kappa` and `calculate_weighted_kappa`) are fully implemented and unit-tested in [`src/evaluation/human_judge_agreement.py`](file:///d:/hiver/src/evaluation/human_judge_agreement.py).
-- **Sampling Workflow**: A deterministic 20-example sampling workflow (`scripts/sample_human_judge_20.py` and `scripts/human_judge_20.py`) is implemented and ready to collect human ratings for Quadratic Weighted Kappa calculation.
+- **Status**: **COMPLETED** (20-Example Human Validation Sample)
+- **Evaluation Summary**:
+  - All **20 human ratings** of AI-generated responses were completed and validated (`data/human_judge/human_judge_20.csv`).
+  - The **LLM-as-a-Judge** evaluated the exact same 20 generated replies across all 5 rubric dimensions.
+  - **Macro-Averaged Quadratic Weighted Kappa (QWK)**: **`0.3038`**
+  - **Macro-Averaged Cohen's Kappa (Exact)**: **`0.1949`**
+
+### Dimension-Wise Inter-Rater Agreement Table ($N=20$)
+
+| Dimension | Human Mean Score | LLM Judge Mean Score | Cohen's Kappa (Exact) | Quadratic Weighted Kappa (QWK) |
+| :--- | :---: | :---: | :---: | :---: |
+| **Relevance** | 4.35 | 4.55 | -0.0667 | **0.0244** |
+| **Groundedness** | 3.85 | 3.50 | 0.0783 | **0.1875** |
+| **Helpfulness** | 3.70 | 4.20 | 0.0000 | **0.3443** |
+| **Safety** | 5.00 | 5.00 | 1.0000 | **1.0000** |
+| **Tone** | 4.15 | 4.75 | -0.0370 | **-0.0370** |
+
+### Methodological & Statistical Notes
+1. **Validation Sample Scope**: This 20-example evaluation serves as a focused human-validation benchmark for inter-rater reliability. Due to the small sample size ($N=20$), these agreement statistics represent a preliminary validation sample and should not be treated as a population-level estimate across all customer support queries.
+2. **Unbiased Annotation**: Human ratings were performed independently using the CLI tool (`scripts/human_judge_20.py`) without displaying LLM judge scores to prevent anchoring bias.
+3. **Ordinal Weighting**: Quadratic Weighted Kappa is the primary agreement metric because ratings (1–5) are ordinal, penalizing larger rating discrepancies more heavily than adjacent ratings.
 
 ---
 
@@ -313,4 +324,4 @@ streamlit run app.py
 
 The AmazonHelp AI Customer Support System demonstrates a functional, leak-free pipeline combining LLM intent classification, TF-IDF historical retrieval, grounded generation, and deterministic risk escalation. Evaluated on a frozen 200-example Golden Set, the system achieves **56.50% Intent Accuracy** (+22.0 percentage-point difference in accuracy versus TF-IDF baseline), a **96.5% Reply Quality Pass Rate**, and an average **Reply Quality Score of 4.20 / 5.00**, while enforcing strict human escalation safety rules on uncertain or high-risk customer queries.
 
-*Note on Evaluation Completion: The LLM-as-judge evaluation of all 200 generated replies is 100% complete. Human rating of AI-generated replies and empirical judge-human agreement score (`N/A`) remain an outstanding evaluation item for future completion using the implemented 20-example workflow.*
+*Note on Evaluation Completion: The LLM-as-judge evaluation of all 200 generated replies is 100% complete. In addition, a 20-example human validation sample was completed, yielding a Macro-Averaged Quadratic Weighted Kappa (QWK) of 0.3038 across the 5 evaluation dimensions.*

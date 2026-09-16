@@ -62,12 +62,13 @@ Evaluated on the frozen 200-example Golden Set benchmark:
 
 ---
 
-## 5. Outstanding Evaluation Item: Judge-Human Agreement
+## 5. Judge-Human Agreement Evaluation ($N=20$)
 
 - **LLM-as-Judge Evaluation**: **COMPLETE** (All 200 generated replies judged across Relevance, Groundedness, Helpfulness, Safety, and Tone).
-- **Human Ratings of Generated Replies**: **NOT COMPLETED**.
-- **Judge-Human Agreement Score**: **`N/A`** (No agreement score is fabricated).
-- **Human Rating Workflow**: **IMPLEMENTED** (`python scripts/human_judge_20.py` and `scripts/validate_human_judge_20.py` ready for collecting 20-example human ratings).
+- **Human Ratings of Generated Replies**: **COMPLETED** (20-example validation sample in `data/human_judge/human_judge_20.csv`).
+- **Macro-Averaged Quadratic Weighted Kappa (QWK)**: **`0.3038`** (Cohen's Kappa = **`0.1949`**).
+- **Dimension QWK Breakdown**: Safety (1.0000), Helpfulness (0.3443), Groundedness (0.1875), Relevance (0.0244), Tone (-0.0370).
+- **Statistical Scope**: Small validation sample ($N=20$), providing inter-rater reliability measurement without treating it as a population-level estimate.
 
 ---
 

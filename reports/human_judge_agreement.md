@@ -2,48 +2,30 @@
 
 ## 1. Summary
 - **Sample Size**: 20 examples
-- **Sampling Methodology**: Stratified deterministic sampling (seed=42) across 9 intent classes and balanced escalation states (10 `AUTO-HANDLE`, 10 `ESCALATE`).
+- **Sampling Methodology**: Stratified deterministic sampling (seed=42) across 9 intent classes and 2 escalation states (`AUTO-HANDLE` and `ESCALATE`).
 - **Rating Scale**: 1 to 5 integer ordinal scale per dimension (1 = Poor, 5 = Excellent).
-- **Workflow Status**: **SAMPLING COMPLETE — AWAITING HUMAN ANNOTATION**
-- **Annotation Tool**: `python scripts/human_judge_20.py`
-- **Validation Script**: `python scripts/validate_human_judge_20.py`
+- **Macro-Averaged Quadratic Weighted Kappa (QWK)**: **0.3038**
+- **Macro-Averaged Cohen's Kappa**: **0.1949**
 
 ---
 
-## 2. LLM-as-a-Judge vs. Human Evaluation Rubric
+## 2. Dimension-Wise Agreement Results
 
-Each generated customer support reply is independently rated on 5 core quality dimensions:
-
-1. **RELEVANCE (1–5)**: Does the reply address the customer's actual inquiry?
-2. **GROUNDEDNESS (1–5)**: Is the response supported by historical conversation context/retrieved evidence?
-3. **HELPFULNESS (1–5)**: Does it provide a concrete next step, link, or resolution?
-4. **SAFETY (1–5)**: Does it avoid making unsupported promises, risky policy commitments, or leaking information?
-5. **TONE (1–5)**: Is the communication professional, concise, empathetic, and appropriate for Amazon customer support?
-
----
-
-## 3. Sample Stratification Summary
-
-The 20 validation examples were deterministically selected from the completed 200-example evaluation dataset (`reports/evaluation_results.json`) using seed 42:
-
-- **Intent Coverage (9 intents)**:
-  - `DeliveryStatus`: 3 examples
-  - `CourierFeedback`: 3 examples
-  - `RefundsAndReturns`: 2 examples
-  - `DamagedOrDefective`: 2 examples
-  - `DigitalServices`: 2 examples
-  - `WrongItem`: 2 examples
-  - `AccountAndPayment`: 2 examples
-  - `CustomerServiceEscalation`: 2 examples
-  - `OTHER`: 2 examples
-- **Ground Truth Escalation Balance**:
-  - `AUTO-HANDLE`: 10 examples (50%)
-  - `ESCALATE`: 10 examples (50%)
+| Dimension | Human Mean Score | LLM Judge Mean Score | Cohen's Kappa (Exact) | Quadratic Weighted Kappa (QWK) |
+| :--- | :---: | :---: | :---: | :---: |
+| **Relevance** | 4.35 | 4.55 | -0.0667 | **0.0244** |
+| **Groundedness** | 3.85 | 3.50 | 0.0783 | **0.1875** |
+| **Helpfulness** | 3.70 | 4.20 | 0.0000 | **0.3443** |
+| **Safety** | 5.00 | 5.00 | 1.0000 | **1.0000** |
+| **Tone** | 4.15 | 4.75 | -0.0370 | **-0.0370** |
 
 ---
 
-## 4. Methodological & Statistical Notes
+## 3. Methodological & Statistical Notes
 
 > [!IMPORTANT]
 > **Sample Size Limitation Notice**:
-> This 20-example validation sample is designed to satisfy the Hiver assignment requirement for human-vs-judge agreement. It provides a focused inter-rater reliability measurement (Quadratic Weighted Kappa) between the LLM Judge and a human annotator. However, due to its small size ($N=20$), agreement metrics derived from this sample should **not** be extrapolated as a statistically high-powered representation of the entire 200-example Phase 5B evaluation.
+> This 20-example evaluation sample serves as a focused human-validation benchmark for LLM judge agreement required by the Hiver assignment. It provides a measure of inter-rater reliability, but should **not** be treated as a statistically high-powered representation of the full 200-example Phase 5B dataset.
+
+1. **Quadratic Weighted Kappa (QWK)** is the primary metric because 1–5 ratings are ordinal; small discrepancies (e.g. 4 vs 5) receive smaller penalties than large discrepancies (e.g. 1 vs 5).
+2. **Unbiased Annotation**: Human ratings were performed independently without displaying LLM judge scores to prevent anchoring bias.

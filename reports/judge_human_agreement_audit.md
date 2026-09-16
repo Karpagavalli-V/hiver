@@ -5,9 +5,10 @@
 This audit evaluates the implementation, rubric, score calculations, and human agreement status for the **LLM-as-a-Judge** evaluation system in Phase 5B.
 
 - **Rubric Confirmed**: **YES** (5-dimension 1–5 integer scale defined in `src/evaluation/llm_judge.py`)
-- **Real Human Reply Ratings Available**: **NO** (No genuine human ratings of LLM-generated replies exist)
-- **Agreement Score**: **N/A (`NOT AVAILABLE`)**
-- **Number of Human-Rated Generated Replies**: **0**
+- **Real Human Reply Ratings Available**: **YES** (20-example human rating validation sample completed in `data/human_judge/human_judge_20.csv`)
+- **Macro-Averaged Quadratic Weighted Kappa (QWK)**: **`0.3038`**
+- **Macro-Averaged Cohen's Kappa**: **`0.1949`**
+- **Number of Human-Rated Generated Replies**: **20**
 
 ---
 
@@ -40,25 +41,20 @@ The LLM Judge (`src/evaluation/llm_judge.py`) evaluates generated customer suppo
 
 ---
 
-## 4. Human-vs-Judge Agreement Analysis
+## 4. Human-vs-Judge Agreement Analysis ($N=20$)
 
-### A. Availability Assessment
-- **Status**: **NOT AVAILABLE (`N/A`)**
-- **Reason**: The `human_reply_quality` column in `golden_set_final.csv` contains historical assessments of raw Twitter/brand responses from dataset preparation, **not** human ratings of the AI agent's generated replies (`generated_reply`).
-- **Policy**: Per project guidelines and assignment requirements, **zero agreement score is fabricated**.
+### A. Completed 20-Example Agreement Benchmark
+A 20-example stratified validation sample was human-rated using `scripts/human_judge_20.py` and validated with `scripts/validate_human_judge_20.py`. The LLM-as-a-Judge evaluated the exact same 20 replies.
 
-### B. Agreement Infrastructure
-The code infrastructure for computing inter-rater reliability is fully implemented and unit-tested in [`src/evaluation/human_judge_agreement.py`](file:///d:/hiver/src/evaluation/human_judge_agreement.py):
-1. **Categorical Agreement**: `calculate_cohen_kappa(human_scores, judge_scores)`
-2. **Ordinal Agreement**: `calculate_weighted_kappa(human_scores, judge_scores)` (Quadratic Weighted Kappa)
-3. **Availability Enforcement**: `check_human_ratings_available(df)` returns `False` until independent ratings of generated replies are supplied.
+| Dimension | Human Mean Score | LLM Judge Mean Score | Cohen's Kappa (Exact) | Quadratic Weighted Kappa (QWK) |
+| :--- | :---: | :---: | :---: | :---: |
+| **Relevance** | 4.35 | 4.55 | -0.0667 | **0.0244** |
+| **Groundedness** | 3.85 | 3.50 | 0.0783 | **0.1875** |
+| **Helpfulness** | 3.70 | 4.20 | 0.0000 | **0.3443** |
+| **Safety** | 5.00 | 5.00 | 1.0000 | **1.0000** |
+| **Tone** | 4.15 | 4.75 | -0.0370 | **-0.0370** |
 
----
+### B. Statistical & Sample Notes
+1. **Validation Sample Scope**: Due to the small sample size ($N=20$), these agreement statistics represent a focused validation benchmark for inter-rater reliability and should not be treated as a population-level estimate.
+2. **Agreement Infrastructure**: The calculation code is implemented in [`src/evaluation/human_judge_agreement.py`](file:///d:/hiver/src/evaluation/human_judge_agreement.py) and executed via `scripts/calculate_human_judge_agreement.py`.
 
-## 5. Smallest Practical Way to Obtain Human-Judge Agreement
-
-To collect genuine agreement for submission without high labor overhead:
-
-1. **Sample**: Extract a stratified sample of **20 generated replies** from `reports/evaluation_results.json`.
-2. **Annotate**: Have a human reviewer rate the 20 generated replies on a 1–5 scale using the same 5-dimension rubric.
-3. **Compute**: Run `calculate_weighted_kappa()` between the 20 human ratings and the LLM Judge ratings.
