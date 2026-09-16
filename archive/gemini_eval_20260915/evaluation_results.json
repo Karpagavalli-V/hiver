@@ -1,0 +1,138 @@
+{
+  "results": [
+    {
+      "golden_id": "G-1000",
+      "status": "failed",
+      "error": "Error code: 400 - [{'error': {'code': 400, 'message': 'Please pass a valid API key', 'status': 'INVALID_ARGUMENT'}}]",
+      "run_mode": "LIVE"
+    },
+    {
+      "golden_id": "G-1001",
+      "customer_message": "@AmazonHelp Thanks for the prompt response.  Here's your link-&gt;\nWD My Passport 1TB Portable External Hard Drive (Blue) https://t.co/AU9qOeLQiP",
+      "true_intent": "OTHER",
+      "pred_intent": "OTHER",
+      "true_escalation": "AUTO-HANDLE",
+      "pred_escalation": "ESCALATE",
+      "generated_reply": "You're most welcome! Thanks for sharing the link with us. Let us know if you need any further assistance.",
+      "judge_scores": {
+        "relevance": 2,
+        "groundedness": 3,
+        "helpfulness": 1,
+        "safety": 5,
+        "tone": 5,
+        "overall_score": 3.2,
+        "pass": true,
+        "rationale": "The reply is polite and safe, but it completely fails to help the customer after twice requesting the product link to investigate an issue with a lightning deal."
+      },
+      "status": "completed",
+      "run_mode": "LIVE"
+    },
+    {
+      "golden_id": "G-1002",
+      "customer_message": "@AmazonHelp I spoke to one of your agents tonight on the phone and he went above and beyond (even a follow up email)! Anyway to ID so I can fill out a survey of some sort??",
+      "true_intent": "OTHER",
+      "pred_intent": "OTHER",
+      "true_escalation": "AUTO-HANDLE",
+      "pred_escalation": "ESCALATE",
+      "generated_reply": "At the bottom of the follow-up email you received, you'll see 'Did I resolve your issue?' which will provide options to leave feedback for your interaction.",
+      "judge_scores": {
+        "relevance": 5,
+        "groundedness": 5,
+        "helpfulness": 5,
+        "safety": 5,
+        "tone": 5,
+        "overall_score": 5.0,
+        "pass": true,
+        "rationale": "The reply directly and accurately answers the customer's question on how to submit feedback, leveraging the evidence provided in a polite and helpful tone."
+      },
+      "status": "completed",
+      "run_mode": "LIVE"
+    },
+    {
+      "golden_id": "G-1003",
+      "customer_message": "@AmazonHelp The last two packages were supposed to be delivered by AMZL US.",
+      "true_intent": "DeliveryStatus",
+      "pred_intent": "DeliveryStatus",
+      "true_escalation": "AUTO-HANDLE",
+      "pred_escalation": "ESCALATE",
+      "generated_reply": "I'm sorry to hear about the issue with your packages! What is the most recent tracking information available for your orders? You can check here: https://t.co/hApLpMlfHN",
+      "judge_scores": {
+        "relevance": 4,
+        "groundedness": 5,
+        "helpfulness": 4,
+        "safety": 5,
+        "tone": 5,
+        "overall_score": 4.6,
+        "pass": true,
+        "rationale": "The reply maintains an empathetic tone and offers a logical next step with a link, closely aligning with historical evidence strategies, though it could have directly acknowledged the carrier specified by the customer."
+      },
+      "status": "completed",
+      "run_mode": "LIVE"
+    },
+    {
+      "golden_id": "G-1004",
+      "customer_message": "Wow! @115830 this packaging job is atrocious. I don\u2019t order books for them to arrive damaged \ud83d\ude21 https://t.co/sJNSq2qqM8",
+      "true_intent": "DamagedOrDefective",
+      "pred_intent": "DamagedOrDefective",
+      "true_escalation": "AUTO-HANDLE",
+      "pred_escalation": "ESCALATE",
+      "generated_reply": "Oh no! We are so sorry for the damaged books you received. Please allow us to assist you with this: https://t.co/JzP7hlA23B",
+      "judge_scores": {
+        "relevance": 5,
+        "groundedness": 5,
+        "helpfulness": 5,
+        "safety": 5,
+        "tone": 5,
+        "overall_score": 5.0,
+        "pass": true,
+        "rationale": "The reply directly addresses the customer's issue with empathy, offers a clear resolution link grounded in historical responses, and maintains an appropriate tone."
+      },
+      "status": "completed",
+      "run_mode": "LIVE"
+    },
+    {
+      "golden_id": "G-1005",
+      "customer_message": "So far @115821 has failed to respond to my oil covered package and ruined game.",
+      "true_intent": "DamagedOrDefective",
+      "pred_intent": "CustomerServiceEscalation",
+      "true_escalation": "AUTO-HANDLE",
+      "pred_escalation": "ESCALATE",
+      "generated_reply": "Could you provide us with a few details about the issue without posting account info? We'd like to help in any way we can.",
+      "judge_scores": {
+        "relevance": 4,
+        "groundedness": 5,
+        "helpfulness": 4,
+        "safety": 5,
+        "tone": 5,
+        "overall_score": 4.6,
+        "pass": true,
+        "rationale": "The response matches proven historical templates, maintains a professional tone, and safely asks for necessary details while reminding the customer not to post sensitive account information."
+      },
+      "status": "completed",
+      "run_mode": "LIVE"
+    },
+    {
+      "golden_id": "G-1000",
+      "customer_message": "@AmazonHelp Please don't play around. I have been promised by Amazon many times for refund but fact is it is not honoring.",
+      "true_intent": "RefundsAndReturns",
+      "pred_intent": "RefundsAndReturns",
+      "true_escalation": "ESCALATE",
+      "pred_escalation": "ESCALATE",
+      "generated_reply": "@AmazonHelp I'm sorry to hear about your frustration. Have you had a chance to speak with a manager regarding your refund? ^JJ",
+      "judge_scores": {
+        "relevance": 4,
+        "groundedness": 3,
+        "helpfulness": 3,
+        "safety": 5,
+        "tone": 4,
+        "overall_score": 3.8,
+        "pass": true,
+        "rationale": "The reply is relevant as it addresses the customer's frustration regarding the refund process. It is somewhat grounded in historical evidence, as similar responses have been made in the past, but it lacks specific context about the customer's situation. The tone is professional, and the response avoids any unsupported claims, making it safe."
+      },
+      "status": "completed",
+      "run_mode": "LIVE"
+    }
+  ],
+  "mode": "LIVE",
+  "status": "complete"
+}

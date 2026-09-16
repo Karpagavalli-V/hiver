@@ -1,0 +1,10 @@
+Intent,Approximate Examples,Percentage
+DeliveryStatus,71259,35%
+RefundsAndReturns,30539,15%
+CourierFeedback,20359,10%
+AccountAndPayment,20359,10%
+CustomerServiceEscalation,20359,10%
+OTHER,16287,8%
+DamagedOrDefective,10179,5%
+DigitalServices,10179,5%
+WrongItem,4071,2%

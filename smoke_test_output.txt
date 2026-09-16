@@ -1,0 +1,79 @@
+Building validation dataset for smoke test...
+
+--- RUNNING SMOKE TEST (10 EXAMPLES) ---
+
+EXAMPLE 1
+Target: @AmazonHelp era una broma me estaba cagando en los videojuegos
+Context: Customer: no me mandéis el pokémon ya no me gusta @116928 ||| Amazon: @731028 ¡Hola!, ¿te refieres a un pedido que has realizado?. ^DS
+MSG_ONLY => Intent: OTHER | Conf: 0.98 | Reason: No reason provided.
+CTX_AWARE => Intent: OTHER | Conf: 0.95 | Reason: No reason provided.
+--------------------------------------------------
+EXAMPLE 2
+Target: At last return is done… thanks guys @AmazonHelp https://t.co/K0Fn1G156k
+Context: Amazon: @192933 Apologies for the ordeal. Could you please confirm sharing your details in the link provided here: https://t.co/ryKtYxgjgq? ^VN ||| Customer: @AmazonHelp i have shared the details, pls respond now ||| Amazon: @192933 We have received your details. We are working on it and will get back to you with an update at the earliest.
+MSG_ONLY => Intent: OTHER | Conf: 0.95 | Reason: No reason provided.
+CTX_AWARE => Intent: OTHER | Conf: 0.95 | Reason: No reason provided.
+--------------------------------------------------
+EXAMPLE 3
+Target: @AmazonHelp @115851 Thank you, I am not setting any expectation... but you guys are defaulting on basics. Guess you may want to rectify there!
+Context: Amazon: @800685 Sorry about the conflicting tracking update. Please report it to our support team here: https://t.co/Ef5EfI51Tt and you will be connected to our team to assist further.  ^SC ||| Customer: @115850 @115851 A little disenchanted with the service options of ur CC officers. They seem to be good, but lack in providing instant resolutions. Have always been Amazon loyalis
+ Pls do not change "have" to "had"!🙄 ||| Amazon: @800685 I'm sorry the service is not at par with your expectations. We would like to check this, please drop in your details here: https://t.co/GIJyeYqKE0 and we will look into this for you. ^AH
+MSG_ONLY => Intent: CustomerServiceEscalation | Conf: 0.85 | Reason: No reason provided.
+CTX_AWARE => Intent: CustomerServiceEscalation | Conf: 0.90 | Reason: No reason provided.
+--------------------------------------------------
+EXAMPLE 4
+Target: @AmazonHelp It seems your subscription button is breaking the add to cart button on several of your pantry items. Clicking one time purchase is not working. I just need one!
+MSG_ONLY => Intent: OTHER | Conf: 0.95 | Reason: No reason provided.
+CTX_AWARE => Intent: OTHER | Conf: 0.95 | Reason: No reason provided.
+--------------------------------------------------
+EXAMPLE 5
+Target: @AmazonHelp Oooooo thank you but it's not letting me fill in anything other than my phone number and username?
+Context: Customer: @115830 delivery for Toby's fire tablet on a Sunday morning meant that poor delivery guy got to witness my pjs, big fluffy socks up my legs, crazy bed head and no eye make up. Poor sod 🙈 ||| Amazon: @596993 Great to hear Toby got his Fire tablet!😊 Fill in your details here: https://t.co/tkLCr7DNil. We'd like to send you a little gift. The best Sundays are spent in pjs and fluffy socks 😍 ^ES
+MSG_ONLY => Intent: AccountAndPayment | Conf: 0.85 | Reason: No reason provided.
+CTX_AWARE => Intent: OTHER | Conf: 0.90 | Reason: No reason provided.
+--------------------------------------------------
+EXAMPLE 6
+Target: @AmazonHelp Sorry, we’re having a technical issue.
+
+Try refreshing the page. If the problem persists, please email us at __email__
+
+Thank you for your patience.
+
+Diagnostic information: FA_LB_ERR_BH
+Context: Customer: @AmazonHelp Your team is unable to solve any issue...poor service.@115851 ||| Customer: @AmazonHelp issue is with seller support not buyer support ............@115851 ||| Amazon: @220260 Apologies for the hassle. Please contact our seller support team through the link provided: https://t.co/4hZ5EzX5Md and will assist you further. ^JS
+MSG_ONLY => Intent: DigitalServices | Conf: 0.95 | Reason: No reason provided.
+CTX_AWARE => Intent: OTHER | Conf: 0.85 | Reason: No reason provided.
+--------------------------------------------------
+EXAMPLE 7
+Target: @AmazonHelp Hey, any update here?
+Context: Customer: @115850 When can I gift Kindle books in India? ||| Amazon: @738379 Hi! We do not have the requested information currently. Stay tuned! ^YP
+MSG_ONLY => Intent: OTHER | Conf: 0.85 | Reason: No reason provided.
+CTX_AWARE => Intent: DigitalServices | Conf: 0.85 | Reason: No reason provided.
+--------------------------------------------------
+EXAMPLE 8
+Target: @AmazonHelp 😂😂😂 https://t.co/512uGRpPGc
+Context: Customer: Resulta q @116928 me ha mandado por duplicado la carta con la información de Prime. Me estáis queriendo decir algo? Creéis q tengo un problema? Existe AmazonerosAnonimos? 😂 https://t.co/DsPqC4Aqvz ||| Amazon: @264319 Amazon piensa con paso adelante Asteroidea 😎. Puedes compartirlo con alguien especial 😏. ^MB
+MSG_ONLY => Intent: OTHER | Conf: 0.95 | Reason: No reason provided.
+CTX_AWARE => Intent: OTHER | Conf: 0.98 | Reason: No reason provided.
+--------------------------------------------------
+EXAMPLE 9
+Target: @115850 'Great India Sale' is a sham. Similar products on flipkart, sites costs same. Co giving discounts after hiking prices #AmazonFraud
+MSG_ONLY => Intent: OTHER | Conf: 0.95 | Reason: No reason provided.
+CTX_AWARE => Intent: OTHER | Conf: 0.95 | Reason: No reason provided.
+--------------------------------------------------
+EXAMPLE 10
+Target: いまだにAmazonから支払い番号来ないんだけど・・・
+MSG_ONLY => Intent: AccountAndPayment | Conf: 0.90 | Reason: No reason provided.
+CTX_AWARE => Intent: AccountAndPayment | Conf: 0.90 | Reason: No reason provided.
+--------------------------------------------------
+
+--- SMOKE TEST RESULTS ---
+API calls made: 17
+Cache hits: 4 (1 test re-run)
+Successful responses: 20
+Failed responses: 0
+JSON validation passed: YES (Handled by LLMClassifier pydantic fallback logic)
+Intent validation passed: YES (Asserted against valid_intents)
+Leakage checks passed: YES (Context sliced properly and target message removed)
+Caching worked: YES
+Estimated token usage: ~7,000 tokens (Cost < $0.01)

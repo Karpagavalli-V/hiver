@@ -1,0 +1,37 @@
+{
+  "62dcd0ac36c93d6b7062180ff21f2a93275e8227c64f38e013c8818e0492de0c": {
+    "intent": "RefundsAndReturns",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "a4d2be0d5e5d5371ca56fce40adf05a12c30330dbf4efcbfe999e25ebb473418": {
+    "intent": "OTHER",
+    "confidence": 0.9,
+    "reason": "No reason provided."
+  },
+  "aa214ace348cfaf2128ae2e472068f872b93eb6f64aa74a8839f1a5190d2728c": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "No reason provided."
+  },
+  "ed1dfbba46d527335fe67864c8ff03562e30dcf686127be75f515dae520b97fc": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.9,
+    "reason": "No reason provided."
+  },
+  "1c8d2a1afdc32ace8e79d8aed46f2e8f8ff881b6798809227c800a4739d2b17d": {
+    "intent": "DamagedOrDefective",
+    "confidence": 0.98,
+    "reason": "No reason provided."
+  },
+  "a656df68f2c4318e38ef639601af9e577c0ccc132b024446d56ce84545d361c1": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.85,
+    "reason": "No reason provided."
+  },
+  "549af9f4548a8e11fda54b7b6e0bd7fad5dae50f67dbbc6eaf1bd52bd6606e3b": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.85,
+    "reason": "No reason provided."
+  }
+}

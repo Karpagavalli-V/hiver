@@ -1,0 +1,46 @@
+{
+  "brand": "AmazonHelp",
+  "sample_size": 1000,
+  "candidate_intents": [
+    "DeliveryStatus",
+    "RefundsAndReturns",
+    "DamagedOrDefective",
+    "WrongItem",
+    "CourierFeedback",
+    "DigitalServices",
+    "AccountAndPayment",
+    "CustomerServiceEscalation",
+    "ProductQuestions",
+    "SellerIssues",
+    "Cancellation",
+    "OTHER"
+  ],
+  "final_intents": [
+    "DeliveryStatus",
+    "RefundsAndReturns",
+    "DamagedOrDefective",
+    "WrongItem",
+    "CourierFeedback",
+    "DigitalServices",
+    "AccountAndPayment",
+    "CustomerServiceEscalation",
+    "OTHER"
+  ],
+  "approximate_frequencies": {
+    "DeliveryStatus": "35%",
+    "RefundsAndReturns": "15%",
+    "CourierFeedback": "10%",
+    "AccountAndPayment": "10%",
+    "CustomerServiceEscalation": "10%",
+    "OTHER": "8%",
+    "DamagedOrDefective": "5%",
+    "DigitalServices": "5%",
+    "WrongItem": "2%"
+  },
+  "ambiguity_observations": "Many tweets contain overlapping intents, such as complaining about a courier AND asking for a refund. The heuristic tests showed ~9% of tweets contained keywords for multiple intents.",
+  "confusing_pairs": [
+    "DeliveryStatus vs CourierFeedback",
+    "DamagedOrDefective vs RefundsAndReturns",
+    "AccountAndPayment vs DigitalServices"
+  ]
+}

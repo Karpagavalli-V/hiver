@@ -1,0 +1,57 @@
+{
+  "fa5cffb6b842dc8906a666e343c74ea7ef6b727b2660a9c647133b3e19cc82c2": {
+    "intent": "OTHER",
+    "confidence": 0.98,
+    "reason": "No reason provided."
+  },
+  "6ec545c0ab130e9b0dfba7dbdb1c8d4c05eb13ac4ced4170d706e48088d8b6d4": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "No reason provided."
+  },
+  "7e9b4781ff42a669dd0ce00460d7b1c059d4be6884878f26b70e22cf6d4503b8": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "No reason provided."
+  },
+  "d0e67ba4fda40c656459993590574c5fd6e84f7347c8c3c5834f6ccba13a0369": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "No reason provided."
+  },
+  "bb20919bcbccd4d4e80b3c60631cb1afd3600e873dff9d5e57146b59bca695d2": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.85,
+    "reason": "No reason provided."
+  },
+  "87bb33c72cdd3c43e54fe0fe8b84f44eba873ce247ad0130a3ce4ff5948faa33": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.9,
+    "reason": "No reason provided."
+  },
+  "455b4373507e1d0ba342286764b96705c8ff092270f707d261dd6ab461488b27": {
+    "intent": "OTHER",
+    "confidence": 0.95,
+    "reason": "No reason provided."
+  },
+  "48d05ff526fcd43be34621a75de533e921809e9834482d6b08cf3a34b10e1e72": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.85,
+    "reason": "No reason provided."
+  },
+  "30455740d4053b682027b5d95c88f53f4453e608041a8b7e3c5f0acdbb234058": {
+    "intent": "OTHER",
+    "confidence": 0.9,
+    "reason": "No reason provided."
+  },
+  "71eb1a33569cc3c14bb33390018d05aa8503547b9e21e7abca2f2fe793a2c455": {
+    "intent": "DigitalServices",
+    "confidence": 0.95,
+    "reason": "No reason provided."
+  },
+  "5e079495f36cb794a8803e22e47e5e05837ebd0efabe561a16ec957df7df23ef": {
+    "intent": "DamagedOrDefective",
+    "confidence": 0.85,
+    "reason": "No reason provided."
+  }
+}

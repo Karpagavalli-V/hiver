@@ -1,0 +1,1602 @@
+[
+  {
+    "golden_id": "G-1000",
+    "tweet_id": 734076,
+    "root_id": 281324,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Mon Nov 13 08:10:14 +0000 2017"
+  },
+  {
+    "golden_id": "G-1001",
+    "tweet_id": 335701,
+    "root_id": 335697,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Sat Oct 07 21:56:43 +0000 2017"
+  },
+  {
+    "golden_id": "G-1002",
+    "tweet_id": 2593172,
+    "root_id": 2593172,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Fri Nov 17 02:15:49 +0000 2017"
+  },
+  {
+    "golden_id": "G-1003",
+    "tweet_id": 458882,
+    "root_id": 458880,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Fri Dec 01 01:53:20 +0000 2017"
+  },
+  {
+    "golden_id": "G-1004",
+    "tweet_id": 2124862,
+    "root_id": 2124862,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Wed Nov 08 18:17:56 +0000 2017"
+  },
+  {
+    "golden_id": "G-1005",
+    "tweet_id": 1955361,
+    "root_id": 1955361,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Wed Oct 18 17:06:50 +0000 2017"
+  },
+  {
+    "golden_id": "G-1006",
+    "tweet_id": 544480,
+    "root_id": 544481,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Sat Dec 02 16:36:52 +0000 2017"
+  },
+  {
+    "golden_id": "G-1007",
+    "tweet_id": 2599689,
+    "root_id": 2599693,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Fri Nov 17 06:40:50 +0000 2017"
+  },
+  {
+    "golden_id": "G-1008",
+    "tweet_id": 404077,
+    "root_id": 404077,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Mon Oct 09 20:03:17 +0000 2017"
+  },
+  {
+    "golden_id": "G-1009",
+    "tweet_id": 1499799,
+    "root_id": 1268279,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Fri Nov 03 13:35:05 +0000 2017"
+  },
+  {
+    "golden_id": "G-1010",
+    "tweet_id": 2954502,
+    "root_id": 2954503,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Wed Nov 29 20:02:23 +0000 2017"
+  },
+  {
+    "golden_id": "G-1011",
+    "tweet_id": 421198,
+    "root_id": 274032,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Wed Oct 11 07:16:11 +0000 2017"
+  },
+  {
+    "golden_id": "G-1012",
+    "tweet_id": 1777960,
+    "root_id": 1777960,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Wed Nov 08 00:31:24 +0000 2017"
+  },
+  {
+    "golden_id": "G-1013",
+    "tweet_id": 222896,
+    "root_id": 222896,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Thu Oct 05 02:54:34 +0000 2017"
+  },
+  {
+    "golden_id": "G-1014",
+    "tweet_id": 373628,
+    "root_id": 373628,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Mon Oct 09 00:12:08 +0000 2017"
+  },
+  {
+    "golden_id": "G-1015",
+    "tweet_id": 448679,
+    "root_id": 448680,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Thu Nov 30 20:54:35 +0000 2017"
+  },
+  {
+    "golden_id": "G-1016",
+    "tweet_id": 1192302,
+    "root_id": 1192298,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Wed Oct 25 09:02:37 +0000 2017"
+  },
+  {
+    "golden_id": "G-1017",
+    "tweet_id": 734643,
+    "root_id": 734639,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Wed Oct 11 15:07:07 +0000 2017"
+  },
+  {
+    "golden_id": "G-1018",
+    "tweet_id": 1291995,
+    "root_id": 1291993,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Sat Nov 25 20:47:33 +0000 2017"
+  },
+  {
+    "golden_id": "G-1019",
+    "tweet_id": 1480147,
+    "root_id": 1480154,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Fri Nov 03 09:04:26 +0000 2017"
+  },
+  {
+    "golden_id": "G-1020",
+    "tweet_id": 828323,
+    "root_id": 828319,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Fri Oct 13 03:55:26 +0000 2017"
+  },
+  {
+    "golden_id": "G-1021",
+    "tweet_id": 16851,
+    "root_id": 16882,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Fri Oct 20 19:00:17 +0000 2017"
+  },
+  {
+    "golden_id": "G-1022",
+    "tweet_id": 593451,
+    "root_id": 593373,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Sun Dec 03 18:01:03 +0000 2017"
+  },
+  {
+    "golden_id": "G-1023",
+    "tweet_id": 2424508,
+    "root_id": 274705,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Tue Nov 14 18:55:19 +0000 2017"
+  },
+  {
+    "golden_id": "G-1024",
+    "tweet_id": 1486613,
+    "root_id": 1486613,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Fri Nov 03 04:16:53 +0000 2017"
+  },
+  {
+    "golden_id": "G-1025",
+    "tweet_id": 723987,
+    "root_id": 723984,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Thu Oct 12 03:40:09 +0000 2017"
+  },
+  {
+    "golden_id": "G-1026",
+    "tweet_id": 64004,
+    "root_id": 64004,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Thu Nov 30 07:56:20 +0000 2017"
+  },
+  {
+    "golden_id": "G-1027",
+    "tweet_id": 2385491,
+    "root_id": 2385491,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Fri Oct 20 09:22:17 +0000 2017"
+  },
+  {
+    "golden_id": "G-1028",
+    "tweet_id": 810753,
+    "root_id": 810753,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Thu Oct 12 19:19:28 +0000 2017"
+  },
+  {
+    "golden_id": "G-1029",
+    "tweet_id": 2671395,
+    "root_id": 2671392,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Tue Oct 31 10:09:05 +0000 2017"
+  },
+  {
+    "golden_id": "G-1030",
+    "tweet_id": 144156,
+    "root_id": 144154,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Fri Nov 24 14:39:23 +0000 2017"
+  },
+  {
+    "golden_id": "G-1031",
+    "tweet_id": 2104911,
+    "root_id": 2104907,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Wed Nov 08 16:49:45 +0000 2017"
+  },
+  {
+    "golden_id": "G-1032",
+    "tweet_id": 1026992,
+    "root_id": 1026992,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Sun Oct 22 23:49:56 +0000 2017"
+  },
+  {
+    "golden_id": "G-1033",
+    "tweet_id": 1211721,
+    "root_id": 1211722,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Wed Oct 25 12:25:15 +0000 2017"
+  },
+  {
+    "golden_id": "G-1034",
+    "tweet_id": 1177321,
+    "root_id": 1177321,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Sat Nov 25 11:52:23 +0000 2017"
+  },
+  {
+    "golden_id": "G-1035",
+    "tweet_id": 873819,
+    "root_id": 873820,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Sun Oct 22 09:00:07 +0000 2017"
+  },
+  {
+    "golden_id": "G-1036",
+    "tweet_id": 777577,
+    "root_id": 777577,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Thu Oct 12 03:42:04 +0000 2017"
+  },
+  {
+    "golden_id": "G-1037",
+    "tweet_id": 777244,
+    "root_id": 777246,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Thu Oct 12 03:34:27 +0000 2017"
+  },
+  {
+    "golden_id": "G-1038",
+    "tweet_id": 1658723,
+    "root_id": 1658726,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Mon Nov 06 05:04:10 +0000 2017"
+  },
+  {
+    "golden_id": "G-1039",
+    "tweet_id": 250044,
+    "root_id": 250044,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Thu Oct 05 16:31:08 +0000 2017"
+  },
+  {
+    "golden_id": "G-1040",
+    "tweet_id": 2960537,
+    "root_id": 2960539,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Wed Nov 29 21:04:25 +0000 2017"
+  },
+  {
+    "golden_id": "G-1041",
+    "tweet_id": 124018,
+    "root_id": 124022,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Fri Nov 24 01:31:49 +0000 2017"
+  },
+  {
+    "golden_id": "G-1042",
+    "tweet_id": 1153694,
+    "root_id": 1153695,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Tue Oct 24 22:11:00 +0000 2017"
+  },
+  {
+    "golden_id": "G-1043",
+    "tweet_id": 349453,
+    "root_id": 349453,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Sun Oct 08 07:59:16 +0000 2017"
+  },
+  {
+    "golden_id": "G-1044",
+    "tweet_id": 961472,
+    "root_id": 961468,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Mon Oct 30 14:40:03 +0000 2017"
+  },
+  {
+    "golden_id": "G-1045",
+    "tweet_id": 234564,
+    "root_id": 234565,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Thu Oct 05 13:09:10 +0000 2017"
+  },
+  {
+    "golden_id": "G-1046",
+    "tweet_id": 937349,
+    "root_id": 937350,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Sat Oct 21 18:27:27 +0000 2017"
+  },
+  {
+    "golden_id": "G-1047",
+    "tweet_id": 1343586,
+    "root_id": 1343586,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Fri Oct 27 13:35:43 +0000 2017"
+  },
+  {
+    "golden_id": "G-1048",
+    "tweet_id": 963283,
+    "root_id": 963279,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Sat Oct 14 04:20:01 +0000 2017"
+  },
+  {
+    "golden_id": "G-1049",
+    "tweet_id": 1464309,
+    "root_id": 1464309,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Thu Nov 02 19:03:35 +0000 2017"
+  },
+  {
+    "golden_id": "G-1050",
+    "tweet_id": 919434,
+    "root_id": 919457,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Sat Oct 21 18:07:26 +0000 2017"
+  },
+  {
+    "golden_id": "G-1051",
+    "tweet_id": 1123660,
+    "root_id": 1123660,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Sun Oct 15 13:35:42 +0000 2017"
+  },
+  {
+    "golden_id": "G-1052",
+    "tweet_id": 1381495,
+    "root_id": 1381496,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Sat Oct 28 06:00:30 +0000 2017"
+  },
+  {
+    "golden_id": "G-1053",
+    "tweet_id": 2318840,
+    "root_id": 2318846,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Mon Nov 13 16:00:35 +0000 2017"
+  },
+  {
+    "golden_id": "G-1054",
+    "tweet_id": 2798350,
+    "root_id": 2798350,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Tue Nov 21 22:59:46 +0000 2017"
+  },
+  {
+    "golden_id": "G-1055",
+    "tweet_id": 2889298,
+    "root_id": 2889300,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Tue Nov 28 13:27:29 +0000 2017"
+  },
+  {
+    "golden_id": "G-1056",
+    "tweet_id": 2104994,
+    "root_id": 2104994,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Wed Nov 08 12:47:38 +0000 2017"
+  },
+  {
+    "golden_id": "G-1057",
+    "tweet_id": 464255,
+    "root_id": 464257,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Fri Dec 01 03:34:36 +0000 2017"
+  },
+  {
+    "golden_id": "G-1058",
+    "tweet_id": 2434941,
+    "root_id": 2434945,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Sun Nov 19 19:44:34 +0000 2017"
+  },
+  {
+    "golden_id": "G-1059",
+    "tweet_id": 735028,
+    "root_id": 735026,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Sat Nov 25 08:50:43 +0000 2017"
+  },
+  {
+    "golden_id": "G-1060",
+    "tweet_id": 1676656,
+    "root_id": 1676656,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Tue Oct 17 15:58:17 +0000 2017"
+  },
+  {
+    "golden_id": "G-1061",
+    "tweet_id": 844080,
+    "root_id": 844080,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Sun Oct 15 15:12:34 +0000 2017"
+  },
+  {
+    "golden_id": "G-1062",
+    "tweet_id": 182590,
+    "root_id": 182590,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Wed Oct 04 17:21:38 +0000 2017"
+  },
+  {
+    "golden_id": "G-1063",
+    "tweet_id": 353633,
+    "root_id": 353625,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Sun Oct 08 15:30:24 +0000 2017"
+  },
+  {
+    "golden_id": "G-1064",
+    "tweet_id": 585827,
+    "root_id": 585828,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Sun Dec 03 14:33:15 +0000 2017"
+  },
+  {
+    "golden_id": "G-1065",
+    "tweet_id": 232869,
+    "root_id": 232866,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Fri Oct 06 09:00:57 +0000 2017"
+  },
+  {
+    "golden_id": "G-1066",
+    "tweet_id": 347930,
+    "root_id": 347927,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Sun Oct 08 06:24:20 +0000 2017"
+  },
+  {
+    "golden_id": "G-1067",
+    "tweet_id": 2624489,
+    "root_id": 2624489,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Mon Oct 30 22:50:25 +0000 2017"
+  },
+  {
+    "golden_id": "G-1068",
+    "tweet_id": 2375384,
+    "root_id": 2375383,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Tue Nov 14 09:11:28 +0000 2017"
+  },
+  {
+    "golden_id": "G-1069",
+    "tweet_id": 2681989,
+    "root_id": 2681989,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Sat Nov 25 23:24:57 +0000 2017"
+  },
+  {
+    "golden_id": "G-1070",
+    "tweet_id": 483078,
+    "root_id": 446848,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Fri Dec 01 15:20:09 +0000 2017"
+  },
+  {
+    "golden_id": "G-1071",
+    "tweet_id": 357342,
+    "root_id": 357342,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Sun Oct 08 13:54:38 +0000 2017"
+  },
+  {
+    "golden_id": "G-1072",
+    "tweet_id": 2141395,
+    "root_id": 2141395,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Wed Nov 08 21:43:53 +0000 2017"
+  },
+  {
+    "golden_id": "G-1073",
+    "tweet_id": 2356738,
+    "root_id": 2356741,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Mon Nov 13 21:06:48 +0000 2017"
+  },
+  {
+    "golden_id": "G-1074",
+    "tweet_id": 199651,
+    "root_id": 199651,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Wed Oct 04 19:57:56 +0000 2017"
+  },
+  {
+    "golden_id": "G-1075",
+    "tweet_id": 1777828,
+    "root_id": 1777823,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Sun Oct 29 01:35:16 +0000 2017"
+  },
+  {
+    "golden_id": "G-1076",
+    "tweet_id": 930346,
+    "root_id": 930345,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Tue Nov 21 18:26:48 +0000 2017"
+  },
+  {
+    "golden_id": "G-1077",
+    "tweet_id": 301531,
+    "root_id": 301531,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Fri Oct 06 20:38:53 +0000 2017"
+  },
+  {
+    "golden_id": "G-1078",
+    "tweet_id": 330905,
+    "root_id": 330906,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Sat Oct 07 18:13:45 +0000 2017"
+  },
+  {
+    "golden_id": "G-1079",
+    "tweet_id": 1226526,
+    "root_id": 1226535,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Wed Oct 25 19:37:39 +0000 2017"
+  },
+  {
+    "golden_id": "G-1080",
+    "tweet_id": 1729616,
+    "root_id": 1729607,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Tue Nov 07 11:55:58 +0000 2017"
+  },
+  {
+    "golden_id": "G-1081",
+    "tweet_id": 1398410,
+    "root_id": 1398410,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Mon Oct 16 15:45:24 +0000 2017"
+  },
+  {
+    "golden_id": "G-1082",
+    "tweet_id": 1411597,
+    "root_id": 1411597,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Thu Nov 02 00:58:40 +0000 2017"
+  },
+  {
+    "golden_id": "G-1083",
+    "tweet_id": 2870607,
+    "root_id": 2870607,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Tue Nov 28 02:24:09 +0000 2017"
+  },
+  {
+    "golden_id": "G-1084",
+    "tweet_id": 121982,
+    "root_id": 121982,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Fri Nov 24 00:06:36 +0000 2017"
+  },
+  {
+    "golden_id": "G-1085",
+    "tweet_id": 198689,
+    "root_id": 198689,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Wed Oct 04 18:04:30 +0000 2017"
+  },
+  {
+    "golden_id": "G-1086",
+    "tweet_id": 1315879,
+    "root_id": 1315879,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Mon Oct 16 10:47:31 +0000 2017"
+  },
+  {
+    "golden_id": "G-1087",
+    "tweet_id": 1892141,
+    "root_id": 1892143,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Wed Nov 15 00:44:19 +0000 2017"
+  },
+  {
+    "golden_id": "G-1088",
+    "tweet_id": 1411584,
+    "root_id": 1411584,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Thu Nov 02 01:01:51 +0000 2017"
+  },
+  {
+    "golden_id": "G-1089",
+    "tweet_id": 2472416,
+    "root_id": 2472417,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Fri Nov 17 02:23:06 +0000 2017"
+  },
+  {
+    "golden_id": "G-1090",
+    "tweet_id": 2825579,
+    "root_id": 2825579,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Mon Nov 27 09:48:54 +0000 2017"
+  },
+  {
+    "golden_id": "G-1091",
+    "tweet_id": 2571341,
+    "root_id": 2571341,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Mon Oct 30 17:26:01 +0000 2017"
+  },
+  {
+    "golden_id": "G-1092",
+    "tweet_id": 2424557,
+    "root_id": 2424557,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Tue Nov 14 18:38:13 +0000 2017"
+  },
+  {
+    "golden_id": "G-1093",
+    "tweet_id": 280208,
+    "root_id": 280208,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Fri Oct 06 08:05:41 +0000 2017"
+  },
+  {
+    "golden_id": "G-1094",
+    "tweet_id": 1729675,
+    "root_id": 1729680,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Tue Nov 07 11:25:00 +0000 2017"
+  },
+  {
+    "golden_id": "G-1095",
+    "tweet_id": 239753,
+    "root_id": 179225,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Thu Oct 12 08:57:03 +0000 2017"
+  },
+  {
+    "golden_id": "G-1096",
+    "tweet_id": 2398286,
+    "root_id": 2398286,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Tue Nov 14 13:07:31 +0000 2017"
+  },
+  {
+    "golden_id": "G-1097",
+    "tweet_id": 2151030,
+    "root_id": 2151028,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Thu Nov 09 02:13:40 +0000 2017"
+  },
+  {
+    "golden_id": "G-1098",
+    "tweet_id": 1261127,
+    "root_id": 1261127,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Thu Oct 26 15:10:48 +0000 2017"
+  },
+  {
+    "golden_id": "G-1099",
+    "tweet_id": 219514,
+    "root_id": 219515,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Thu Oct 05 02:52:44 +0000 2017"
+  },
+  {
+    "golden_id": "G-1100",
+    "tweet_id": 1515328,
+    "root_id": 1515321,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Sat Nov 04 15:11:23 +0000 2017"
+  },
+  {
+    "golden_id": "G-1101",
+    "tweet_id": 1444412,
+    "root_id": 1444413,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Thu Nov 02 14:51:41 +0000 2017"
+  },
+  {
+    "golden_id": "G-1102",
+    "tweet_id": 2766400,
+    "root_id": 2766402,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Tue Nov 21 09:54:45 +0000 2017"
+  },
+  {
+    "golden_id": "G-1103",
+    "tweet_id": 173480,
+    "root_id": 173480,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Fri Nov 24 22:46:55 +0000 2017"
+  },
+  {
+    "golden_id": "G-1104",
+    "tweet_id": 273824,
+    "root_id": 273840,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Fri Oct 06 04:52:17 +0000 2017"
+  },
+  {
+    "golden_id": "G-1105",
+    "tweet_id": 1633324,
+    "root_id": 1633324,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Tue Oct 17 12:41:22 +0000 2017"
+  },
+  {
+    "golden_id": "G-1106",
+    "tweet_id": 1590610,
+    "root_id": 1590599,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Sun Nov 05 18:02:57 +0000 2017"
+  },
+  {
+    "golden_id": "G-1107",
+    "tweet_id": 523431,
+    "root_id": 523431,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Sat Dec 02 04:42:42 +0000 2017"
+  },
+  {
+    "golden_id": "G-1108",
+    "tweet_id": 565840,
+    "root_id": 565840,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Sun Dec 03 00:54:44 +0000 2017"
+  },
+  {
+    "golden_id": "G-1109",
+    "tweet_id": 67448,
+    "root_id": 67448,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Thu Nov 30 08:50:07 +0000 2017"
+  },
+  {
+    "golden_id": "G-1110",
+    "tweet_id": 2814536,
+    "root_id": 2814537,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Mon Nov 27 22:57:45 +0000 2017"
+  },
+  {
+    "golden_id": "G-1111",
+    "tweet_id": 1178913,
+    "root_id": 1178913,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Tue Oct 24 20:57:41 +0000 2017"
+  },
+  {
+    "golden_id": "G-1112",
+    "tweet_id": 2162439,
+    "root_id": 2162447,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Thu Oct 19 11:35:25 +0000 2017"
+  },
+  {
+    "golden_id": "G-1113",
+    "tweet_id": 448232,
+    "root_id": 448237,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Thu Nov 30 22:29:01 +0000 2017"
+  },
+  {
+    "golden_id": "G-1114",
+    "tweet_id": 930324,
+    "root_id": 930324,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Mon Nov 20 20:25:40 +0000 2017"
+  },
+  {
+    "golden_id": "G-1115",
+    "tweet_id": 1333563,
+    "root_id": 1333558,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Fri Oct 27 14:14:46 +0000 2017"
+  },
+  {
+    "golden_id": "G-1116",
+    "tweet_id": 764195,
+    "root_id": 764197,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Thu Oct 12 08:56:23 +0000 2017"
+  },
+  {
+    "golden_id": "G-1117",
+    "tweet_id": 969884,
+    "root_id": 969865,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Sun Oct 22 10:00:12 +0000 2017"
+  },
+  {
+    "golden_id": "G-1118",
+    "tweet_id": 821715,
+    "root_id": 821723,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Thu Oct 12 22:47:18 +0000 2017"
+  },
+  {
+    "golden_id": "G-1119",
+    "tweet_id": 524945,
+    "root_id": 524945,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Sat Dec 02 05:00:44 +0000 2017"
+  },
+  {
+    "golden_id": "G-1120",
+    "tweet_id": 142113,
+    "root_id": 142114,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Fri Nov 24 13:09:32 +0000 2017"
+  },
+  {
+    "golden_id": "G-1121",
+    "tweet_id": 2979570,
+    "root_id": 2979570,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Thu Nov 30 04:06:40 +0000 2017"
+  },
+  {
+    "golden_id": "G-1122",
+    "tweet_id": 929199,
+    "root_id": 929200,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Sat Oct 21 15:37:00 +0000 2017"
+  },
+  {
+    "golden_id": "G-1123",
+    "tweet_id": 2959927,
+    "root_id": 2959928,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Wed Nov 29 20:37:02 +0000 2017"
+  },
+  {
+    "golden_id": "G-1124",
+    "tweet_id": 1637885,
+    "root_id": 1637886,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Mon Nov 06 00:34:57 +0000 2017"
+  },
+  {
+    "golden_id": "G-1125",
+    "tweet_id": 2179744,
+    "root_id": 2179745,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Sun Oct 29 04:31:01 +0000 2017"
+  },
+  {
+    "golden_id": "G-1126",
+    "tweet_id": 1426168,
+    "root_id": 1426165,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Fri Nov 03 00:55:12 +0000 2017"
+  },
+  {
+    "golden_id": "G-1127",
+    "tweet_id": 469373,
+    "root_id": 469373,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Fri Dec 01 07:03:33 +0000 2017"
+  },
+  {
+    "golden_id": "G-1128",
+    "tweet_id": 1706568,
+    "root_id": 1706570,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Tue Oct 17 18:05:17 +0000 2017"
+  },
+  {
+    "golden_id": "G-1129",
+    "tweet_id": 1296546,
+    "root_id": 1296544,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Mon Oct 16 10:29:39 +0000 2017"
+  },
+  {
+    "golden_id": "G-1130",
+    "tweet_id": 559238,
+    "root_id": 559239,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Sat Dec 02 22:22:55 +0000 2017"
+  },
+  {
+    "golden_id": "G-1131",
+    "tweet_id": 850185,
+    "root_id": 850184,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Mon Oct 16 09:31:50 +0000 2017"
+  },
+  {
+    "golden_id": "G-1132",
+    "tweet_id": 130783,
+    "root_id": 130783,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Fri Nov 24 07:00:17 +0000 2017"
+  },
+  {
+    "golden_id": "G-1133",
+    "tweet_id": 2319006,
+    "root_id": 2319008,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Mon Nov 13 12:06:18 +0000 2017"
+  },
+  {
+    "golden_id": "G-1134",
+    "tweet_id": 757682,
+    "root_id": 757679,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Wed Oct 11 21:37:53 +0000 2017"
+  },
+  {
+    "golden_id": "G-1135",
+    "tweet_id": 2536348,
+    "root_id": 2536349,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Thu Nov 16 09:04:47 +0000 2017"
+  },
+  {
+    "golden_id": "G-1136",
+    "tweet_id": 379444,
+    "root_id": 379444,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Mon Oct 09 05:32:21 +0000 2017"
+  },
+  {
+    "golden_id": "G-1137",
+    "tweet_id": 2903643,
+    "root_id": 2902564,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Tue Nov 28 19:00:02 +0000 2017"
+  },
+  {
+    "golden_id": "G-1138",
+    "tweet_id": 2319289,
+    "root_id": 2319289,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Sun Nov 12 00:06:56 +0000 2017"
+  },
+  {
+    "golden_id": "G-1139",
+    "tweet_id": 2319571,
+    "root_id": 2319571,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Mon Nov 13 12:23:26 +0000 2017"
+  },
+  {
+    "golden_id": "G-1140",
+    "tweet_id": 206205,
+    "root_id": 206211,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Mon Nov 06 11:20:51 +0000 2017"
+  },
+  {
+    "golden_id": "G-1141",
+    "tweet_id": 21059,
+    "root_id": 21045,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Thu Nov 02 20:52:05 +0000 2017"
+  },
+  {
+    "golden_id": "G-1142",
+    "tweet_id": 2547081,
+    "root_id": 2547081,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Thu Nov 16 14:08:52 +0000 2017"
+  },
+  {
+    "golden_id": "G-1143",
+    "tweet_id": 740424,
+    "root_id": 740424,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Wed Oct 11 13:21:15 +0000 2017"
+  },
+  {
+    "golden_id": "G-1144",
+    "tweet_id": 1110845,
+    "root_id": 1110837,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Mon Oct 16 13:43:41 +0000 2017"
+  },
+  {
+    "golden_id": "G-1145",
+    "tweet_id": 543842,
+    "root_id": 543832,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Sat Dec 02 19:49:28 +0000 2017"
+  },
+  {
+    "golden_id": "G-1146",
+    "tweet_id": 697983,
+    "root_id": 697978,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Tue Oct 10 19:33:59 +0000 2017"
+  },
+  {
+    "golden_id": "G-1147",
+    "tweet_id": 734099,
+    "root_id": 281324,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Tue Nov 28 09:48:36 +0000 2017"
+  },
+  {
+    "golden_id": "G-1148",
+    "tweet_id": 1202802,
+    "root_id": 1202802,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Wed Oct 25 11:32:15 +0000 2017"
+  },
+  {
+    "golden_id": "G-1149",
+    "tweet_id": 803942,
+    "root_id": 803942,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Thu Oct 12 17:12:02 +0000 2017"
+  },
+  {
+    "golden_id": "G-1150",
+    "tweet_id": 1298989,
+    "root_id": 1298987,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Thu Oct 26 23:33:30 +0000 2017"
+  },
+  {
+    "golden_id": "G-1151",
+    "tweet_id": 2431240,
+    "root_id": 2431240,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Tue Nov 14 20:03:47 +0000 2017"
+  },
+  {
+    "golden_id": "G-1152",
+    "tweet_id": 617056,
+    "root_id": 617056,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Wed Nov 22 13:10:19 +0000 2017"
+  },
+  {
+    "golden_id": "G-1153",
+    "tweet_id": 1655177,
+    "root_id": 1655168,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Tue Oct 17 14:37:49 +0000 2017"
+  },
+  {
+    "golden_id": "G-1154",
+    "tweet_id": 1662613,
+    "root_id": 1662614,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Mon Nov 06 09:46:09 +0000 2017"
+  },
+  {
+    "golden_id": "G-1155",
+    "tweet_id": 584641,
+    "root_id": 584641,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Sun Dec 03 14:03:00 +0000 2017"
+  },
+  {
+    "golden_id": "G-1156",
+    "tweet_id": 474282,
+    "root_id": 474282,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Fri Dec 01 10:13:34 +0000 2017"
+  },
+  {
+    "golden_id": "G-1157",
+    "tweet_id": 864769,
+    "root_id": 864769,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Mon Oct 09 18:09:26 +0000 2017"
+  },
+  {
+    "golden_id": "G-1158",
+    "tweet_id": 1811319,
+    "root_id": 1811321,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Wed Oct 18 02:23:37 +0000 2017"
+  },
+  {
+    "golden_id": "G-1159",
+    "tweet_id": 206101,
+    "root_id": 206104,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Mon Nov 06 12:58:56 +0000 2017"
+  },
+  {
+    "golden_id": "G-1160",
+    "tweet_id": 2280804,
+    "root_id": 2280805,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Sat Nov 11 20:50:11 +0000 2017"
+  },
+  {
+    "golden_id": "G-1161",
+    "tweet_id": 446831,
+    "root_id": 446831,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Thu Nov 30 19:22:53 +0000 2017"
+  },
+  {
+    "golden_id": "G-1162",
+    "tweet_id": 1168518,
+    "root_id": 1168518,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Sun Oct 15 19:49:00 +0000 2017"
+  },
+  {
+    "golden_id": "G-1163",
+    "tweet_id": 2704933,
+    "root_id": 2704934,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Sun Nov 19 22:59:30 +0000 2017"
+  },
+  {
+    "golden_id": "G-1164",
+    "tweet_id": 2825518,
+    "root_id": 2825518,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Mon Nov 27 10:06:39 +0000 2017"
+  },
+  {
+    "golden_id": "G-1165",
+    "tweet_id": 1065722,
+    "root_id": 1065722,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Mon Oct 23 14:19:09 +0000 2017"
+  },
+  {
+    "golden_id": "G-1166",
+    "tweet_id": 2240696,
+    "root_id": 2240696,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Fri Nov 10 15:29:09 +0000 2017"
+  },
+  {
+    "golden_id": "G-1167",
+    "tweet_id": 86089,
+    "root_id": 86089,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Thu Nov 30 14:18:05 +0000 2017"
+  },
+  {
+    "golden_id": "G-1168",
+    "tweet_id": 2033230,
+    "root_id": 2033228,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Wed Nov 08 08:47:01 +0000 2017"
+  },
+  {
+    "golden_id": "G-1169",
+    "tweet_id": 1830584,
+    "root_id": 1830584,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Wed Oct 18 03:47:24 +0000 2017"
+  },
+  {
+    "golden_id": "G-1170",
+    "tweet_id": 377727,
+    "root_id": 377727,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Mon Oct 09 03:15:08 +0000 2017"
+  },
+  {
+    "golden_id": "G-1171",
+    "tweet_id": 2893081,
+    "root_id": 2893082,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Tue Nov 28 15:44:34 +0000 2017"
+  },
+  {
+    "golden_id": "G-1172",
+    "tweet_id": 1240481,
+    "root_id": 1240465,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Mon Nov 13 09:19:58 +0000 2017"
+  },
+  {
+    "golden_id": "G-1173",
+    "tweet_id": 1164594,
+    "root_id": 1164596,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Tue Oct 24 21:45:45 +0000 2017"
+  },
+  {
+    "golden_id": "G-1174",
+    "tweet_id": 2317146,
+    "root_id": 2317146,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Mon Nov 13 07:25:40 +0000 2017"
+  },
+  {
+    "golden_id": "G-1175",
+    "tweet_id": 2677886,
+    "root_id": 2677886,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Tue Oct 31 14:08:05 +0000 2017"
+  },
+  {
+    "golden_id": "G-1176",
+    "tweet_id": 868054,
+    "root_id": 868054,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Fri Oct 13 15:14:43 +0000 2017"
+  },
+  {
+    "golden_id": "G-1177",
+    "tweet_id": 481522,
+    "root_id": 481516,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CustomerServiceEscalation",
+    "created_at": "Fri Dec 01 16:14:22 +0000 2017"
+  },
+  {
+    "golden_id": "G-1178",
+    "tweet_id": 1247740,
+    "root_id": 1247741,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "CourierFeedback",
+    "created_at": "Thu Oct 26 01:52:36 +0000 2017"
+  },
+  {
+    "golden_id": "G-1179",
+    "tweet_id": 517590,
+    "root_id": 517590,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Sat Dec 02 01:47:35 +0000 2017"
+  },
+  {
+    "golden_id": "G-1180",
+    "tweet_id": 455453,
+    "root_id": 455458,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Thu Nov 30 23:49:20 +0000 2017"
+  },
+  {
+    "golden_id": "G-1181",
+    "tweet_id": 1741067,
+    "root_id": 1741067,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DigitalServices",
+    "created_at": "Tue Nov 07 16:54:26 +0000 2017"
+  },
+  {
+    "golden_id": "G-1182",
+    "tweet_id": 1625480,
+    "root_id": 1625480,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Sun Nov 05 18:04:44 +0000 2017"
+  },
+  {
+    "golden_id": "G-1183",
+    "tweet_id": 1333569,
+    "root_id": 1333558,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Fri Oct 27 14:38:23 +0000 2017"
+  },
+  {
+    "golden_id": "G-1184",
+    "tweet_id": 1098710,
+    "root_id": 1098710,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "AccountAndPayment",
+    "created_at": "Sun Oct 15 05:52:19 +0000 2017"
+  },
+  {
+    "golden_id": "G-1185",
+    "tweet_id": 579093,
+    "root_id": 579095,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Sun Dec 03 10:50:32 +0000 2017"
+  },
+  {
+    "golden_id": "G-1186",
+    "tweet_id": 324166,
+    "root_id": 324164,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Sat Oct 07 15:28:27 +0000 2017"
+  },
+  {
+    "golden_id": "G-1187",
+    "tweet_id": 1368153,
+    "root_id": 1368154,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Fri Oct 27 22:37:04 +0000 2017"
+  },
+  {
+    "golden_id": "G-1188",
+    "tweet_id": 2526207,
+    "root_id": 2526211,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Thu Nov 16 04:02:57 +0000 2017"
+  },
+  {
+    "golden_id": "G-1189",
+    "tweet_id": 2456063,
+    "root_id": 2456063,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Wed Nov 15 04:11:42 +0000 2017"
+  },
+  {
+    "golden_id": "G-1190",
+    "tweet_id": 105216,
+    "root_id": 105216,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DamagedOrDefective",
+    "created_at": "Thu Nov 30 18:23:17 +0000 2017"
+  },
+  {
+    "golden_id": "G-1191",
+    "tweet_id": 587902,
+    "root_id": 587903,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Sun Dec 03 16:19:20 +0000 2017"
+  },
+  {
+    "golden_id": "G-1192",
+    "tweet_id": 578379,
+    "root_id": 578382,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Sun Dec 03 10:23:04 +0000 2017"
+  },
+  {
+    "golden_id": "G-1193",
+    "tweet_id": 2483988,
+    "root_id": 2483998,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Wed Nov 15 15:38:20 +0000 2017"
+  },
+  {
+    "golden_id": "G-1194",
+    "tweet_id": 1245830,
+    "root_id": 1245830,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "DeliveryStatus",
+    "created_at": "Mon Oct 16 02:53:05 +0000 2017"
+  },
+  {
+    "golden_id": "G-1195",
+    "tweet_id": 1688586,
+    "root_id": 1688590,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Mon Nov 06 20:29:10 +0000 2017"
+  },
+  {
+    "golden_id": "G-1196",
+    "tweet_id": 2841919,
+    "root_id": 2841915,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "OTHER",
+    "created_at": "Mon Nov 27 18:42:00 +0000 2017"
+  },
+  {
+    "golden_id": "G-1197",
+    "tweet_id": 1508621,
+    "root_id": 1508621,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Fri Nov 03 14:08:07 +0000 2017"
+  },
+  {
+    "golden_id": "G-1198",
+    "tweet_id": 180981,
+    "root_id": 180981,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "WrongItem",
+    "created_at": "Wed Sep 27 14:25:11 +0000 2017"
+  },
+  {
+    "golden_id": "G-1199",
+    "tweet_id": 1380927,
+    "root_id": 1380927,
+    "source_split": "INTERNAL_TEST",
+    "weak_label": "RefundsAndReturns",
+    "created_at": "Sat Oct 28 05:29:51 +0000 2017"
+  }
+]

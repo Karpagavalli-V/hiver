@@ -1,0 +1,72 @@
+{
+  "3dad94c23458f9aa7c9e5ab3914b4241fb8f2cf3e8dd14247d1b008386d87fd3": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply directly addresses the refund issue using verified response templates from historical evidence, maintaining a polite and safe tone, though it repeats a link previously provided in the conversation."
+  },
+  "28401506f1e8ee88499935c298c89b747787c919a617f3c4606f3cbfa2584417": {
+    "relevance": 2,
+    "groundedness": 3,
+    "helpfulness": 1,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 3.2,
+    "pass": true,
+    "rationale": "The reply is polite and safe, but it completely fails to help the customer after twice requesting the product link to investigate an issue with a lightning deal."
+  },
+  "ce3585426263b198636b5b8aa378a1117b0b56938823130bfcdb9d12677421dc": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 5.0,
+    "pass": true,
+    "rationale": "The reply directly and accurately answers the customer's question on how to submit feedback, leveraging the evidence provided in a polite and helpful tone."
+  },
+  "219d7a7301daf3ee05352cd44c635d398760711e3c8fefd5e5e5379b2654267e": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply maintains an empathetic tone and offers a logical next step with a link, closely aligning with historical evidence strategies, though it could have directly acknowledged the carrier specified by the customer."
+  },
+  "920fb2c1f986e3e9bae9f9045031a7fd2b57eefef80ebc2a90e3d0565a7cb36e": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 5.0,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue with empathy, offers a clear resolution link grounded in historical responses, and maintains an appropriate tone."
+  },
+  "f819a4fca851300ca410172f7ba545fb4dcacbab1b1d33c1dfbcba6c7a158437": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The response matches proven historical templates, maintains a professional tone, and safely asks for necessary details while reminding the customer not to post sensitive account information."
+  },
+  "4ba684245d824818a374140f327c5c08e785ae141b9be36cdf2c5ac9f140d405": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.8,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the customer's frustration regarding the refund process. It is somewhat grounded in historical evidence, as similar responses have been made in the past, but it lacks specific context about the customer's situation. The tone is professional, and the response avoids any unsupported claims, making it safe."
+  }
+}

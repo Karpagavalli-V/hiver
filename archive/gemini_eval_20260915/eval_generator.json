@@ -1,0 +1,58 @@
+{
+  "4161492afa29e2fe7ef20e5fb59aa3a5a1ba08b8500b396d5df3197e7bcd8968": {
+    "reply": "@AmazonHelp I'm sorry to hear about your frustration. Have you had a chance to speak with a manager regarding your refund? ^JJ",
+    "grounding_summary": "This response is based on a similar historical case where a customer expressed frustration about a refund and was advised to speak with a manager.",
+    "evidence_used": [
+      2662720.0
+    ],
+    "confidence": 0.9,
+    "warnings": []
+  },
+  "b642b8c4275d85284a838babbf879c752b30942a9b5c4ec327270a03155b885e": {
+    "reply": "You're most welcome! Thanks for sharing the link with us. Let us know if you need any further assistance.",
+    "grounding_summary": "Acknowledged the customer's thanks and receipt of the requested product link based on similar customer interactions.",
+    "evidence_used": [
+      29969.0,
+      2548118.0
+    ],
+    "confidence": 0.85,
+    "warnings": []
+  },
+  "c77559f113e824e09076ce0bef3956d69dd710b116156da196d3af14db0c0244": {
+    "reply": "At the bottom of the follow-up email you received, you'll see 'Did I resolve your issue?' which will provide options to leave feedback for your interaction.",
+    "grounding_summary": "Informed customer to check the bottom of their follow-up email for the feedback option based on historical response 965182.0.",
+    "evidence_used": [
+      965182.0
+    ],
+    "confidence": 0.85,
+    "warnings": []
+  },
+  "fa5cfee44228c193f8fee7c2da6dc08b9b0d3ae5982d879dbc1b6681427a7880": {
+    "reply": "I'm sorry to hear about the issue with your packages! What is the most recent tracking information available for your orders? You can check here: https://t.co/hApLpMlfHN",
+    "grounding_summary": "Asked the customer for the most recent tracking information based on historical responses to delayed package inquiries.",
+    "evidence_used": [
+      2434979.0,
+      2436381.0
+    ],
+    "confidence": 0.85,
+    "warnings": []
+  },
+  "e9891d6e6a4425280787204d001089441bc6e64d8856bc6097281ff239be410c": {
+    "reply": "Oh no! We are so sorry for the damaged books you received. Please allow us to assist you with this: https://t.co/JzP7hlA23B",
+    "grounding_summary": "Apologized for damaged items and provided a link for the customer to get support as shown in Example 3 (Root ID 490567.0).",
+    "evidence_used": [
+      490567.0
+    ],
+    "confidence": 0.9,
+    "warnings": []
+  },
+  "09bacdcfbf03b1b5a4a0b9c665f3924ee10034beefdddf398c417273b8f27adc": {
+    "reply": "Could you provide us with a few details about the issue without posting account info? We'd like to help in any way we can.",
+    "grounding_summary": "Based on Example 2 (Root ID: 1447208.0), when a customer escalates poor service regarding a specific order/issue, AmazonHelp offers support by asking for more details without sharing account information.",
+    "evidence_used": [
+      1447208.0
+    ],
+    "confidence": 0.85,
+    "warnings": []
+  }
+}

@@ -1,0 +1,12 @@
+with open('reports/decision_log.md', 'a', encoding='utf-8') as f:
+    f.write('\n## Taxonomy Audit\n')
+    f.write('### What was tested\n')
+    f.write('A manual audit was conducted on targeted samples from the exploration set and a blind manual review of 50 samples (extrapolated to 200) from the validation set. Boundary testing was performed across overlapping intents.\n')
+    f.write('\n### What changed\n')
+    f.write('The `OTHER` intent was updated. Previously, it included a blanket rule for non-English text. Manual review revealed that many non-English tweets have clear, actionable support intents (e.g., DeliveryStatus, DigitalServices). The definition of `OTHER` was revised to specify that non-English messages should NOT be placed in `OTHER` if their underlying intent is clear. It was also updated to explicitly include conversational fragments (e.g., "Ok", "Done").\n')
+    f.write('\n### What was intentionally not changed\n')
+    f.write('1. **RefundsAndReturns**: Return requests, refund status, and cancellations were kept as a single intent because the customer goal (reversing a transaction) and the resulting support workflow are nearly identical.\n')
+    f.write('2. **AccountAndPayment**: Payment failures, Prime charges, and account hacks were kept together as they all necessitate escalation to secure Account Specialists.\n')
+    f.write('3. **DigitalServices**: Prime Video, Kindle, and Amazon Music were kept together as they all require technical troubleshooting workflows, rather than physical fulfillment.\n')
+    f.write('\n### Limitations\n')
+    f.write('The primary limitation discovered during the audit is the high volume of conversational fragments (e.g., "Done", "Thanks", "I sent the email"). Because of Twitter\\'s threading format, these isolated messages lack context and will be classified as `OUT_OF_SCOPE` or `OTHER`. When building the classifier, we must define whether it should classify single messages in isolation, or if it should be given the full conversation history to determine the intent.\n')

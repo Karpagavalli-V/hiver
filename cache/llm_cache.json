@@ -1,0 +1,902 @@
+{
+  "7602ebdc9d62855436824ac1784a15bda78595ccd0df4e8b0453bb70c803e5b6": {
+    "intent": "DamagedOrDefective",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "c61159716b3fa91091b3e8741f6c0979fd514c82f2faeff2e750d65b125dcb70": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "62d273341877dad33e8d70d3acb12619c88b4b5c738892e5643cfc0176410b10": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "2e5cef3fedec67d842cf745d80e3d36c9749f013b28bf1379c286f8df5052124": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "9ba3b6a6d7894af70d1a72703c5f39c95a631d177d83072c7e3aa02809ad0727": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "322aa50e4c259d89ef7832bdca6ec97b89b20831d2763b2405a4646408eb05ff": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "426e16f9817999d6c653564968f16e79d6d24d2df278053cdb18a00164a90184": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "422cbae06b6b6efc7627efbf2a64bffaba8238bd8ba56ff1ad565caa0d49963d": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "4d7c93376bd2b01ad634073c1a147d3944da18035d8e8bb45c8b70d799c7c325": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "12e6dc32a476b1631a1edfd24b6b59c112826537b76b0acfc36561864db0ab23": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "671e973749001ae16b1ac9e6bf0511fba74f3feec59669e31f96e161fd11b832": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "34606c169b023f188caddd74da2f8773627c4076af68a9d04102018bed53339c": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "7713f1c09de4f00f926499332aea212648acc22639ac8c3537d7fd7b431f1c26": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "a422ac71a3b13f8587ba097412ebd5971df06982c9d93f72244377076c72fcec": {
+    "intent": "DamagedOrDefective",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "476ba9152aa2726eb15985093f131f1bc424723a8b9c84c4950dbc2b9d6740e0": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "ed26078ab3a3db465ed6c19ce9e928188585cde000a0e704536fc5ca426c7389": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "3c61538cd22a6799159610654dc9c7be3be05665d07bca2ed850b1360ed79638": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "985a778b490f8bb75056b38df6ae320b8c612310644abfa36ff6947b71d6c7ff": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "bc5fe168169419b430b5095cce7a01c0debdbf4917f81737637ae16e2ce6a34d": {
+    "intent": "DamagedOrDefective",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "a170838dfb03bafeba91cfc11f800f9f0a100a87d063ee7c3bc3fb0d9449834c": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "d6db8819f92b1c537fc1c06d89a5df2e44ff9abea94bc1461d352d1b1784d45b": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "4bc8d37984e0da2890acb40078917f5a567273ce0d4bd45ae7d23ab63033920a": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "c9ca7e2dae6020f526596bb76373d7265cc38b12a180ee9e82da03f4b70d5be0": {
+    "intent": "DigitalServices",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "298b437d78194a0dc9bde190d95c74db1220a1597c8e9b60eeddc70c30494cd9": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "0c1d976faf84918d2e048574ef5f77fe1f70d65c99ddc685df6c11e9349aaf6a": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "e398c8cd49a97f4bbba41e9cf40a09e975f5cd6d9aed00e1be84d776fafe7b3e": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "161bced0e2cc2f3391a872dc20ff41fe5f7f4b4b6cec56922dcbd5392118234b": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "01e5d88437490cee86252e5dece50a8abc2fe1c0ad5e5cf2b8758bfcd0343600": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "e6a1d355dfcf05a2c707eca78cfc418c85af5f8dde455e4c65a73a3f91667a6a": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "14d73289601c8f27b0825729b8963d62a105a1d6979ba62d096f7a45b3b94b74": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "e4f67992017a9ece429dad243132f8edd0bb73204cfdccee71a796e37d7d2910": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "2d2424d93f0c1cd45323edbef6cf0d13fd4b90e2e304590239e6b8ab95ba08d4": {
+    "intent": "WrongItem",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "486b473594851b711a4fabca704b588810c766cd715adcee45bcb8e3455c1e7d": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "aebce7be42709251e1b99574bba29e7d2d9a5cfc0dad21467d84f0239a148fb3": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "dfadc0b73e639bd2cc5ce270d6163d11914edbb31ef09e0dc062c40377d5f463": {
+    "intent": "DamagedOrDefective",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "e2fc15611da6de8b023646bd72974425a14a052020a10c28a626dfa52e7a032d": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "418ade2f1d270bdddc618c2134dcc102505c4518a8aaaf571f952ffad37aee30": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "6380c711e331653d88fdd7bd7969f3b337c71c26dd36f875f8ed889ce2be1c9e": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "3572bc567ba329f0ab325f8a5b420aceb1d0c63d2eb5eb9c412da00783c4969b": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "5bedd83fffc74ec5fc40537ea6376850b4eb4826e77998f749e3646bf2332743": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "91407fa775bfa4199550a5fd3675363b721bb8da4a0810e298248510bb71109e": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "b53f05b95255e63fbc824c89d912c7ddf13faba2aa3723dfb8df04478237102b": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "bbc2f5df4813cdd7df349f20a7715bdb95eb39039fa0cf472924d85677c2e151": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "2ed97b7252232fb499547a8f018f38c62a26f418f6ef3b554481773ea77a71e6": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "b89fa5c6940cc1bd0c91e50bf8a4698b4f850b9b70f5845ae35a9ff16f19d9ba": {
+    "intent": "DamagedOrDefective",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "e327e0650ee3ea110471287977a1681de97f7bf43caaf86378b2e73306c9f190": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "42e3332cd24b2679a39d3ce5fe48d6eb92d215da7b645fb3b2f8f0c3a47f1392": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "181b3e6cb5cc4406f46044be912feaaef8ba85b9cbfa15d3c18befc82f985a43": {
+    "intent": "RefundsAndReturns",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "42b7434bdbbbd66ca523f8873628eab7e8098009ebb5c76d803f1c071390bef0": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "2f42cc5afef28e56637bc0ce1eb55e77be53677d7d9da1367007a7cfaf0b28a2": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "15a2ee458c363edb6081010365fe754d847caa9c86a73680546ce5e66be01bd6": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "03bc8e481f26122c6ad4d15761572a1538c7a4e21a84f01a222ae57f341707e1": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "3ed23c91c870a051c279fb2f1656b12ca19c3d2e08f9857ee4fbb66ab58360bd": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "82a1cdd7125adf8ad176b08f705d76866af49bfbfcac63f8d52cdc5711948b3c": {
+    "intent": "DamagedOrDefective",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "18a4ffdec2bff4237fe8cb7a6f2586d520cbf749ee77262c9fc444729deb2836": {
+    "intent": "RefundsAndReturns",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "692c580ad564e01d6dbae847e3676b55c861cd85856344a6a7a77d0406a84b46": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "450554a5687281ab03fbbbb27489f852d045d8881e90c0059843e48b20976183": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "16685a3f2027cc3b8fb2023ed3ae59044fc8db76b27518e74325230668fb0479": {
+    "intent": "WrongItem",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "a198c3c615c6012669a2f19b2a243d057db2832332892e36664fae3a9a7ab20e": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "33c5ccbbdb89fee5373cbcb1a2d5f8d4a5356fea9abb37c0d015c58c85be6466": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "586c66997157ce59b057a9aa6b420362b191efb4d00c4f0f8d11c17ecfadaaa3": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "946f6810162a300bb93c8a430a9b89dde0fe2aba48ab0e9f5dc8dd68f4241264": {
+    "intent": "DamagedOrDefective",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "485d5337a79804111e364ea3b0ef4518760dfae398c617d76a88fc0d9db4fec6": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "dd631428c4159485afb8deac5ed32d3dcb44c59511ad1bd82920bd38e3f7ab03": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "f8c7906ada79e4f03ec5d3f73ce50c41f402672faa0566533e55df6cc78d19be": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "7a0d2289e56d0c55a729d88d379f42c2d3a4e2cdafaeef629b6b4920c6e2eeac": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "e1e7b6c60bf19a1513bebfe8e481ff9a90b8518c867dd72abaf3db099b178f28": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "f5669c6392aac792456aa045bc9a858da1148525dffa5a9782574c1fbbd46a8e": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "5398b79caa941d1dcf3a995f332ff71022c42450dd7d90782a6cd82238dc2f4e": {
+    "intent": "RefundsAndReturns",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "d58d3331ac27e5d8a138294b66e191d7fb9ba2d0358a31026251a174005a4b12": {
+    "intent": "RefundsAndReturns",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "881d490bd9a13d16c596529fdb3bec4975fe4664cc610c45bc1dd694c87b90f2": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "93a150476b03e10b478503ae9f4889ffe55860b55b2b328fd595110d891cd983": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "562a44953c2e928ae91c55a7aa50ace31776241296821205f39be6a4a0d074ea": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "ad1ea154c263926afc59b43a6ba715b4d0ddaedd750714433b568996c9413084": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "9b0e400effcc5e1e915b2e396c3c0bf0207c54eec2d6a608ad709c72a151db58": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "034b9cb3e54d75620992e7d3f9f74bceaca67bd9f61da86cd2eb0276536fd846": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "4fa45c9e95b357642a15153af7c9a6307717b88f5326ef5211fd9c2afeee62ab": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "49671acaa4bed8c95b85c696437fbcf2af2930fc3d607c8a78773c37a087517a": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "11f5feb59976190d1768e77eabbb0ba98619c86a81aa3912e2cd63bba854ea9d": {
+    "intent": "WrongItem",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "6c96ed588e6acb4a5ebf3e052ffddcfd38116217d2686928b03092bc032a8de2": {
+    "intent": "DigitalServices",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "f5eca0f28c7cd0e73e2fcd687a88422aa23d57d48add85b4fe240a9c41b7fc06": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "00734374efc4a5ab516043a08efd962f1185660c1b629ef68b466c011c8864c0": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "f59b7f0e533a7b12f33e735fa1527961839f9dc3d986c5194b4b12d9f8cdb8b5": {
+    "intent": "RefundsAndReturns",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "39f4848ea6e0b1ef46956f31635c3d2250a647ba70821d2176ae76060034e9d3": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "9fd0dd76cc593087f8aedf075156e580054d8d75b4f1c7e07a0314eba7d66e0c": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "11723cf2509d5765beae49a8a425c5826c2445fd90583ae36d7e83efe877e20d": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "9b490bf0b42b28c51a81c7de7f0be1f8f8daab8d32239322b0410931bf06d43a": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "49d1c83bab98eef6fd9d4860ebee756b7c445046f4d5f83120303ce001a35986": {
+    "intent": "DamagedOrDefective",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "5a7122452e36e506464a7c41843f7f104f77a339d93f0a810fad9a4f3d89084e": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "b3aba182efad2262936c7bc2017afc1807bcb1dbdd4f253afe46bdc82eac0f99": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "e1e4208925879c1cdf5b0cd045de6d66d50020753e27d406f2b6b125dcf091e1": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "8f1c88f79adb85ead9c9d7602cbce561cc6df2facec2ec06eab28970b19aaac1": {
+    "intent": "RefundsAndReturns",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "9aa511b117367eedfaa6b736ae44b87e609f9b3d8e711b11939e0807c1562e47": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "a0331e8720032e97620a989572d834e83a97c41c43d28054775d5f5e855e2add": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "9bb86d1bdb77682e2b2c5bb2299935491916b2ec17a57d9ccd0ee80cfe5f3242": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "686dbe56e41fffe8c135e5fb126d6944bb5bc36002d82a585669599527d4ae77": {
+    "intent": "DamagedOrDefective",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "4ffec48eeb9c78d240aaa4e52e47d71cce7991505e2e6ae4b14e7ca4f6191cf0": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "4afc2bb53aeb2d03d53ac803d35aeffba21cfe2bf0bb96f65f2bd3c0a5db3522": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "8147b3be2eaa760fa7e10cb2801271aad05f993161e8965519a0f45d8e6c0f4e": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "dff12440b262987ad80546beb5d32d3c26b5dddc0aace8c00bb0466444590015": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "abe89c5a6720bcdef1c5924005a18783132461f9e6443117249abc880498ba9a": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "0122e97b09cb241b0781c129c5908642d4e4f3b25c59aa38cddd527634ad24c9": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "232f59c9fbd3960ba918b1c9fb232003789ee59a8f1b0e85211f56d63f9c8998": {
+    "intent": "DamagedOrDefective",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "f66b84046bb59a42a1ca7356054dc32f898959520572d68a34024c049a8b5a53": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "f499e81c161baf78a79cece6efa26376620698088a93fcdbd38f0acbb95c1d9a": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "c038bb4ae65aa1d8d82f95a4f0f0b399650cb37d2d3e7648e839fe2168a361d1": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "144a6fef84680e9d57678c4daf04232037e021bd493abaaec79a362a1347ceb6": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "150171ff8b9d9bce97ba4b973d4e0e8198d515a0b741c0a6bf0093148c17c882": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "dc651ed5fe9fe68b4770359a264876fa5da7d08c452c673bc6a586e82de64cda": {
+    "intent": "RefundsAndReturns",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "22113d22ce60b4cad9153541778e690781c96c6a928a3bf0feffccdb925a7761": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "0913bb107278d1c0be9ed77e75ac37e228adfd71bf34c99edddcd70825670bdd": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "855e857744919c0a2e756bd409169d967b2c807b3e154995ade745e0d802f3bf": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "64d33f74c1b90413d5c7ff7a159aff6be1a51f103de0fa3810714c1ec7d5b624": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "a64b6336d29dc0a0fb9c612d85644763829213fd44c7aae92122bb7d58c7919c": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "bd506d3651a1f9ec1c5573225d2cc3145841a2eb232d9bc2be231732697db41e": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "3b52a6d6c01358101508b2e68af924d71ca8d3bd122e8ddf509909589107c585": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "dc3b1632b322ec91b41af7a7a85d8395ef2961d760cfd21c747ace59bc6e08d9": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "1418a2eb8c56f3766b9cf7ba5cb78313a4396659b6a6a6e15d4b14a0e9d09d44": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "670d1902fec1f1f0401f72540ee556664b731bf9380fdcd95a01f1eb6f050fd4": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "b31c5722917bd74609691523086892c01735ff2e1898f5b9f4dfc7c000c0bff2": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "9bcff085eaf206c8944a09aacab02a458380539be69ca473ca19bf252a42ee2b": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "26da29789187cbd88376a83a024ad3c00aca78f06ee25d9507ba4557fa56330b": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "24334054ebc5dcbd5d7648825fef11f13d7ae12f99c24f955b00de56cdb2df4f": {
+    "intent": "DigitalServices",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "26ead6df64c90038a38925705416858537762d3a5f0a6e9d2d974dda32820561": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "b372c751424db5d4a0ca4f14a0780313840b16f325a0005db2da1b18bf5a7ec5": {
+    "intent": "RefundsAndReturns",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "47b47d5bc5a1457bf5cc34be011e750f46d42c2a7aaa272431de2538a31d5e47": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "15ffd2176d717df7269688f6b6416ce7426234590cd96d6e4114a1ba2139a7a3": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "5ccccfc6c6a9529d40ffe1222f3217d42c0d644ab756eb57686b17293b67d356": {
+    "intent": "WrongItem",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "eeb751a46ebc12c7e51cfc0e2f83fd58e790d5ed730488f513c7aa2da0abc09d": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "c18ef41f5ae19cb1a6cfc6548209ba3a7ed8c303e0da06e0ef8d94adec23c91e": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "20e6895145577db6825e73bdea6085feeb7535bc5935e8289ad605be7508306b": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "cc8a35dd271c57c4a9959c967929035fd092bbcb29ea45f628a0c9f613f549f0": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "e13d977a72bb0dafed57ff7d9973dcb6e344ef0d3e62a564a0d7606c09de39e2": {
+    "intent": "RefundsAndReturns",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "de0439683c66411377a985aa1bc0f2c5ecf5036128905c19553949ffba3775ae": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "2312c2f578a782fe2e4ca1a9adf2a1e7dd428f290d01b7d2c1952d95da755de6": {
+    "intent": "RefundsAndReturns",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "ea4d433b9116ab7235f1db9f7e4765d4400e7f0e30c9d5d36274c0dcd9db8f27": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "48bd68a24c5adb8f37fe20eee350070d5372b4c0983dd816bbdacfefa10aa3f8": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "7bab458183658b773256cbb70b47523fb27f9a325b02ba14c4e131c20730ffe5": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "16f6acbd2afb5b315c0d58d9e5cb1729fcab080fc78e718045059eb021b48225": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "840a56aef8fb4caad817fe53a74ac0cd8cd6eb40e2afa99545837a28e4de4268": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "d5c090ff0943e5237644432c7760d0a93d282dc1447e1565f5dca1116c512670": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "f5541f3e1d13b36f305cb8965e59d29db359840e405080bfd86553bddbfe3fd4": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "528423de5f0911d09ca816c1c0cf63f8053d77d16b2e8d838299867febf87b23": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "9e761fe6e920b992c2d8ace8bd17e5f3da7e5aa6562cdd220f4f9a965b53a0cd": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "c258dc96810914da298f5d22d2f6d9801f84921bc7c6b52ae75f6783e7950373": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "99bb88db17c1cb5b9a731a40ce47d3173493a3840c3090e5767e12ee2d5c1a1f": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "19975a5b6dc4f7ef075f7fbb8cc056f7c3938f6a0471bd99f56f3fbd67d06f55": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "ad4075524274a9921eb42718e2ab98e40184592bcca5c7b953c0b5f4e3b7cd99": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "76dcdbb78d5ac2a4396931e21f3f9726932762647be0eac5c725e35b0c718a4e": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "1f8e775f895124bbca8949b777d60cf349a3353f279c593ad86db93e0f70603c": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "c04ce77bf4cb22aa12942299219fd9a0dd9396c8216078a76b5b1f5679844818": {
+    "intent": "WrongItem",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "0d394a6ae5c9363c642d1ed2a0496318702f57c5b54b8a41e647ec68293255f4": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "d8adefac3ada6332628b8537cae830d79bac71ffa17c97bb0524d2604d1b1ffc": {
+    "intent": "DigitalServices",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "1f43098392285ad514332670ad13886167a42a243124af29107fb2563cbfa27e": {
+    "intent": "RefundsAndReturns",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "b6b0454f8b69dfde62f3536d044233eea7bd5b4d546e656c3b449644a044535f": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "24e1e6158b8e75960f4177d098c183961120e03b4f3a656c0258799f23400414": {
+    "intent": "WrongItem",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "ad8df626f18955cfefc192b7825e00d843bbb3f99dab7841fbaae36d7202a723": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "97af0ec953cdfda70ecc712af9ff096f69584df47d6f807a1a831e5d02bb8f89": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "99bb33fd1e477af49ebdc98fc92b77c9492c6c014644ccdcb7017af62211719c": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "989c37bb3482070b9faab34e747edc83a4fc914e11b297b1dc8e7568cc24b90c": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "cf5708ffa6fb3bd48e38780996dd96fcae00387553106f1fa0dc4faeee5ed6e3": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "2d1154c7db99fe96264b9020a1228a6e326996cfffe24f9383d730ec67f73b7f": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "8d0ef05216073003eb56edc7dede1dbfe51cdbb40ec97ba8b9688a2d4b0a201e": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "1d9a4ea54eb2bca14b3d693e84f662c0c5a36cc2984109c79e4df468b676d81a": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "4a1290a1b7cd20017d9aa9766052a4572ad6830c07bf8d10b263d8720f5d7b27": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "2d27384b330ac477bd51cccade9ce74613cc12fdcc867d2e54c386e7067d6859": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "66ace85f10f797002a654f6c61a9c01cdb835d89dfcf427f7cbb8696f3fd5cf4": {
+    "intent": "WrongItem",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "cf94a5be13115a19bd23a536a8391d474956897224e77267b0a41d49ad076384": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "dc1e4b5652b42d563289a5278cb68189f741b5e342ad4f8d13ccb70e831a3b1b": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "623f439e149735057a09303b15da376e287a2ce0c5428d92cd170ef6049ad107": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "fbf7a707526dede1b809c77de24793efb309a43619643ff09086f756c588a26a": {
+    "intent": "OTHER",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "dafb48586a919fdd97cb2d5c4cbee4b21c7d0a8fb434726b8bf747f1cce7b2b1": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "6e7d4b1665549feca8a8a7ee06b7a6bbeba5c4872577386e8b0048044e30380d": {
+    "intent": "CustomerServiceEscalation",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "3316145b185e143ba622c8c9e645ea8c95d0be550bde443d0e15c1bedcae8c15": {
+    "intent": "RefundsAndReturns",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "591cdca6506d019189841a921f1b2a50a07102a67ca15e49d66a2f0173d80ceb": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "dba04ad8ea13a08bf9a4895cba7b37e4cc0d5e76ad18d028075317e7e9853cd5": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "ace1f6efe8a0df050222fc727fb39f0925d76b4bf3f3cb305546454ec0942f01": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "a7cf9316dcbb0292ab2273862d531e5390394edbdd698c47862bd2d2d5922755": {
+    "intent": "AccountAndPayment",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "26bc605343a8641c2281881d01ae1af79b962e3c60fb0a09586651aa7bd9a51f": {
+    "intent": "CourierFeedback",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  },
+  "d74526c6bae50bd3d04a953bfd476f337f8cdeeae80712f84ac4330dba006aa5": {
+    "intent": "DeliveryStatus",
+    "confidence": 0.0,
+    "reason": "No reason provided."
+  }
+}

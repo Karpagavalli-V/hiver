@@ -1,0 +1,2002 @@
+{
+  "4ba684245d824818a374140f327c5c08e785ae141b9be36cdf2c5ac9f140d405": {
+    "relevance": 3,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.4,
+    "pass": true,
+    "rationale": "The reply is somewhat relevant as it addresses the customer's frustration but does not directly address the refund issue. It lacks strong grounding in the historical context, as similar responses have been made without resolution. However, it maintains a professional tone and avoids any unsupported claims."
+  },
+  "0b3a2d65a6e71b5b466ab22f7ef4a91b3079ae4bd9b525f60f687d1e95dcc8d3": {
+    "relevance": 2,
+    "groundedness": 3,
+    "helpfulness": 2,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.2,
+    "pass": true,
+    "rationale": "The reply is polite and maintains a professional tone, but it does not directly address the customer's request for a product link, which affects its relevance and helpfulness. However, it is safe and grounded in similar historical responses."
+  },
+  "aaad1f35f5f5738f3011b2bc89c167b2444cd109107f683f95a2aab12e702485": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's request for a survey, which is highly relevant. It is somewhat grounded in historical evidence, as it reflects a similar response to a past inquiry about surveys. The response is helpful, providing a next step, and maintains a professional tone while ensuring safety by avoiding unsupported claims."
+  },
+  "d14e3faad41fe8cb4f8660db759ec3a4ede604f841ea5d892995ef793afc822d": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue regarding package delivery and requests tracking information, which is relevant and helpful. It is grounded in historical evidence where similar responses were given. The tone is professional and appropriate, and there are no safety concerns present."
+  },
+  "0fc14f22c864c0a48f9a23150b80c4dac0e4dc17cb55b82e7bfa0dbb0171ef6b": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue with damaged packaging and offers a clear next step for providing more details. It is well-supported by historical evidence, maintains a professional tone, and avoids any risky claims."
+  },
+  "98b9cfe98dc9ff147a260be80508387a730d076de4bb4293556ba33cbb649ad0": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue and maintains a professional tone. While it lacks specific next steps, it does ask for more details, which is somewhat supported by historical evidence. The response is safe and avoids any unsupported claims."
+  },
+  "dd278ffa656dc6157ec20938d9889f0d340df91a5f52215365d0ebfb9d0b07f8": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's frustration about delivery date changes, which is highly relevant. It is grounded in the historical context of similar issues, though it could have referenced specific past responses for stronger support. The tone is professional and appropriate, and it avoids any unsupported claims, ensuring safety."
+  },
+  "c5915d15f7cb958ddfb4d0c5b2bc0662cea68333165d5ad0ba416cc137e09956": {
+    "relevance": 2,
+    "groundedness": 2,
+    "helpfulness": 2,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 2.6,
+    "pass": false,
+    "rationale": "The reply does not directly address the customer's specific issue regarding the late delivery of their order, making it less relevant and helpful. While the tone is professional and the response is safe, it lacks grounding in the context of the conversation and does not provide a useful next step for the customer."
+  },
+  "79cd091411c617cb8bfa2d19df7de83dde4933369c97bc219c3bba40c65b94f5": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply is highly relevant as it directly addresses the customer's concern about delivery drivers. It is grounded in historical evidence, showing a similar approach to addressing courier feedback. The response is helpful by asking for more details, ensuring safety by avoiding unsupported claims, and maintains a professional tone."
+  },
+  "0a11e06b3aa59047f0f95e7b8d39292ab999522140f557791b788c39a5f98024": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply is highly relevant as it addresses the customer's delivery issue directly. It is grounded in historical evidence, providing a similar response to past delivery inquiries. The next step is clear and helpful, and the tone is professional and appropriate."
+  },
+  "2c260c95bc9e627e798f013ce33ea48cc0c43df93cf4413952f1f9fec638bbba": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 2,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's message about their happy kitty and maintains a positive tone. However, it lacks specific helpfulness or next steps, which affects the groundedness and helpfulness scores. Overall, it is safe and professional."
+  },
+  "c583e193840022811820c2c684821b17323b67c5460c95400b669243da45e567": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the delivery issues mentioned by the customer. It is grounded in historical evidence of similar responses, though it lacks specific context about the customer's account. The next step provided is useful, and the tone is professional. Overall, it meets the criteria for a satisfactory customer service response."
+  },
+  "521e7c908895751653880c7dd6678bb6271ad1fb3d8f7aa3cc0ceb0f28faf538": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is relevant as it acknowledges the customer's feedback about the delivery and expresses relief that the packages were safe. It is grounded in historical evidence, though not directly related to the specific issue of package placement. The response is helpful by asking for the carrier's information and maintains a professional tone while ensuring safety by avoiding unsupported claims."
+  },
+  "232c321c3b208c12cd03b0b944619736974158a096471493030a90e01eea2c56": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue regarding the mishandling of their preorder. While it is somewhat grounded in historical evidence, it could be more specific to the customer's situation. The response is helpful, safe, and maintains a professional tone."
+  },
+  "f1271f4fb00303ac5c1f9967ad7b7b358f8e5b86306b149273ef66159d64fbc2": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's concern about package delivery delays, is supported by similar historical evidence, and provides a clear next step for the customer. The tone is professional and appropriate, and there are no safety concerns present."
+  },
+  "f7befef481a777ebab446cae0bd15865ce2af5d5435fffcec71885950d4884c8": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the customer's concern about delivery timing and asks for tracking information. It is somewhat grounded in historical responses but lacks a direct acknowledgment of the customer's frustration. The tone is professional and the response is safe, providing a clear next step for the customer."
+  },
+  "0e9e3c736b98d36c93d8679a2d86d59d9e4714bd6569afe275785ba7d0043762": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is relevant as it acknowledges the customer's gratitude and offers further assistance. While it is somewhat grounded in historical evidence, it lacks specific context related to the customer's issue about damaged packaging. The tone is professional and safe, contributing to a positive customer service experience."
+  },
+  "6340d6404fd8064471fe1411f7a826dc5f17bb8f059eba5650337d1aaa04d254": {
+    "relevance": 3,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is somewhat relevant as it directs the customer to a link for assistance, but it does not fully address the customer's request for a contact number or individual. It is grounded in historical evidence, providing a similar response to past issues. The tone is professional and the information is safe, leading to a solid overall score."
+  },
+  "028ad6c28fb68ad42778aae8743694e5cf134cba6ddc335c4f3437e50df84fac": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the customer's concern about delivery dates and suggests checking tracking information. It is somewhat grounded in historical evidence, as similar situations were handled with requests for tracking info, but it lacks a direct acknowledgment of the customer's frustration. The tone is professional and appropriate."
+  },
+  "3d1839d54d188c84da088550fedbc340a8a30fa955786321a86871e62fc9676c": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's inquiry about the status and provides a clear next step. It is well-supported by historical evidence, maintains a professional tone, and ensures safety by not requesting personal information."
+  },
+  "98a07ada4803a46782b0be8f2b1cab0841b00b48efd3490de136bf1198bc59ea": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply is highly relevant as it directly addresses the customer's issue with the non-functioning link. It is grounded in historical evidence where similar issues were resolved with the same troubleshooting steps. The response is helpful, safe, and maintains a professional tone."
+  },
+  "d84536158490a063198fe1661f76dce5baf8f945e54c0796b88e978b3132e932": {
+    "relevance": 3,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.4,
+    "pass": true,
+    "rationale": "The reply is somewhat relevant as it acknowledges the customer's concerns but does not directly address the specific issue of compensation or the customer's frustration. It is grounded in the context of previous interactions but lacks a direct connection to the customer's current situation. The tone is professional, and the response is safe, avoiding any unsupported claims."
+  },
+  "396a34efd203416167e0d55830610f40543aadeef03ac46579104392db3e4f7f": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue regarding the recharge order and provides a clear next step. It is well-supported by historical evidence, maintains a professional tone, and avoids any risky claims. The only slight deduction in groundedness is due to the lack of specific context from the previous messages, but overall, it is a strong response."
+  },
+  "44960a54ac582b461e3b0f1c4462d17a4b0e674a50c26fbc6eb78fde0bfae0be": {
+    "relevance": 2,
+    "groundedness": 2,
+    "helpfulness": 2,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 2.4,
+    "pass": false,
+    "rationale": "The reply does not directly address the customer's specific issue regarding the size discrepancy and the vendor's fault, making it less relevant and helpful. While it maintains a professional tone and avoids unsupported claims, it lacks grounding in the context of the conversation."
+  },
+  "dd7174fe77cbe2873dd9f71bfc3f71bda249618dbb0136af48b874f3a353422d": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue regarding the Prime subscription. While it is grounded in historical evidence, the similarity score indicates some distance from previous cases. It provides a clear next step for assistance and maintains a professional tone, ensuring safety in the information provided."
+  },
+  "bd1a53cb3c65909e09337d0a3545ca94005381eef0d3d814597fb1b7deab99fc": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply is highly relevant as it acknowledges the customer's appreciation for the delivery. It is grounded in historical evidence of similar positive interactions, though it could have referenced the specific issue of the previous delivery concerns more directly. The tone is professional and supportive, making it a strong response overall."
+  },
+  "1ebab231cc5e061a95d87eabc7fd884d7a6843fca0fb8925fdbf9a4783f10899": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue regarding a delivery delay and provides a clear next step. It is grounded in historical responses, maintains a professional tone, and avoids any unsupported claims, ensuring safety."
+  },
+  "c5eab237088d696496ef99c9e1403225432eb410ba5a00949648e00fe627d3cd": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's expression of gratitude and happiness. While it is somewhat grounded in historical evidence, it lacks a direct connection to the specific context of the customer's message. The tone is friendly and professional, and the response is safe and provides a useful next step for further assistance."
+  },
+  "b01708e94210064d800e27c5a23c70626768f05e8424660f0382afcd20efbf85": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue of receiving a broken product. It is grounded in historical evidence of similar cases, though it could be more specific in guiding the customer. The tone is professional and the response avoids any risky claims, making it safe and helpful overall."
+  },
+  "b6653e8b06918cff3af77edecceb7ff42f79b34a3181727647e77b6fa0b96889": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the customer's issue with the callback service and provides a next step. It is somewhat grounded in historical evidence, as similar issues have been addressed in the past, but it lacks a direct connection to the specific complaint. The tone is professional and appropriate."
+  },
+  "5eedb0ae70c08fd5cb7a61b0ff22163d0cadf09dda5d3cef3b4f1ccec4ff93db": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's concern about reading at night without disturbing their partner. While it is grounded in the context of the conversation, it lacks specific references to previous interactions. The response is helpful, safe, and maintains a professional tone."
+  },
+  "2d11424394036c50199fd7b7caec4cbf41669577c8cc0c90401bfd9cbc24c4f8": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant as it directly addresses the customer's issue with the lack of contact from customer service. While it is somewhat grounded in the context of previous messages, it lacks specific references to the customer's ongoing situation. The response is helpful by suggesting direct contact with customer service, safe, and maintains a professional tone."
+  },
+  "0c7d001951fbd3f9579303a2b4cf7b0b67b09cb9a71aba622f2519471e6e2c84": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue regarding the visibility of the paperback image. While it lacks direct historical evidence, it provides a clear next step by suggesting the customer contact support. The tone is professional and appropriate, and it avoids any unsupported claims."
+  },
+  "d044dcdc22b01551798bcdbd091a13bbf6389c79d1b0908ed1642b6c11c59a65": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant as it addresses the customer's issue of delivery delay. It is somewhat grounded in historical evidence, as similar responses have been given in the past, but it lacks specific context for this case. The response is helpful, providing a clear next step, and maintains a professional tone while ensuring safety by avoiding unsupported claims."
+  },
+  "c13d411d551696c5b0000a326c675f895a0ba321fef38126704c1c4f9ade0449": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's inquiry about the charge and provides a useful next step by suggesting they reach out via phone. It is grounded in similar historical responses, though it could have included more specific information about the charge. The tone is professional and appropriate."
+  },
+  "234b6e238b9b4d2f0edba68dee9489b7a70e2e0ae5e38a6c4d764f67149575e8": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.8,
+    "pass": true,
+    "rationale": "The reply is relevant as it seeks to understand the customer's issue better, but it lacks specific guidance or next steps. It is grounded in the context of previous customer service interactions, maintains a professional tone, and avoids any risky claims."
+  },
+  "2e406c720a5cb23d72eac8a90aa84cbe08a3bba234ed4d980d2fbb208437b186": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue regarding an unexpected charge. It is grounded in similar historical cases but lacks specific context from the retrieved evidence. The response is helpful in asking for more details, safe, and maintains a professional tone."
+  },
+  "d3e0c02ec69cd77b221fd2da151b735bb37bc21ef8a8f6154a9edf397eb25414": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 5.0,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue of a locked account, is supported by historical evidence, provides a clear next step, avoids any risky claims, and maintains a professional tone."
+  },
+  "0d8e816cd2c02958275822064fd628b9f779f93f81f97abaa5001461ca861b5b": {
+    "relevance": 2,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.2,
+    "pass": true,
+    "rationale": "The reply does not directly address the customer's frustration about lost packages and dismisses their comment about reading instructions. However, it maintains a professional tone and provides a link for further assistance, which is helpful and safe."
+  },
+  "a28fe93b58dfef7eb0e166f53f418851ab50bed2671d250c83808b867aca81bd": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue regarding order delay and maintains a professional tone. While it is somewhat grounded in historical evidence, it could have referenced specific examples more directly. It provides a useful next step for the customer to follow up if the order does not arrive soon."
+  },
+  "479ff0d1a1f7ca5b2a5ae75dfde12ce32c8717c6a3bc89540c1d5ff75b87b305": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's inquiry about the package status and is grounded in historical responses that mention email correspondence. It provides a clear next step for the customer while maintaining a professional tone and ensuring safety by avoiding unsupported claims."
+  },
+  "58c46428ac8877763b8cd57e2a27488ebbdce8925fdaa7a1f6666532174b44be": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue of receiving wrong items, which is highly relevant. It is grounded in historical evidence of similar cases and provides a clear next step for assistance. The tone is professional and appropriate, and there are no safety concerns present."
+  },
+  "6093950e9e2a46fcc570a87396a5e7fc97b148ea29386f08967bfd3e3d5c74a5": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 5.0,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's concern about the delayed package, is consistent with historical responses, provides a clear next step for the customer, avoids any unsupported claims, and maintains a professional tone."
+  },
+  "90583dfcf60bdc56c2c3f76d677aab4561e3666e7902e99d3de9a0aaef42452b": {
+    "relevance": 2,
+    "groundedness": 5,
+    "helpfulness": 1,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 2.6,
+    "pass": false,
+    "rationale": "The reply does not address the customer's request for assistance with their order, which is the main issue. While it is grounded in historical evidence regarding privacy concerns, it fails to provide any helpful next steps or solutions for the customer."
+  },
+  "8ed22458169e8794a425adc8062db34a701ea9cec4be9babb2d03771829ae1b2": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue regarding the damaged item and the delay in pickup. It is supported by historical evidence of similar cases, provides a clear next step, avoids any unsupported claims, and maintains a professional tone."
+  },
+  "511a4be3d864d45dfeb0b66dc4e98f4b84180fc1a104009a843eda79c3dec75b": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's concern about the package's delivery status. While it is somewhat grounded in historical evidence, it lacks specific references to similar past interactions. The response is helpful, safe, and maintains a professional tone."
+  },
+  "f449244e10b3fc7c00ad019a68a77942fb5aa643cdc5bbe24b7e329afd2476b1": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply is highly relevant as it acknowledges the customer's action of providing details. It is grounded in historical evidence, though it closely resembles previous responses. The tone is professional and appropriate, and it avoids any unsupported claims, ensuring safety. Overall, it effectively addresses the customer's needs."
+  },
+  "2bf95ce265a0a7fce5c5f15cb1c98e0bd380b6131732f3a4fa123e09bd12b5e3": {
+    "relevance": 2,
+    "groundedness": 1,
+    "helpfulness": 2,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 2.8,
+    "pass": false,
+    "rationale": "The reply does not address the customer's emotional response to the game and fails to connect with the context of previous issues related to Wolfenstein II. While it maintains a safe tone, it lacks relevance and helpfulness in this specific situation."
+  },
+  "7cd370d5efd8607bcecec486c0731f434a322615909e2258546ea3e2e2c082ad": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue regarding the locked account and is consistent with historical evidence. It provides a clear next step for the customer to check their email, maintaining a professional tone throughout."
+  },
+  "8134325f8c0a24538303b37f9d6bc87516e31189987b6cb0b11b8f6903072754": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply addresses the customer's frustration with tracking, which is relevant to their issue. It is somewhat grounded in historical evidence, as it echoes previous responses about tracking information. The response is helpful by asking for clarification, safe, and maintains a professional tone."
+  },
+  "34c28624a4a8b05712b084a610b5e93aff59f75472c5b333b58b565d2158b306": {
+    "relevance": 3,
+    "groundedness": 3,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.6,
+    "pass": true,
+    "rationale": "The reply addresses the customer's frustration but does not directly acknowledge the specific issue of damage caused by false information. It is grounded in historical context but lacks a strong connection to the customer's immediate concerns. The tone is professional, and the response is safe, providing a clear next step."
+  },
+  "c81a24e4911c31ea4efdb9d14991b7ab3823f31d17af08fa2f41685a3da17634": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's concern about the delivery and offers a way to address issues with the driver. While it is somewhat grounded in historical evidence, it could have been more specific to the customer's situation. The tone is professional and the response is safe and helpful."
+  },
+  "46cf19a2f56fcce6e707ec45562cb622a6129c66996299f7505beca0f395368d": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's concern about package delivery, is supported by similar historical evidence, provides a useful next step for checking the order status, avoids any unsupported claims, and maintains a professional tone."
+  },
+  "ea047e581d2313cc909df5dcb9bcbf4d7148a6bc17563ffaf2440689e35c0dbb": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is relevant as it acknowledges the customer's concern about delivery and confirms the item is undamaged. It is somewhat grounded in historical evidence, as it encourages feedback similar to past interactions. The response is helpful by inviting further feedback and maintains a professional tone, ensuring safety by avoiding unsupported claims."
+  },
+  "8729b9c5cab8c9b9c28741f415d788d801fd2a05dfdf4a11076c6816a3e0fa30": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue of receiving a damaged order, which is highly relevant. It is grounded in historical evidence where similar responses were given for damaged items. The response provides a clear next step for reporting the issue, maintains a professional tone, and avoids any unsupported claims."
+  },
+  "26f0bdad87bce19f49e766103425d1f01e95d14b0931dc45371a928308c2d071": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's concern about tracking status and provides a clear next step. While it is somewhat grounded in historical evidence, it lacks specific context related to the customer's situation. The tone is professional and the response is safe."
+  },
+  "378ad5b24c0b7637bd6723b5f9b1b39c6cd8f67eca1c1c646cd1845af4f8247f": {
+    "relevance": 4,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.6,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's concern about the unauthorized payment and maintains a professional tone. However, it lacks specific grounding in historical evidence regarding investigation timelines, which affects its groundedness score. It does provide a useful next step by suggesting the customer check their email or contact support."
+  },
+  "3f09b21b172c74ad0499508820e28c2e9a2cbf5dc6332b0b4c1f514762fe63fa": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's urgent request for return assistance, providing a clear next step. It is well-supported by historical evidence and maintains a professional tone, ensuring safety in the information provided."
+  },
+  "f685e4cd707c948562b7c7addd2f2c2ba22a502efd636c9bd0716e246f1071dc": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the customer's concern about package status and suggests checking tracking information. It is somewhat grounded in historical evidence but lacks a direct reference to the specific issue of USPS delivery. The tone is professional and the response avoids unsupported claims, making it safe."
+  },
+  "7053500f3d9f1312c6673e1060433742bd5e7aca2f80f4c55f1cb43ad95c0fed": {
+    "relevance": 3,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.8,
+    "pass": true,
+    "rationale": "The reply addresses the customer's frustration and suggests alternative contact methods, which is relevant and helpful. However, it lacks a direct acknowledgment of the specific issues raised by the customer, impacting its relevance and groundedness. The tone is professional and the response is safe."
+  },
+  "88341ca0ae129ab8190813f7691e626cc6195bc088a8f132d0cecf7fb3d22ecb": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply addresses the customer's frustration with delivery issues and provides a clear next step for reporting the problem. It is supported by historical evidence and maintains a professional tone, ensuring safety in communication."
+  },
+  "4e1aab2941df06f524aee4ac7902956fa85d1dec4bcad0bb6e10571bb07a7916": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's issue regarding order cancellation and account closure, and it provides a clear next step. While it is somewhat grounded in historical evidence, it could be more specific to the customer's situation. The tone is professional and appropriate."
+  },
+  "d7056213974ad84069ae2b5b36c7ee893885f37ae6585985d4ad5f6f0d77f3b6": {
+    "relevance": 2,
+    "groundedness": 1,
+    "helpfulness": 2,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 2.8,
+    "pass": false,
+    "rationale": "The reply does not directly address the customer's question about delivery in a hotel, and there is no relevant historical evidence to support the response. While it maintains a professional tone and avoids unsafe claims, it lacks helpfulness and relevance."
+  },
+  "0de1fb34f8187890afe0ab7ed1643c2bc90057c95ea804472bb4faec34cadf35": {
+    "relevance": 3,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.4,
+    "pass": true,
+    "rationale": "The reply is somewhat relevant as it acknowledges the customer's issue but does not directly address the specific concern about the warranty or the product's condition. It lacks strong grounding in the historical context, as previous responses were more tailored to the customer's situation. However, it maintains a professional tone and provides a safe next step for the customer."
+  },
+  "4990158994110db0e4f744c15ea77692cfef901564041969882f0fcc76de1709": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's inquiry about reimbursement. While it lacks specific details or next steps, it maintains a professional tone and avoids any unsupported claims, ensuring safety. The overall score reflects its strengths in relevance and tone, despite some shortcomings in groundedness and helpfulness."
+  },
+  "c6dd13f89d726dec7d620ea9638486703db97d230af25524c80349fef939b8ed": {
+    "relevance": 3,
+    "groundedness": 5,
+    "helpfulness": 2,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.8,
+    "pass": true,
+    "rationale": "The reply is relevant as it acknowledges customer feedback, which aligns with the customer's inquiry. It is grounded in historical evidence, reflecting a similar response. However, it lacks a specific next step or actionable advice, which affects its helpfulness."
+  },
+  "df44d676183dac058a5a40179913f9c835ba590027c8c8748c80e4954266d799": {
+    "relevance": 3,
+    "groundedness": 2,
+    "helpfulness": 2,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 2.8,
+    "pass": false,
+    "rationale": "The reply acknowledges the customer's feedback but does not directly address the specific issues raised about customer service training and a dedicated toll-free number. While it maintains a professional tone and is safe, it lacks groundedness in the context of previous interactions and does not provide actionable next steps."
+  },
+  "6d2c76e1f39a5e3f21585af82edbd3564b05a4dc1e37bb8f0b3968a12f32fd3d": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue and maintains a professional tone. It is somewhat grounded in historical evidence but lacks specific follow-up actions related to personal care items. Overall, it provides a useful next step and ensures safety in communication."
+  },
+  "1fa39604cb15259a068b3cb2ce62b0e26c372b1506c1eb85063eb41a3cca61ee": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue regarding the delayed package and seeks confirmation about the new delivery date, which is relevant and helpful. It is grounded in historical responses that similarly address delivery issues. The tone is professional and appropriate, and the response avoids any unsupported claims."
+  },
+  "cd3c156b409670b6af8eff44e1b4fed1c8006db8a6cbfab591d7a46876493bb2": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's concern about an unexpected charge and provides a clear next step. It is well-supported by historical evidence, maintains a professional tone, and avoids any unsupported claims."
+  },
+  "1823fe0f796ea19f16fcb6c7b5219856755408976d65eb06084b53bb88247518": {
+    "relevance": 3,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.4,
+    "pass": true,
+    "rationale": "The reply addresses the customer's disappointment but does not directly resolve the issue raised about pricing discrepancies. While it is safe and maintains a professional tone, it lacks strong grounding in the historical context of the conversation, which diminishes its effectiveness."
+  },
+  "5af0e50d7ade6b831011bf2f04465c2f508da803cd1ed654fd8dc6037eed252b": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue of receiving damaged shoes and provides a clear next step for resolution. It is well-supported by historical evidence of similar cases and maintains a professional tone throughout."
+  },
+  "3ad75274a9e18e4e1925a1520de575199f29c745c0e0df71487a20f018385199": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's issue and provides a clear next step for assistance. It is professional and safe, but the groundedness score is slightly lower due to a lack of direct reference to the specific situation mentioned by the customer regarding the USPS handling of the package."
+  },
+  "38c3b257aa1b50c9fd3c67d26e7a99d568086ab7a6fc34a67595a0fe8159aca0": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.8,
+    "pass": true,
+    "rationale": "The reply addresses the customer's frustration and promises to review the case, which is relevant to their issue. However, it lacks specific next steps or a clear timeline, which affects its helpfulness. The tone is professional and safe, contributing positively to the overall score."
+  },
+  "2a487d1855fbf411e28aedb0aeafb0c8c299e9f2d233059730afbc03a08b8e5e": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue regarding the collection problem. It is somewhat grounded in historical evidence, as similar inquiries have been addressed with requests for tracking information. The response is helpful, safe, and maintains a professional tone."
+  },
+  "81e84ab4889ff2608104d3c4deb3f6612650cacff83ff39e5f4f8c7d167f14c4": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's frustration and maintains a professional tone. However, it lacks specific grounding in the historical context and does not provide a clear next step, which slightly lowers its helpfulness score."
+  },
+  "ffa662ed8ce73f33dbbc6b34463adb3e9299bf82148895e49e59c3a90ad03fb2": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's concern about the delivery status, is supported by similar historical responses, and provides a clear next step. It maintains a professional tone and avoids any unsupported claims."
+  },
+  "eb91fac7ae8f6cfdaede55cb3ee48ade72859ed98bc284127f28b14456915e95": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the customer's inquiry about cashback. It is grounded in historical evidence that similarly directs customers to terms and conditions. While it provides a useful next step, it could be more specific about the expected timeframe for receiving the cashback."
+  },
+  "c348cd6d8ec8d7d6c73667040b8d5d7111db73e9f72d4e79f05388f22f082399": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.8,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's issue regarding the exchange and refund process, though it could be more specific. It is grounded in the context of previous interactions but lacks a direct next step. The tone is professional and safe, avoiding any unsupported claims."
+  },
+  "2f11528f55dabdb85be4022b021cd23ca89e95b7959d279ae0e5a8288a5d7923": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's request for assistance with locating the book or processing a refund, which is highly relevant. It is grounded in historical evidence as it follows a similar structure used in past responses. The next steps provided are clear and safe, and the tone is warm and supportive, aligning well with the customer's emotional appeal."
+  },
+  "61580264a7e882e95bb57fcb9ba2109ee623c0fca109705903d2c9d1aee3326c": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.8,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's concerns about issues with Amazon, but it lacks specific guidance tailored to the customer's situation. It maintains a professional tone and avoids any unsupported claims, ensuring safety."
+  },
+  "a9ab1f33128357e219081ca5b14476c12421fece446d739cf5345de1531d9695": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue regarding the missing package and is grounded in similar past interactions. It provides a useful next step by asking for the carrier's information, maintains a professional tone, and avoids any unsupported claims."
+  },
+  "7894d8d0d6a92e4f6f1029349830b98f2532ab67600b5504173fe3701e8acb18": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's message about testing Prime Video and American Gods. While it lacks direct grounding in historical evidence, it maintains a safe and professional tone, providing a positive and encouraging response that enhances the customer's experience."
+  },
+  "f8e18e216a4e7a48d88d18bdee0de2c77380ea0e5ddac44ed1cf4aa4c17cc048": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue and maintains a professional tone. While it is somewhat grounded in historical evidence, it could have referenced specific past interactions more directly. The response is helpful by asking for more details, ensuring safety by avoiding unsupported claims."
+  },
+  "17cad6c96f3e114bc1c53e21b9708c8b729de50433579bd525262ffecdf4a91c": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue regarding delivery guarantees. While it is grounded in the context of not being able to choose a courier, it lacks specific historical evidence directly related to the customer's complaint about repeated delivery failures. However, it maintains a professional tone and provides a clear next step for further assistance."
+  },
+  "ed93b2cd4999e8453b19234fd876e43c7f6ba971b686b1c1dd0bfac1ba0f76e0": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's concern about the delay, providing a clear explanation and a link for further assistance. It is well-supported by historical evidence, maintains a professional tone, and avoids any unsupported claims."
+  },
+  "9a24e8e259c5787217c08e5c3385e066eb241b40e0b225c51ae9f6eb01f3798d": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's concern about contacting support after being blocked, providing a clear next step. It is well-supported by historical evidence, maintains a professional tone, and avoids any unsupported claims."
+  },
+  "349c0193a53bd158f28fae27d0930ee3c58f43b4fc996261ddbebe32a0a273a7": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue and maintains a professional tone. While it provides a useful next step, it lacks strong grounding in the historical context, which affects its overall score slightly."
+  },
+  "b0ebf53b19ddcb914f71c1f71f6ae628269557529e8b98c1db9e4d4ea2ef85d1": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue of receiving the wrong item and maintains a professional tone. It is somewhat grounded in historical evidence, as it references a return page, but lacks a direct connection to the specific situation. Overall, it provides a helpful next step while ensuring safety in its claims."
+  },
+  "22521835b15ede6793b0fe64c40e066c10485112fa4e1de66c68e82c6e30af31": {
+    "relevance": 3,
+    "groundedness": 5,
+    "helpfulness": 2,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.8,
+    "pass": true,
+    "rationale": "The reply is grounded in historical evidence and maintains a professional tone. However, it does not directly address the customer's question about the app, which affects its relevance and helpfulness."
+  },
+  "65029b942b4921da1bdf8c144fc98fc7a701fe9446a2ef181cacafda1d76bffe": {
+    "relevance": 2,
+    "groundedness": 2,
+    "helpfulness": 2,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.0,
+    "pass": true,
+    "rationale": "The reply does not directly address the customer's specific inquiry about Prime refund policies, which affects its relevance and helpfulness. However, it maintains a professional tone and avoids any unsupported claims, ensuring safety."
+  },
+  "dcd3cec2f67ac26b684d2ae8007cd0dbc03908c04a3ee79780f332904ccf448c": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue with the payment method and suggests contacting customer service, which is a relevant and helpful next step. It is grounded in historical evidence, maintaining a professional tone and ensuring safety by avoiding unsupported claims."
+  },
+  "efac407960a0f812408a432fa93c4afb4ec265e7d09f0fe913468149b46afd0c": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the customer's request for a refund and aligns with historical responses regarding personal information. It provides a safe next step by directing the customer to contact support, though it could be more helpful by offering specific contact details or methods."
+  },
+  "561ba5c09a4da21f5f498fe5531312353ff4338f124d8accd47197b0c092e919": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's complaint and maintains a professional tone. It is grounded in historical evidence, though it could be more helpful by providing a specific next step. The response is safe and avoids any unsupported claims."
+  },
+  "f498b5f3b5dd998ea69cc48b173e75264cb3b1270ea9ba44f7fe5f85b06a7b3b": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's issue regarding delivery status and is grounded in historical evidence. It provides a clear next step for the customer while maintaining a professional tone and ensuring safety by avoiding unsupported claims."
+  },
+  "97dd71d01efdb00dd7d64fd26ad2e70c699939cf2c3bef3f83d3c62dbe2a8f79": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue regarding not receiving emails, which is highly relevant. It is grounded in historical evidence where similar responses were given. The next steps provided are useful, and the tone is professional, though slightly less concise. Overall, it effectively meets customer service standards."
+  },
+  "96fc6fc40b22f8f59b252b642d126d1089f7116937cf7117b0289be196ea6fa9": {
+    "relevance": 4,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.6,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's update about the delivery confusion and maintains a professional tone. However, it lacks strong grounding in historical evidence, as the previous examples do not directly relate to the customer's situation. It provides a reasonable next step for further assistance, ensuring safety in the response."
+  },
+  "c8c10e7f73f55336f6d542c72bf4a229cc36c38a737b04159f7521b64038d503": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's concern about the packaging of the item and requests further information to assist. It is grounded in similar historical responses, providing a useful next step while maintaining a professional tone and avoiding any unsupported claims."
+  },
+  "c6b1edad398e4b0edbec2c8ead03477235a9b9f9a4ce172e96c6f2ed518173dc": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply is highly relevant as it acknowledges the customer's gratitude towards Asha and offers further assistance. It is grounded in similar historical responses, maintaining a professional tone and ensuring safety by avoiding unsupported claims."
+  },
+  "4a897047e88edc0b44a265c131e6b55175dd69d18f769143ab2a2bc6446a4bb4": {
+    "relevance": 4,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.6,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's issue about limited product options, but it lacks specific grounding in the historical context provided. It offers a reasonable next step by suggesting checking the website or contacting customer support, maintaining a professional tone and ensuring safety in its claims."
+  },
+  "fb2765c11a74ac5804612ccde9c63a007604f0ffbe6f7c87f9b86cede3b8de0e": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the customer's issue about the undelivered package and suggests contacting customer service for further assistance. It is grounded in historical evidence but lacks specific context related to the customer's current situation. The tone is professional and appropriate, and the response avoids any unsupported claims."
+  },
+  "1b47d4c517aa39d5dfada41d03b901f477894f43d153faba52d0772dfe9322c1": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply is highly relevant as it directly addresses the customer's concern about the long hold time. It is grounded in historical evidence of similar situations, providing a consistent response pattern. The request for more information is helpful, and the tone is professional and appropriate. Overall, it meets the criteria for a strong customer service response."
+  },
+  "abac0172fbfb1bace09554d3acfb1cf0446f982be31e6e53ee96d28a14bbd315": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the customer's issue of account blockage and provides a link for further assistance. However, it lacks direct acknowledgment of the customer's previous responses, which affects its groundedness. Overall, it maintains a professional tone and ensures safety by not making unsupported claims."
+  },
+  "e1361b5d846fea45cc4d54c14a8b0182120288186390ee794439de028be60947": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue with signing into their account and provides a relevant link for assistance. It is grounded in historical evidence, though it could have included more specific troubleshooting steps. The tone is professional and supportive, ensuring safety by avoiding unsupported claims."
+  },
+  "c52dea110cda9b6f7a7f64a01dd05f4558a4bf69adabb7d937200cdff19197bd": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply addresses the customer's concern about the refund timeline and provides a useful next step by directing them to the support team. It is grounded in historical evidence regarding refund processing times and maintains a professional tone while avoiding unsupported claims."
+  },
+  "acfab00d02967ebc822b0a543a30f2495f508929ed05ddf67adba35ce210fb33": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's delivery issue and maintains a professional tone. However, while it provides a useful next step, it lacks strong grounding in the historical evidence, which could have enhanced its credibility."
+  },
+  "a5379b618552104f5d2c02df7d08dfbf0365b7b2e4a67ba2f2c3eb45b12e1336": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply is highly relevant as it directly addresses the customer's concern about delivery uncertainty. It is grounded in historical evidence, though it could be slightly more tailored to the specific situation. The response is helpful, safe, and maintains a professional tone."
+  },
+  "b99b95c66b1bb5413d0112ffa67f78d44f11c635ecb527e7fdfb71c00e00cce4": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's positive experience with Amazon Music and maintains a professional tone. While it lacks direct grounding in the historical evidence, it is still appropriate and helpful, providing an invitation for further questions."
+  },
+  "45467e32390fd6cab1dfa9ea71132647b35da95e5502ad05b14b5d62f19447f7": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue of receiving damaged dishwashers. While it is somewhat grounded in historical evidence, it lacks specific references to similar past interactions. The response is helpful by directing the customer to report the issue, safe in its claims, and maintains a professional tone."
+  },
+  "5464e4573a35b05d5668a41420c3ed8229109a8fd6bca924f991b24b84ff9045": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is relevant as it acknowledges the customer's suggestion and provides a next step for sharing feedback. While it lacks direct grounding in the historical evidence, it maintains a professional tone and ensures safety by avoiding unsupported claims."
+  },
+  "86105a812725fa79b7e2b0c8cabaa41a778dbfb343e8e412091eddccff7d2087": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply is highly relevant as it directly addresses the customer's issue regarding the undelivered package. It is helpful by asking for tracking information, which is a logical next step. While it is somewhat grounded in historical evidence, it lacks specific context from the previous conversation. Overall, the tone is professional and appropriate."
+  },
+  "c679eb704d352a677c03d3e99f107440a500cfb497d47eab124469d6367778b5": {
+    "relevance": 4,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.6,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's frustration about navigating to Amazon Family, but it lacks specific grounding in historical evidence. It offers a way for the customer to provide feedback, which is somewhat helpful, and maintains a professional tone while ensuring safety in its claims."
+  },
+  "ac36e0e484fec3514fa33116d1a11c17bbda22589aafab014baf9d193196749d": {
+    "relevance": 4,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.6,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's issue regarding billing address problems and maintains a professional tone. However, it lacks strong grounding in the historical evidence, which does not directly address the specific situation of the customer. It provides a reasonable next step by suggesting contacting account specialists, ensuring safety in the response."
+  },
+  "1a6349c76313c545dcc602263ef3c914eaea3d7eeb3175ffdd2ccb4530298265": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the customer's concern about account lockout and suggests checking for an email from the account specialist. It is grounded in historical evidence, providing a similar response to past cases. The tone is professional and appropriate, and the response avoids any unsupported claims, ensuring safety."
+  },
+  "ce90c32a369ba9cefc47aaedae382f367c72dffb7bf58fe5a31725ff271b5974": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue of delayed parcels and asks for specific information to assist further, which is consistent with historical responses. It maintains a professional tone and avoids any unsupported claims."
+  },
+  "be0053dace5fa0f53e95d57d32ee099a009648406df3337f98f165980a2d1144": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue with the defective phone and provides a clear next step for resolution. It is well-supported by historical evidence and maintains a professional tone throughout."
+  },
+  "c956f187c513f2984eb009bed7cf6fa98dfb327a8ccad26c45e3fe453cc15b0d": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue regarding their account and payment information, providing a clear next step for assistance. It is well-supported by historical evidence and maintains a professional tone throughout."
+  },
+  "d690e3da8a6a76b19da98f4831ecf7b8996860aef58d2b4396e83241bd427f9b": {
+    "relevance": 4,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the customer's issue of not having a reply option. It is grounded in historical evidence, providing a similar response to a past customer issue. The next step is useful, and the tone is professional and appropriate."
+  },
+  "2711052ea4c75717fb7e47b7e53b51a0acde913803da7a3805c72a3a84b8b4ea": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's delivery issues and requests further details, which is relevant and helpful. It is grounded in similar historical interactions, maintaining a professional tone and ensuring safety by avoiding unsupported claims."
+  },
+  "18faa79944ecdf10b0e66a26f9674f387f50b216bd61677dc5ca828c6bf9f792": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the customer's complaint and asks for more details. It is grounded in historical evidence of similar customer service interactions, though it could be more specific to the customer's issue. The tone is professional and appropriate, and the response avoids any unsupported claims."
+  },
+  "c3b92534da205f980691d438cb396ef9a19739636f4fe331e14d5d7f53b4b8b4": {
+    "relevance": 3,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.4,
+    "pass": true,
+    "rationale": "The reply acknowledges the customer's concerns but does not directly address the specific issue of price fluctuations, which affects relevance. While it maintains a professional tone and avoids unsupported claims, it lacks strong grounding in the historical context provided. The suggestion to reach out for further assistance is somewhat helpful, but it could be more specific to the customer's situation."
+  },
+  "69267511b70454e4ba5a26a7673914f79c46a6f10f5cf8202d0b4e49d1459bae": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.8,
+    "pass": true,
+    "rationale": "The reply is relevant as it acknowledges the customer's frustration regarding returns and refunds. It is somewhat grounded in historical evidence, as similar issues have been addressed, but it lacks specific guidance. The tone is professional, and it avoids any unsupported claims, ensuring safety."
+  },
+  "57aafb7cc5eb5b98df421dd7d4626ad6a0ff27b9d211c2d7693d33671b9c635c": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue of account hacking and provides a clear next step for assistance. It is well-grounded in historical responses that also address similar issues, maintaining a professional tone throughout."
+  },
+  "ddcbaa32c49e21a8d58c46bee47eaf386834e025ad7b3526120b143d1a76a15f": {
+    "relevance": 3,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.8,
+    "pass": true,
+    "rationale": "The reply addresses the customer's concerns about delivery but lacks specific information about Intelcom, which is the main issue. It is grounded in historical evidence regarding directing customers to real-time assistance, and it maintains a professional tone while providing a useful next step."
+  },
+  "bc82913b9380871d39364c8c361b5f2dc1b876737c8e4a50bd01b474b72ff71d": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is relevant as it acknowledges the customer's feedback and seeks more information to improve service. It is somewhat grounded in historical evidence but lacks a direct connection to the specific issue raised. The tone is professional and the response is safe, making it a helpful next step for the customer."
+  },
+  "72724b16318c45a8907905f371c6e3db298f05aee4b3e091f01ba8a6dd589232": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue with streaming on the Firestick. It is grounded in historical evidence, particularly similar responses to streaming issues. The tone is professional and the response avoids any unsupported claims, making it safe and helpful."
+  },
+  "5c7a842fa953b5e6f7dcfc1429b43cfe7c1685fdad37b358c9ac49bf9a029742": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's expressed disappointment and delays. It is grounded in the context of previous interactions, though it could have offered a more specific next step. The tone is professional and appropriate, and it avoids any unsupported claims."
+  },
+  "1214c4b13958c792f36a3bcb21320d487542383d0ff5496401be038342d33ddc": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is highly relevant as it directly addresses the customer's request for DTH recharge. While it lacks specific details or next steps, it maintains a professional tone and avoids any unsupported claims, ensuring safety."
+  },
+  "9cfd19854287b20e69483797e3595670446158d9b0fde06fd2690e7cf28874ae": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the customer's concern about their order. It is grounded in historical evidence of similar responses, provides a useful next step by advising the customer to check their emails, and maintains a professional tone while ensuring safety by avoiding unsupported claims."
+  },
+  "05b0094eb086257a64d4561570bcf43e652a2cfc65930ba8978271ac08bfefef": {
+    "relevance": 4,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.6,
+    "pass": true,
+    "rationale": "The reply is relevant as it acknowledges the customer's concern about a bug, but it lacks grounding in the historical context provided. It offers a next step by suggesting to contact technical support, which is somewhat helpful. The tone is professional and the response is safe."
+  },
+  "aaf0d15a9816cb25b6dcab0497878c13f433ba9d9fccdf98e1372db316e6ca8b": {
+    "relevance": 3,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.4,
+    "pass": true,
+    "rationale": "The reply addresses the customer's frustration but lacks specific relevance to the identity theft concern raised. While it suggests contacting customer support, it does not directly engage with the customer's specific issues, leading to a lower groundedness score. However, it maintains a professional tone and avoids any risky claims."
+  },
+  "65ed7c453695773cab12307177c154d0013782921067734437fdd38a8cb9c6dd": {
+    "relevance": 2,
+    "groundedness": 2,
+    "helpfulness": 2,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.0,
+    "pass": true,
+    "rationale": "The reply acknowledges the customer's frustration but does not directly address the specific issue of stalking mentioned. While it maintains a safe tone and is professional, it lacks relevance and helpfulness in providing a clear next step for the customer."
+  },
+  "c4787288e9a14cc8805768304e8366da6c7ad7f979c2782d80e4d48e20dd30df": {
+    "relevance": 4,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.6,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's issue and maintains a professional tone. However, it lacks strong grounding in historical evidence, as the previous responses did not provide a similar level of support or detail. It offers a next step by suggesting the customer reach out to customer service, which is somewhat helpful."
+  },
+  "58a36cdc1395ed0288ab0f031953b9f24296e1080fe7b770a938196a4f9f399c": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant as it addresses the customer's issue directly. While it is somewhat grounded in the context of previous interactions, it lacks specific references to similar past cases. The response is helpful by suggesting a next step, safe by avoiding unsupported claims, and maintains a professional tone."
+  },
+  "5e37bd10571f2d6f8be581543686d9e14f5913fd56ec1133eab501cc0cc736a2": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's concern about privacy and provides a clear next step. While it is somewhat grounded in historical evidence, it lacks a direct reference to similar past interactions. The tone is professional and appropriate, and the response avoids any unsupported claims."
+  },
+  "a9cc2f7908f4cb56ec9e911d66a152eb2b5c02d3f82941aec4f455a6f646fc5f": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue regarding recharge services and maintains a professional tone. While it is somewhat grounded in the context of technical issues, it lacks specific historical evidence directly related to recharge failures. However, it provides a useful next step for the customer to monitor the situation and reach out for further assistance."
+  },
+  "2c7a0306491f828ea2e910e0632a5e30e7db79eac30ff7bde6b8f6b99472c84d": {
+    "relevance": 4,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.6,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's dissatisfaction and maintains a professional tone. However, it lacks strong grounding in historical evidence, which affects its overall effectiveness. It does provide a next step for assistance, contributing to its helpfulness."
+  },
+  "6db8fb077003c1e17742074fb1c4891f3ade845e5626abf21f6a09589652cf9d": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's concern about the refund timeline and maintains a professional tone. While it provides a useful next step, it lacks specific grounding in the historical evidence, which could have enhanced its effectiveness."
+  },
+  "5455c8aeca4bf79caa9ee5be193c4a80cf663f288e46755af31988d5f98cace9": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply is highly relevant as it directly addresses the customer's concern about the availability of Kindle Oasis covers. It is grounded in historical evidence, although it lacks specific information about restocking. The tone is professional and appropriate, and it avoids any unsupported claims, ensuring safety."
+  },
+  "476d3875b444229b63490514b7bcdbdafc3c47cee20f21990609bb0e181d1122": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is relevant as it acknowledges the customer's frustration and asks for more details, which is helpful. While it lacks direct grounding in the historical evidence, it maintains a professional tone and ensures safety by avoiding unsupported claims."
+  },
+  "68bca0e64b38982e8ca9f9392cb6ec3f3db35a2576dd993825bdd8c72f53298b": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's issue of receiving the wrong game and is grounded in historical evidence. It provides a useful next step by directing the customer to review return options, maintains a professional tone, and avoids any unsupported claims."
+  },
+  "37bb4e8631e2cdbf9577f3a50bd670272ae268b63c35c53c0bb3998890573b41": {
+    "relevance": 3,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.4,
+    "pass": true,
+    "rationale": "The reply acknowledges the customer's frustration and attempts to assist, but it does not directly address the specific issues raised by the customer regarding the service failure. While it maintains a professional tone and avoids unsupported claims, it lacks strong grounding in the historical context of the conversation."
+  },
+  "87ea4021048f5318575f68309595f3a200115122cd5d1c5de36a72e88078f9dc": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's concern about the delay in two-day shipping and provides a clear explanation of what two-day shipping means. It is well-supported by historical evidence, particularly the similar responses given in past cases. The tone is professional and appropriate for customer support."
+  },
+  "fab1d59b911eb8f670a491931f48084676866746dd61f27a54cb13a96cf87070": {
+    "relevance": 4,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.6,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the issue of vouchers not showing up, but it lacks grounding in historical evidence specific to voucher issues. It provides a useful next step by directing the customer to contact support, maintains a professional tone, and avoids any risky claims."
+  },
+  "09763ea0e78e3e388dc4e82b3b4db9f944077021f61b05e0fc53d8df5602541c": {
+    "relevance": 3,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.8,
+    "pass": true,
+    "rationale": "The reply addresses the customer's frustration and offers a next step for investigation, but it does not directly address the specific issue of misleading information about MRP. It is grounded in historical evidence but lacks a direct connection to the customer's specific complaint."
+  },
+  "892aea4509edfa834253c88bff9a47923ed6956dba2e85a2267038d3a3fadf08": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.8,
+    "pass": true,
+    "rationale": "The reply is relevant as it acknowledges the customer's frustration and suggests reaching out for further assistance. However, it lacks specific context related to the customer's request for a replacement, which affects its groundedness and helpfulness. The tone is professional and safe, contributing positively to the overall score."
+  },
+  "e74adeee59dabfc9d45f237324877ab5d8ecd10cae450cc05936f8f50e9d035f": {
+    "relevance": 4,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.6,
+    "pass": true,
+    "rationale": "The reply is relevant as it acknowledges the customer's verification with the bank and suggests contacting customer support for further assistance. However, it lacks strong grounding in the historical context provided, which diminishes its effectiveness. The tone is professional and the response is safe."
+  },
+  "ea9139d356d5118a490b18f948f29e5359710dfb1ad0c140adc62813b3b740e3": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the customer's urgent need for a refund and suggests a next step. However, it lacks strong grounding in the historical context, as the customer has repeatedly expressed frustration with the email process. The tone is professional and appropriate, and the response avoids any unsupported claims."
+  },
+  "1d3a11306240be523c8bc3f156e138e981b5e81a4d183d70c751d7fa96ce47e1": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's issue regarding package delivery and provides a useful next step. It is grounded in historical evidence but could be more directly related to the specific situation mentioned. The tone is professional and the response avoids any unsupported claims."
+  },
+  "f9f1f8a14a3140e525fcbe3fbdbbc5b4802ce81beaeecf9150121e3f8b1f614d": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 5.0,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's inquiry about delivery times, is supported by historical evidence, provides a clear answer, avoids any unsupported claims, and maintains a professional tone."
+  },
+  "9c2df813b4b4dcd68752702d7e92c3d1b10b0a2f3aafd90c5bc1525c4f11b42f": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the customer's request for courier contact information. It is grounded in historical evidence where a similar response was provided. The tone is professional and the information is safe and accurate, making it a helpful response overall."
+  },
+  "62802c658d5bfbb55c488801b52e9176259e23f4418e0c2ba17ce4242976976e": {
+    "relevance": 5,
+    "groundedness": 2,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue regarding category navigation and provides a useful next step. However, it lacks grounding in historical evidence, as there are no similar past interactions that directly relate to technical issues with category navigation."
+  },
+  "d5072eb7b4199e8f1756f4f71cc0198ae602de5fc38e512b3b5f5e0e89288658": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue regarding account reinstatement and provides a clear next step. While it lacks direct grounding in the historical evidence, it maintains a professional tone and ensures safety by avoiding unsupported claims."
+  },
+  "5934501b14a7eb6b359d65c311f7bf13c53db167e5b98847a3020cb1a612a720": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's urgent request regarding delivery status, providing a clear next step. It is well-supported by historical evidence and maintains a professional tone, ensuring safety in communication."
+  },
+  "27009a0a238190684938aab312b3729c2aff7591855ad83e2c0210aef2ff1787": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue regarding the delay in dispatch and provides a clear next step for resolution. It is well-grounded in historical responses, maintaining a professional tone and ensuring safety by avoiding unsupported claims."
+  },
+  "f038ff9aea7b574457179534ac01d2cc889ad4c1011423746c92978acca23b03": {
+    "relevance": 4,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.6,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's issue and maintains a professional tone. However, it lacks strong grounding in historical evidence and could provide more specific assistance related to the customer's situation."
+  },
+  "f2b3a86d9db7d723b75ec2af33656e3f3eba9b0ad4ba687357b0d4d2a03f7afc": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the delivery issue and asks for tracking information, which is helpful. However, it lacks direct grounding in the historical evidence, which affects its overall score slightly."
+  },
+  "0ec45d474298e96a00d63ec266f14cc880c93bae0efafcebfa6a55e03fce0d24": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue and maintains a professional tone. It provides a useful next step for further assistance. However, while it is grounded in similar historical evidence, it lacks specific acknowledgment of the water damage issue mentioned by the customer."
+  },
+  "6154a506dd62cbae6e49058928807ff8fd08140849e1dcc464e1c0fe2c54d6df": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is relevant as it guides the customer on how to find the phone number, which directly addresses their request. It is grounded in historical evidence that supports similar responses. The tone is professional and the information provided is safe and actionable."
+  },
+  "f32a14e358a3582b98c6e3feb74b97cb1d53e109b458b12ee8a6add62aeb01d7": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 5.0,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue of a lost package, is consistent with historical responses to similar situations, provides a clear next step for the customer, avoids any risky claims, and maintains a professional tone."
+  },
+  "08439859a847f6efd61a5ebcb52dda995a5425757259e466a9bae09bb3c4cbd7": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the delivery issue and asks for the carrier's name, which is a logical next step. It is somewhat grounded in historical evidence, as similar inquiries have been made in the past, but it lacks direct context to the specific issue raised by the customer. The tone is professional and appropriate, and the response avoids any unsupported claims."
+  },
+  "1745274a8e694d54ff801593f13d28b30903054effd423c3be6a4543812ea865": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's inquiry about the winners list. While it is grounded in historical responses indicating that results will be announced soon, it lacks a specific timeframe or link, which slightly affects its groundedness. Overall, it maintains a professional tone and avoids any unsupported claims."
+  },
+  "cde11a7b42a5734723860198264d0e90cfe1771627b0195f6da677b4ac4c642f": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's concern about their order and asks for specific information to assist further, which is relevant and helpful. It is grounded in historical evidence, maintaining a professional tone and ensuring safety by avoiding unsupported claims."
+  },
+  "39949455fa8ac588c5f2967c0a5be374d34b18e665bd1b4852919a2f9adf3187": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue with the product link and provides a clear next step. It is well-grounded in historical responses, maintains a professional tone, and avoids any unsupported claims."
+  },
+  "6d75542d7f92dd15a870f3e6cc9096c3f8b85261c29007ab71dc835f6d2864a5": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's dissatisfaction with their Prime experience and offers a pathway for further assistance. While it is somewhat grounded in historical evidence regarding account and payment issues, it could be more specific. The tone is professional and the response is safe, avoiding any unsupported claims."
+  },
+  "40be66500bda981af0daa6e55020072b9aac8c46de17e7f30cec38361433bbc3": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply is highly relevant as it directly addresses the customer's issue with the sample. It is grounded in historical evidence, as similar cases have been handled by asking for a link to the book. The response is helpful, providing a clear next step, and maintains a professional tone while ensuring safety by avoiding unsupported claims."
+  },
+  "33836d2999ed6009ffe3a6fce6504e5021aa7f1eb7f254c9e500c4189d3e3e5e": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.8,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's issue about shipping costs for returns, but it lacks specific details that could directly address the customer's frustration. It is grounded in historical evidence but does not fully utilize it to enhance the response. The tone is professional and the response is safe, avoiding unsupported claims."
+  },
+  "9229963f0a6e21dc8bf39e4071eeaaeeed03ce1fefa8ddbd9a361539c87bec94": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.8,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's inquiry about product availability, aligns well with historical responses, and maintains a professional tone. It could be slightly more helpful by suggesting the customer set up notifications for restocks, but overall it is a strong response."
+  },
+  "3e92c75bde27dafd5f61d8043238d5b1437812f1e886b77b216931a4e378be2d": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue regarding receiving the wrong item and acknowledges the context of the order being for a birthday. It is well-grounded in historical evidence, providing a similar response to past issues. The tone is professional and supportive, and it suggests a clear next step for resolution."
+  },
+  "ded2adab28697f2bc266ffef98f37149eb6a155091be181472c0b4ff0b47072f": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's positive feedback about delivery speed. While it lacks direct grounding in historical evidence, it maintains a professional tone and provides a helpful invitation for further assistance, ensuring safety in its claims."
+  },
+  "4fe7898d096199bca6272eea09074e5175f6dcaa695aed6f550fe4ce1ff01987": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.8,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the customer's inquiry about the Apple Watch Series 3, but it lacks specific information about availability, which affects groundedness. It maintains a professional tone and avoids unsupported claims, ensuring safety."
+  },
+  "ec8eb910c3f740d1ab4ee382b73c24187475774d5ac2104ab2eddedba845beeb": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply addresses the customer's frustration regarding the delay and suggests contacting for further assistance, which is relevant and helpful. However, it lacks a direct acknowledgment of the specific pre-order issue mentioned, which slightly affects its groundedness. Overall, it maintains a professional tone and ensures safety by avoiding unsupported claims."
+  },
+  "314c5dd25cd3cd7ab805ee24ff6077f635631ab90db844a06645b55c8d14e3c9": {
+    "relevance": 3,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.4,
+    "pass": true,
+    "rationale": "The reply addresses the customer's concerns about privacy and fraud but does not directly respond to the specific issue of the Aadhaar card requirement. While it maintains a professional tone and ensures safety, it lacks strong grounding in the historical context provided."
+  },
+  "9c0b76f6343671f6e84e5af6002fcca25ad881d3f214fa13062189142f3a7337": {
+    "relevance": 3,
+    "groundedness": 2,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.4,
+    "pass": true,
+    "rationale": "The reply addresses the customer's issue but lacks specific relevance to the context of a senior citizen's experience with gift card theft. While it provides a safe next step, it does not fully align with the emotional weight of the customer's message, leading to a lower groundedness score."
+  },
+  "66edaa0e8431e917c19addc0a74a2c43f1ac18fe638f5427a963c51371775092": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's concern about the package delivery, is supported by historical evidence regarding delivery times, and maintains a professional tone. It could be slightly more helpful by offering specific next steps for resolution."
+  },
+  "a00d6f68e16da0262ac73e1c3e635a3d3a363c48d58d4c8faa109a02239c5cee": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's issue about leaving a review and provides a clear next step by suggesting they contact customer support. While it lacks direct grounding in historical evidence, it maintains a professional tone and avoids any risky claims."
+  },
+  "363b3b742b770f7c84683ebb363956ff08a6a87f90f156a28a59b5b12964d52e": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's concern about their parcel being left in a puddle, providing a clear next step for resolution. While it is grounded in similar historical responses, it lacks a direct reference to the specific issue of water damage, which slightly affects its groundedness score."
+  },
+  "2090a241abde1208cbf11f7445432ccbfe41103fae4ea930a59c393883f74594": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is relevant as it addresses the customer's concern about payment processing and suggests contacting customer service for further assistance. It is grounded in historical evidence but lacks specific context related to the customer's issue. The tone is professional and the response is safe, providing a clear next step."
+  },
+  "b76d15238f2fe9f3ff38f9131cd0b5ec4e709689dc353bcfde7530ea6e3a5c8f": {
+    "relevance": 4,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is relevant as it acknowledges the customer's clarification about the carrier and provides a next step. It is grounded in historical evidence, as similar responses have been used in the past. The tone is professional and appropriate, and the response avoids any unsupported claims."
+  },
+  "edcad346dd3b94cd16b51b72dcc17a72f832237b944e6615765140b93c8bea8d": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue of receiving the wrong item and asks for clarification, which is relevant. It is grounded in historical evidence, though slightly less specific than previous responses. It provides a useful next step with a link for further assistance and maintains a professional tone while ensuring safety by avoiding unsupported claims."
+  },
+  "2076fad93c92ca93aade9563209b9ba6ade472d9f646f089d8cbb29d56d9c769": {
+    "relevance": 2,
+    "groundedness": 2,
+    "helpfulness": 2,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 2.6,
+    "pass": false,
+    "rationale": "The reply does not directly address the customer's mention of 'De Volta Para o Futuro' and instead shifts focus to exploring products, which is less relevant. While the tone is friendly and safe, the lack of relevance and helpfulness lowers the overall score."
+  },
+  "07418100d55046cae71e4febb558b8eef6e0563a8f26cf915e3bafad77910c16": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue regarding wet packaging. It is somewhat grounded in historical evidence of similar complaints but lacks specific follow-up actions related to the customer's situation. The tone is professional and the response is safe, providing a clear next step for the customer."
+  },
+  "8b50ae46362f42ec87cdfb91433846053b5944e92d1759c19463a61b569ef500": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's concern about unusual account activity and provides a clear next step. While it is somewhat grounded in historical evidence, the specific context of multiple password assistance emails is not directly addressed in the examples. The tone is professional and the response avoids any risky claims."
+  },
+  "25321cc181857de327d4c836f4c3044a765f5976c89a3b3750fa6cee542796ef": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.2,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's concerns about product value and performance, and it provides a useful next step by suggesting they contact the marketplace seller. While it is somewhat grounded in historical evidence, it could have been more directly related to the specific issue raised by the customer. The tone is professional and appropriate."
+  },
+  "8c46123e10d5ab4c201fe63a8b05e280f283a564b9ea47473472d27064dae20d": {
+    "relevance": 5,
+    "groundedness": 5,
+    "helpfulness": 5,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 5.0,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue of being unable to log in and provides a relevant link for password reset, which is consistent with historical evidence. The tone is professional and appropriate."
+  },
+  "5f8fae6c7ee0851ec2ab43a58c460e78fcc1d713c7bb6296298397c419c84279": {
+    "relevance": 3,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.8,
+    "pass": true,
+    "rationale": "The reply is somewhat relevant as it addresses the need for order details, but it does not directly respond to the customer's frustration about being told there are no new codes. It is grounded in historical evidence of similar escalations, provides a useful next step, avoids unsupported claims, and maintains a professional tone."
+  },
+  "da2814b90b02ba2c72708febc49ea380603c9515fe342cdba6b92d23d2964290": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant as it directly addresses the customer's intent to return devices. It is grounded in historical evidence, though it could be more specific to the customer's situation. The response provides a useful next step and maintains a professional tone while ensuring safety by avoiding unsupported claims."
+  },
+  "d96fc723bb40957901974d1a0fc8d1c536cf1bc8696c4214e3abd428c2d6532e": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue regarding the delayed order. While it lacks specific grounding in the historical evidence, it maintains a professional tone and provides a clear next step for the customer to seek further assistance, ensuring safety in the information provided."
+  },
+  "34c3ffca6ee348a1e85b71b50291f6d0b44ae362a1b8d392da541e36ef958988": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply is highly relevant as it directly addresses the customer's issue regarding the delayed package. It is grounded in historical evidence, suggesting a similar approach was taken in past responses. The suggestion to check the carrier's website is helpful and safe, while the tone remains professional and appropriate."
+  },
+  "601d590918d0ce70a2d32863e7fa891fe12a351f7f32c26f92cd39243fb1face": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's issue regarding the delivery date change and provides a useful next step by suggesting to connect with the support team. It is generally grounded in historical evidence but lacks specific references to similar past cases. The tone is professional and appropriate."
+  },
+  "fd101443c30d9221142df09ee9c52894f58f9c1396ccf10308da09d121c14345": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue regarding the coupon code and provides a useful next step. While it lacks direct grounding in the historical evidence, it maintains a professional tone and avoids any risky claims."
+  },
+  "c48750badb21b9a5818b6e049a711ad48cf1cfa6cf08c7d6632a2367f4757a69": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is relevant as it acknowledges the customer's frustration and suggests a next step. It is somewhat grounded in historical evidence, but the specific context of multiple feedbacks is not directly addressed in past interactions. The tone is professional and the response is safe, avoiding any unsupported claims."
+  },
+  "267d74fd7a8ecccda6b14107cd60b2439d95ba4c608d9106d2d64dfc5057f9de": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's issue regarding the delay in delivery and provides a useful next step by asking about the delivery date. However, it lacks direct grounding in the specific context of the customer's message about the vinyl order, which affects the groundedness score. The tone is professional and appropriate."
+  },
+  "5f279663ce0d7fc5097f3e91535cfa0d6651e126cafd5284e36c4b8c978d7e11": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's concerns about the documentary, is consistent with previous responses, and maintains a professional tone. It could be slightly more helpful by suggesting a specific follow-up action for the customer."
+  },
+  "3abe9e391f43b6d123112aac86b49025bd69ec1d21755bfa360478c34b13cea9": {
+    "relevance": 5,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.4,
+    "pass": true,
+    "rationale": "The reply is highly relevant to the customer's issue and maintains a professional tone. While it is somewhat grounded in historical evidence, it lacks specific context from previous interactions. It provides a useful next step by asking for more details, ensuring safety by avoiding unsupported claims."
+  },
+  "7aced315677cbf80feefa44a1378b02e5a2296a79df297292339b571299b235c": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 3,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is relevant as it acknowledges the customer's positive experience with Asma, but it lacks specific details about the refund process mentioned by the customer. It is safe and maintains a professional tone, contributing to a solid overall score."
+  },
+  "e54576f0dfe7c99eef3b59ac8fcc757911b7c05e7f33423b23e079b274e9a8c5": {
+    "relevance": 3,
+    "groundedness": 2,
+    "helpfulness": 2,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 3.2,
+    "pass": true,
+    "rationale": "The reply is somewhat relevant as it acknowledges the customer's confusion but does not directly address the specific issue of the Packstation and Hermes. It lacks grounding in the historical context, which could have provided more tailored assistance. However, it maintains a safe and professional tone."
+  },
+  "bde22181597b2da738254d98aa663bb15b01a50a55ef10bc73911fecc6bb353f": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's request for a refund and provides a link for assistance, which is helpful. However, it lacks a direct acknowledgment of the customer's frustration regarding the lack of a phone number, which slightly affects its groundedness. Overall, it maintains a professional tone and avoids any unsafe claims."
+  },
+  "714e9ad60a51051dfe94d90039fd9bd0f83362a10917fee6164cf2a9bc8400d2": {
+    "relevance": 4,
+    "groundedness": 3,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 4,
+    "overall_score": 4.0,
+    "pass": true,
+    "rationale": "The reply is relevant to the customer's issue regarding delivery confusion and provides a useful next step by asking for order information. While it is somewhat grounded in historical evidence, it could be more specific to the customer's situation. The tone is professional and appropriate."
+  },
+  "149dc1e13a02d79fee770451fdbd031712995d72d092e83c7f089796eee8e72a": {
+    "relevance": 5,
+    "groundedness": 4,
+    "helpfulness": 4,
+    "safety": 5,
+    "tone": 5,
+    "overall_score": 4.6,
+    "pass": true,
+    "rationale": "The reply directly addresses the customer's issue regarding the refund and provides relevant information about the process. It is supported by historical evidence, maintains a professional tone, and suggests contacting support for further assistance, ensuring safety in the response."
+  }
+}

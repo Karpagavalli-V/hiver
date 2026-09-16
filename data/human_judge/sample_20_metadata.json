@@ -1,0 +1,45 @@
+{
+  "sample_size": 20,
+  "random_seed": 42,
+  "sampling_strategy": "stratified_by_intent_and_true_escalation",
+  "intent_distribution": {
+    "DeliveryStatus": 3,
+    "OTHER": 2,
+    "CustomerServiceEscalation": 2,
+    "DigitalServices": 2,
+    "WrongItem": 2,
+    "RefundsAndReturns": 2,
+    "DamagedOrDefective": 2,
+    "CourierFeedback": 3,
+    "AccountAndPayment": 2
+  },
+  "predicted_escalation_distribution": {
+    "ESCALATE": 20
+  },
+  "true_escalation_distribution": {
+    "AUTO-HANDLE": 10,
+    "ESCALATE": 10
+  },
+  "sampled_golden_ids": [
+    "G-1003",
+    "G-1011",
+    "G-1025",
+    "G-1029",
+    "G-1032",
+    "G-1041",
+    "G-1057",
+    "G-1059",
+    "G-1071",
+    "G-1078",
+    "G-1097",
+    "G-1118",
+    "G-1135",
+    "G-1146",
+    "G-1157",
+    "G-1158",
+    "G-1163",
+    "G-1164",
+    "G-1174",
+    "G-1178"
+  ]
+}

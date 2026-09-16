@@ -1,0 +1,135 @@
+{
+  "dataset_stats": {
+    "num_rows": 2811774,
+    "num_cols": 7,
+    "column_names": [
+      "tweet_id",
+      "author_id",
+      "inbound",
+      "created_at",
+      "text",
+      "response_tweet_id",
+      "in_response_to_tweet_id"
+    ],
+    "data_types": {
+      "tweet_id": "int64",
+      "author_id": "str",
+      "inbound": "bool",
+      "created_at": "str",
+      "text": "str",
+      "response_tweet_id": "str",
+      "in_response_to_tweet_id": "float64"
+    },
+    "missing_values": {
+      "tweet_id": 0,
+      "author_id": 0,
+      "inbound": 0,
+      "created_at": 0,
+      "text": 0,
+      "response_tweet_id": 1040629,
+      "in_response_to_tweet_id": 794335
+    },
+    "duplicate_tweet_ids": 0,
+    "duplicate_rows": 0,
+    "num_unique_authors": 702777,
+    "num_inbound": 1537843,
+    "num_outbound": 1273931,
+    "date_range": [
+      "2008-05-08 20:13:59",
+      "2017-12-03 23:14:01"
+    ],
+    "num_unique_conversations": 798012
+  },
+  "brand_stats": [
+    {
+      "brand": "AmazonHelp",
+      "outbound_tweets": 169840,
+      "inbound_tweets": 204202,
+      "total_conversations": 82534,
+      "multi_turn_conversations": 51244,
+      "avg_conv_length": 4.531974701335208,
+      "score": 17.52981287150905
+    },
+    {
+      "brand": "Tesco",
+      "outbound_tweets": 38573,
+      "inbound_tweets": 34586,
+      "total_conversations": 16721,
+      "multi_turn_conversations": 11629,
+      "avg_conv_length": 4.375276598289576,
+      "score": 16.679208084772917
+    },
+    {
+      "brand": "British_Airways",
+      "outbound_tweets": 29361,
+      "inbound_tweets": 31355,
+      "total_conversations": 16450,
+      "multi_turn_conversations": 8829,
+      "avg_conv_length": 3.6909422492401216,
+      "score": 15.075314796899058
+    },
+    {
+      "brand": "AppleSupport",
+      "outbound_tweets": 106860,
+      "inbound_tweets": 132047,
+      "total_conversations": 80702,
+      "multi_turn_conversations": 28140,
+      "avg_conv_length": 2.960360338033754,
+      "score": 14.78543345945478
+    },
+    {
+      "brand": "AmericanAir",
+      "outbound_tweets": 36764,
+      "inbound_tweets": 50820,
+      "total_conversations": 26385,
+      "multi_turn_conversations": 11577,
+      "avg_conv_length": 3.319461815425431,
+      "score": 14.568309141066235
+    },
+    {
+      "brand": "Delta",
+      "outbound_tweets": 42253,
+      "inbound_tweets": 45741,
+      "total_conversations": 26166,
+      "multi_turn_conversations": 11147,
+      "avg_conv_length": 3.3629137048077657,
+      "score": 14.432362891671897
+    },
+    {
+      "brand": "Uber_Support",
+      "outbound_tweets": 56270,
+      "inbound_tweets": 72280,
+      "total_conversations": 41923,
+      "multi_turn_conversations": 15088,
+      "avg_conv_length": 3.066335901533764,
+      "score": 14.242592814985628
+    },
+    {
+      "brand": "SpotifyCares",
+      "outbound_tweets": 43265,
+      "inbound_tweets": 48624,
+      "total_conversations": 28280,
+      "multi_turn_conversations": 10500,
+      "avg_conv_length": 3.249257425742574,
+      "score": 13.962816767192972
+    },
+    {
+      "brand": "TMobileHelp",
+      "outbound_tweets": 34317,
+      "inbound_tweets": 48413,
+      "total_conversations": 22789,
+      "multi_turn_conversations": 8620,
+      "avg_conv_length": 3.6302602132607835,
+      "score": 13.816603779837694
+    },
+    {
+      "brand": "comcastcares",
+      "outbound_tweets": 33031,
+      "inbound_tweets": 40018,
+      "total_conversations": 24061,
+      "multi_turn_conversations": 8793,
+      "avg_conv_length": 3.0359918540376545,
+      "score": 13.742850688419038
+    }
+  ]
+}

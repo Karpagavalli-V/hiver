@@ -1,0 +1,4918 @@
+[
+  {
+    "tweet_id": 2602872,
+    "text": "@AmazonHelp No, I'm on my phone, or I can use my iPad",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1099609,
+    "text": "@AmazonHelp You can search my problem with my Mobile number",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2893206,
+    "text": "@AmazonHelp admir\u00e1vel mundo novo!",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2847356,
+    "text": "Una vez m\u00e1s, @116928 hace que merezca la pena ser cliente de Amazon: Podr\u00e1n fallar lo dem\u00e1s,  pero ellos NUNCA. Gracias de nuevo.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2111027,
+    "text": "@AmazonHelp I contacted you last week and filled in a form as requested but i still haven't had anybody contact me to resolve the issue. please can somebody contact me ASAP",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2057169,
+    "text": "@AmazonHelp ... against the product page\"",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 438770,
+    "text": "@115817 RACE THE TRUCK ALREADY",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 639513,
+    "text": "He comprado: SAMSUNG GALAXY S8 PLUS GRIS via @116875 https://t.co/Pp2Yaug5JZ",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 288244,
+    "text": "@115850 Complaint: My One+5 delivery delayed by 2 days now. Have tried customer care with no respite, despite being a PRIME customer.",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1241768,
+    "text": "@115821 I have contacted the customer service department 2X since this morning about this. My order was due today, you changed it. Not \ud83d\udea2 yet https://t.co/x9j5egCDoW",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1163752,
+    "text": "@115850 @115821 @AmazonHelp #AmazonIN #AmazonIndia are all in one word stands for #AmazonCheater",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1743699,
+    "text": "Another lie from @AmazonHelp @115830. I did NOT request \"the shipment to be delivered at a different date\", YOUR issue did. https://t.co/21x14k5ykD",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2321018,
+    "text": "@AmazonHelp  trying for alexa speaker but not getting any invitation from amazon.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2170803,
+    "text": "@AmazonHelp Mein Amazon Fire TV Stick ist mit meinem Konto verbunden und die L\u00e4ndereinstellungen sollten auch passen. Trotzdem werden mir die englischen Inhalte angezeigt, die ich leider nicht abspielen kann. Fehlercode: 5505 Was kann ich tun?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 490632,
+    "text": "@AmazonHelp I mean 3 episodes not 2.",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2971968,
+    "text": "@AmazonHelp How in god's name could you send a package this big through usps",
+    "intent": "CourierFeedback",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1309611,
+    "text": "@AmazonHelp Neither, just that it\u2019s been delayed. https://t.co/CyRCcbzcn5",
+    "intent": "DeliveryStatus",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 343741,
+    "text": "@117086 No momento estou estudando q n\u00e3o t\u00e1 f\u00e1cil pra ningu\u00e9m.\ud83d\ude2a https://t.co/r9kbOv4TAW",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2388914,
+    "text": "@AmazonHelp D\u00e9j\u00e0 fait, on m'a promis un renvoi avec livraison ce jour et qui ne se fera pour finir qu'entre le 16 et le 20 (super, non ? j'aurais pass\u00e9 une semaine coinc\u00e9e \u00e0 la maison \u00e0 attendre le livreur). Habitant \u00e0 moins de 10km d'un centre de stockage, c'est plut\u00f4t la loose.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 50766,
+    "text": "@AmazonHelp Oui. On m'a confirm\u00e9 par mail qu'il y a eu + de pr\u00e9co que d'ex. dispos. J'aurais aim\u00e9 \u00eatre pr\u00e9venue avant pour le commander autre part.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2864692,
+    "text": "@117634 My Kindle won't connect to my Amazon account - can you help?",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2103071,
+    "text": "@AmazonHelp All right",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2031102,
+    "text": "@AmazonHelp It\u2019s been over 24 hours",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1777312,
+    "text": "@116875 necesito un n\u00famero de atenci\u00f3n. Me llego una compu con otras especificaciones.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 1182453,
+    "text": "@AmazonHelp 2nd time the month you have faltered on delivery I wasted entire day waiting for my delivery which never happened",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 423817,
+    "text": "@AmazonHelp Thanks a lot...",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1059290,
+    "text": "@AmazonHelp Du coup, j'en ai pris 3 pour avoir les 5% de remise.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1478289,
+    "text": "\u306d\u306d\u306d\u306d\uff01\n\u308f\u305f\u3057\u3001Amazon\u3084\u3063\u3066\u306a\u3044\u306e\u306bAmazon\u304b\u3089\u30e1\u30c3\u30bb\u30fc\u30b8\u6765\u305f\u3093\u3060\u3051\u3069\uff01\n\u300e \u6709\u6599\u52d5\u753b\u30b5\u30a4\u30c8\u3078\u767b\u9332\u2026 \u300f\u3066\uff01\n\u300e \u4eca\u65e5\u4e2d\u306b\u96fb\u8a71\u3057\u306a\u304b\u3063\u305f\u3089\u6cd5\u7684\u624b\u7d9a\u304d\u3057\u307e\u3059 \u300f\u3063\u3066\n\u3053\u308f\u3002",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "No historical evidence available.",
+    "risk_flags": [
+      "NO_RETRIEVAL_EVIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 124046,
+    "text": "\u306a\u3093\u304b\u3055\u3001\u671d\u304b\u3089Amazon\u306e\u30a2\u30d7\u30ea\u304c\u958b\u3051\u306a\u3044\u3093\u3060\u3088\u306d\u306a\u3093\u3060\u308d\u3046",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "No historical evidence available.",
+    "risk_flags": [
+      "NO_RETRIEVAL_EVIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 475072,
+    "text": "Buenas @116928, tengo un producto defectuoso del que quiero un reemplazo, no un reembolso. Y no hay manera, vosotros no proporcionais la opci\u00f3n en la web ni el vendedor me responde por email. Ayuda plz",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 897103,
+    "text": "@AmazonHelp I just sent an email with requested details (my amazon account : __email__)",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2162450,
+    "text": "@115850  I have ordered Motorola C but instead I got dummy phone.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 861191,
+    "text": "Dear @115830, I\u2019m a Prime member, I ordered 2 travel high chairs on Friday, 1 arrived on Sunday but still waiting for the other , after 2 phone calls to your customer service who fob us off with excuses, still no highchair.",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2674162,
+    "text": "@115850 @AmazonHelp i think u have started cheating innocent peoples still not got my cashback https://t.co/ootKKwO1Yd",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2481734,
+    "text": "@115821 I cannot overstate how much easier that you make my life up here in Kodiak, AK. Thank you so much for providing an amazing service",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2542940,
+    "text": "@AmazonHelp Even though I preordered, amazon is saying Pokemon won't arrive until Monday? Why so late?",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 11974,
+    "text": "@AmazonHelp My Halloween costume is a day late. Can you help?",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2870650,
+    "text": "@AmazonHelp why not put on your site between what times items may be delivered cause as a first time user I expect early rather then 8pm",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2962792,
+    "text": "A day wasted waiting for an Amazon delivery. Email saying tried to deliver. No card through letter box and no sign of any vehicle. They will try and deliver again tomorrow before 21:00hrs. Sounds like another wasted day. Not impressed at all Amazon @115821",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 861291,
+    "text": "@115850 do you need some commission to get the product picked up? B vocal. Highly disappointed with post sales.. get it done soon.",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2938314,
+    "text": "@AmazonHelp bit concerned that my parcel was out for delivery last Friday, but has been delayed due to external reasons? @116324 can't give me any updates",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 15701,
+    "text": "@AmazonHelp You have all my details. Please expedite the process",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1097835,
+    "text": "@AmazonHelp #decepcionado https://t.co/oLW7AH5ez3",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2906726,
+    "text": "@AmazonHelp You seriously aren't doing any favors for @115821. I have spent hours on the phone trying to resolve the simplest damn things. #Amazon do you think that you are the only place that sells things? Bc you aren't. #BoycottAmazon.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2236338,
+    "text": "@AmazonHelp To this adress :MANSHA SINGH COMPLEX, NEAR BHAKTINAGAR CHECK POST, SEVOKE RD, SILIGURI, WEST BENGAL, 734004 India",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 235731,
+    "text": "@AmazonHelp i have completed 1deal with difference in price hav screenshots . will post invoice with price once product is received 2/3",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2969441,
+    "text": "@AmazonHelp Just emailed them, hopefully I can get the items replaced quickly!",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 162069,
+    "text": "@115821 @115850 @AmazonHelp #2ndReminder",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1380699,
+    "text": "HEADS UP: @AmazonHelp refusing to honor their warranty on an Echo Dot with the blue ring of death. Buyer beware.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2115575,
+    "text": "@AmazonHelp I've fixed the problem. But your messaging is misleading. I was led to believe everything was ok and that my order would arrive today.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1490306,
+    "text": "@AmazonHelp I already did",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2533197,
+    "text": "@AmazonHelp Son in law too busy at work - he will phone you later - what is the latest time for anyone to be available?",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 719338,
+    "text": "@115850 got a promotional copy of book sita by Amish for order I\u2019d 406-3541723-4221963. How come promotional copy being sold on amazon. https://t.co/rwv6IQMaMW",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 588668,
+    "text": "@AmazonHelp I ordered from amazon uk. And I didn\u2019t get any updates from tracking. And I just chat with Amazon uk and they didn\u2019t have any updates at the moment if they have they will email me greetings",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1595296,
+    "text": "@115830 - pls stop using Hermes. Seriously. Look at their timeline. It's all complaints. https://t.co/r7l7SovuHo",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2603029,
+    "text": "Bon @AmazonHelp pour chaque sortie de Pok\u00e9mon vous comptez mettre en retard les livraisons ? C'est dommage mais j'vais retourner chez Fnac j'pense trop d'abus",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2073922,
+    "text": "Amazon\u306eMusic Unlimited\u3063\u3066\u3001\u30c7\u30b8\u30bf\u30eb\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30b9\u30c8\u30a2\u306b\u3042\u308b\u3082\u306e\u306f\u5168\u90e8\u8074\u3051\u308b\u3068\u601d\u3063\u3066\u3044\u3044\u306e\u304b\u306a\uff1f",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "No historical evidence available.",
+    "risk_flags": [
+      "NO_RETRIEVAL_EVIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 1407709,
+    "text": "@447205 @AmazonHelp Incredible, isn't it?! I'm surprised it wasn't nicked or drenched, given today's weather.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 276472,
+    "text": "@AmazonHelp \u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\ud83d\ude4c\ud83c\udffb\ud83d\udc95\n\u697d\u3057\u304f\u898b\u3055\u305b\u3066\u3044\u305f\u3060\u304d\u307e\u3059\uff01",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 983308,
+    "text": "@AmazonHelp A little difficult, since my order isn't showing up on the list. It only shows my previous orders, which have been delivered successfully.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2985519,
+    "text": "@115821 has the best customer service! Thank you for valuing me as a customer \ud83d\udc9b https://t.co/RLLiYy1kbT",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION"
+    ]
+  },
+  {
+    "tweet_id": 1746980,
+    "text": "@AmazonHelp Thanks for the offer, but I'm going to pass. I've been issued a refund. Makes zero sense. Please talk to your carriers. I picked a delivery window for a reason.",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1939058,
+    "text": "@117086 @AmazonHelp tem mais informa\u00e7\u00f5es sobre o desktop dx210 atlas de 8GB e 1,5TB? Ele vem com mouse e teclado?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 345827,
+    "text": "@AmazonHelp I have already got in touch with customer service, they need 4 days to investigate. Why did you need such a long time",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2452895,
+    "text": "@AmazonHelp Jedoch ist eine Bestellung von Juni und eine vom September.\nDiese h\u00e4tte ich gerne zusammengefasst. \n2/3",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 897106,
+    "text": "@AmazonHelp I just shared the issue details and my amazon account is \"__email__\"",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1505560,
+    "text": "@AmazonHelp Awesome, thanks :)",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1200605,
+    "text": "Ordered product at 11 PM yesterday, @115850 delivered it at 10 AM today. Within 11 hours. Insane! Amazon setting up really high standards.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 468765,
+    "text": "@AmazonHelp I am still waiting for your reply",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION"
+    ]
+  },
+  {
+    "tweet_id": 487822,
+    "text": "@AmazonHelp You still have the TV we ordered available so you should be sending us that. That\u2019s what we ordered.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2753581,
+    "text": "@AmazonHelp Nothing\u2639\ufe0f Is it possible that it\u2019s still being delivered and it\u2019s just a glitch? It\u2019s 6pm here so I have another 3 hours to find out. I\u2019m just worried I paid a scammer, but I ordered from the official Nintendo amazon page.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 884938,
+    "text": "Why does @115821 refuse to show products that literally match, exactly, the search phrase entered? Way to make search worthless!",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 603179,
+    "text": "@AmazonHelp When the orders have turned up, we think it has been the same courier but we\u2019re not 100% sure. Prior to the last month or so it was always the same delivery guy and he was brilliant.",
+    "intent": "CourierFeedback",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1568152,
+    "text": "@AmazonHelp the desktop version of Amazon Music has been acting weird. It keeps stopping 10 secs into the song. Is this fixable?",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 827566,
+    "text": "@AmazonHelp Already done.. but nothing from there end also ..",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 180859,
+    "text": "Guess who gave this seller a surprise visit during the festive season? https://t.co/gJbrl4XjQZ",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 503572,
+    "text": "@115830 delivery #fail :-/ kind of confused how tracked packages do this... https://t.co/T9JlEx766c",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1599261,
+    "text": "Dear Amazon, you let me down big time. I bloody had to leave my house to go get my food colouring. #Heinous #IPayForPrimeDangIt",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2975767,
+    "text": "@136314 In fact - the same error no matter what folder I select - even local HDD.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2557210,
+    "text": "@AmazonHelp Ok that\u2019s two out of the three ( you guys should allow prepayment so any of my fellow college students could take advantage of that) can you please help me get it here for tm",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 176413,
+    "text": "@AmazonHelp Si, recib\u00ed muchos correos, he seguido las instrucciones. He llamado a su n\u00famero de atenci\u00f3n a clientes, en la \u00faltima llamada la persona que me atendi\u00f3 fue s\u00faper grosera y con una actitud burlona todo el tiempo...",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 877636,
+    "text": "@AmazonHelp Non je t'ai dm",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2602231,
+    "text": "@AmazonHelp I cant get to the site to even loh in",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1048140,
+    "text": "@AmazonHelp Plz check your internet connection after you log in your email id",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 607356,
+    "text": "@AmazonHelp Nothing has been advised hence why I'm asking for advise.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1993284,
+    "text": "@AmazonHelp Literally all I get from customer support is that there are none, and free one-day shipping. All I'm asking for is how it's even possible...",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2877075,
+    "text": "\u79c1\u3044\u3064\u304b\u3089Amazon\u30d7\u30e9\u30a4\u30e0\u4f1a\u54e1\u306b\u306a\u3063\u3066\u305f\u3093\u3060\u308d\u3046\u3002\u3002\u305f\u307e\u305f\u307eAmazon\u306e\u30b5\u30a4\u30c8\u898b\u3066\u767a\u899a\u3057\u305f\u3093\u3060\u3051\u3069\u3001\u6709\u6599\u767b\u9332\u3057\u305f\u899a\u3048\u304c\u5168\u304f\u306a\u3044\u3093\u3067\u3059\u304c\u3002\u3002(\u0e51\u02d9\u2015\u02d9\u0e51)\uff1f\u5e74\u95933900\u5186\u3068\u304b\u2026\u3048\u3063\u307b\u3093\u3068\u3044\u3064\u304b\u3089\uff1f\u4f55\u5e74\u524d\u304b\u3089\u6255\u3063\u3066\u305f\u306e\uff1f\u307f\u305f\u3044\u306a\uff08\u7b11\uff09\u304a\u304b\u3057\u3044\u3002\u3002\u9154\u3063\u3071\u3089\u3063\u305f\u52e2\u3044\u3067\u767b\u9332\u3057\u305f\u3068\u304b\u304b\u306a\u3041\u2026",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "No historical evidence available.",
+    "risk_flags": [
+      "NO_RETRIEVAL_EVIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 500824,
+    "text": "@AmazonHelp Just an fyi, I have been filling out a lot of those forms lately. That's not good. Hope things change. Thank you for your assistance.",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2501907,
+    "text": "@AmazonHelp Neta est\u00e1n o de verdad lo son, me hacen llegar correo pidiendo que inicie sesi\u00f3n cuando mi problema es que no puedo iniciar sesi\u00f3n, como esperan les explique?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2944276,
+    "text": "So disappointed @115821!\nOur Peds clinic ordered 3 babies for 3 sibling girls. Which one do you think should get this terrible packaging? \ud83d\ude44 https://t.co/drYJTtOXXu",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1389509,
+    "text": "@AmazonHelp I always get delivery boy name and number in advance but in this case I have not get any such sms from amazn. Reply says \"ask to neighbours\"",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2200670,
+    "text": "@AmazonHelp I have adjusted all the settings. There is no setting to disable hints  such as. Try \u201c Alexa,who\u2019s your favorite superhero?\u201d\nThis is a major flaw on an otherwise beautiful screen.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1148372,
+    "text": "@AmazonHelp Ok thanks I will keep you posted",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 400300,
+    "text": "@AmazonHelp No reply for my query @115850",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 136975,
+    "text": "@AmazonHelp Thanks for wasting my time and linking me to the US support page, i'm in the UK!!",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 930259,
+    "text": "@AmazonHelp J\u2019ai tout \u00e0 fait compris, en attendant on parle d\u2019un produit command\u00e9 samedi \u00e0 pr\u00e8s de 400\u20ac. C\u2019est vraiment impardonnable. Mais comme c\u2019est pay\u00e9, je ne peux qu\u2019attendre de toute fa\u00e7on.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 40405,
+    "text": "@115830 Your delivery has really gone down hill.    No delivery.  Lets see what my Nest cam shows tomorrow.  If they lie again.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2321629,
+    "text": "@AmazonHelp Ihr wart es,nachdem die Lieferzeit vom 3.november einfach auf unbestimmte Zeit verschoben wurde und neue Bestellungen 1-w Monate waren habe ich storniert und direkt bei, Hersteller bestellt \ud83d\ude12",
+    "intent": "DamagedOrDefective",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2987740,
+    "text": "\u30a2\u30de\u30be\u30f3\u3092\u9a19\u3063\u305f\u67b6\u7a7a\u8acb\u6c42SMS\u6765\u305f",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "No historical evidence available.",
+    "risk_flags": [
+      "NO_RETRIEVAL_EVIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 1108261,
+    "text": "Hay empresas que se hay robado mi coraz\u00f3n y despu\u00e9s esta @115821",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2260820,
+    "text": "@115821 Flex might be the worst thing in the history of online shopping. #FAIL",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2801387,
+    "text": "@AmazonHelp Ma\u00f1ana mismo. Lo recibire, lo montare y a provar.\ud83d\udeb5\ud83e\udd33\ud83c\udffc\n\nSois la mejor p\u00e1gina para comprar online.\ud83d\udc4c",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 505034,
+    "text": "My floor lamp from @115821 says it was delivered but not here :(  I needed it for my fourth hue light",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 515277,
+    "text": "@115821 my package  was NOT handed to a resident. Just an FYI because you hire random people to deliver now.  Was left on front steps. https://t.co/xCMFFTmfR8",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 859635,
+    "text": "@AmazonHelp Oui, ils m'avaient promis une livraison aujourd'hui.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 280406,
+    "text": "Someone please help me in getting my refund at Amazon. It's been 20 days I cancelled but still no help @115850 @AmazonHelp @115851",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2752077,
+    "text": "@AmazonHelp Does that impact just the default store on devices? Or does it also affect the amazon shopping site and apps?",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 648408,
+    "text": "@274086 @AmazonHelp Did you ever get that sorted out cause I have the same thing sheesh",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 934357,
+    "text": "@AmazonHelp Bo\u00eete aux lettre toujours vide... #JeVeuxMonKaraoke",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2488522,
+    "text": "AMAZON.CA: \"Alexa, what are thrilled to announce to our Canadian customers?\"\nALEXA: \"We're thrilled to announce the launch of our Echo Dot, Echo and Echo Plus on Amazon.ca!\" \nhttps://t.co/KzpwN8nIs9 https://t.co/47DwyjKx0G",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1363829,
+    "text": "Sorry who thought this was an acceptable way to package a box of chips. Who?? https://t.co/DEWYj2MFhX",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1516352,
+    "text": "Amazon\u3056\u3063\u3051\u3093\u306a\uff01\uff01\uff01\n21\u65e5\u904e\u304e\u3066\u3093\u30be\uff01\uff01",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "No historical evidence available.",
+    "risk_flags": [
+      "NO_RETRIEVAL_EVIDENCE",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 1835669,
+    "text": "@AmazonHelp \u3053\u3061\u3089\u3053\u305d\u3067\u3059\uff01\n\u666e\u901a\u306famazon\u304b\u3089\u901a\u77e5\u304c\u6765\u308b\u4e8b\u306a\u3093\u3066\u306a\u3044\u306e\u3067\u3001\u9a5a\u304d\u307e\u3057\u305f....",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 281970,
+    "text": "There you go public, a parcel left on a doorstep by @115830 for all &amp; sundry  to see. The future is in good hands \ud83d\udc4d https://t.co/Zl4eEsrgNR",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 609348,
+    "text": "@AmazonHelp Great reply from u here and on email from ur learned colleagues which tell no responsibility of the delivery boy or company if you do fraud with customers",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Financial dispute detected.",
+    "risk_flags": [
+      "FINANCIAL_DISPUTE",
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2928410,
+    "text": "@AmazonHelp Its done, plz listen the call &amp; Charan doesn't deserve in customer servicing, such miscnonduct &amp; unethetical version is  not acceptable at all from any of the Chap.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 961095,
+    "text": "@AmazonHelp \u30e1\u30fc\u30eb\u5c4a\u304d\u307e\u3057\u305f\n\u308f\u3056\u308f\u3056\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 510268,
+    "text": "@AmazonHelp Vu tous les tweets que je viens de lire, c'est inadmissible que Amazon prenne encore @120535 pour ses envois. Laissez nous le choix du transporteur au pire ...",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1744090,
+    "text": "@AmazonHelp Let me know, when I refused my product on 17.10.17, on which date my product was shipped for returned to you???",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 445520,
+    "text": "@AmazonHelp I will not buy any product from @115850  from now on &amp; I will suggest d same to ppl around me. I was a regular shopper at Amazon before what happened today. Nor will I buy a @132995  product .I may b a small customer for u but even a small customer can bring a big difference",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2756032,
+    "text": "@AmazonHelp I tried to fill out your form but what is the url thing? I can\u2019t right click from my phone. Is this supposed to be user friendly??",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1328913,
+    "text": "@AmazonHelp Hey, I got an email finally showing me where to send these emails to. I appreciate the help. Now time to crack down. :-)",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 318654,
+    "text": "@AmazonHelp Spoke to customer services yesterday and was assured that it would be delivered at all costs by yesterday. Surprise surprise didn\u2019t turn up",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2102446,
+    "text": "@AmazonHelp I live in rural Alabama. And was told tonight by CS that the item is out of stock and they don\u2019t know when it will return.",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 970287,
+    "text": "@AmazonHelp Can't you advise your Amazon prime courier to do that early? How come you people have no influence over your courier partner?",
+    "intent": "CourierFeedback",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2261641,
+    "text": "@AmazonHelp so, what's your phone number? btw do all asian order #s start w/ 114?",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 635725,
+    "text": "@AmazonHelp \ud83d\ude33",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 62161,
+    "text": "@AmazonHelp Thank you",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 498394,
+    "text": "Colis @120533 ouvert, un produit vol\u00e9... Le voleur a eu la bont\u00e9 de me laisser mon livre ! https://t.co/9z7PNUv9zc",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 231760,
+    "text": "@119625 @121284 I am still waiting for the invite. I want to buy one for me and one for my parents before diwali.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 438704,
+    "text": "@115821 used to love using you... for some reason now you always mess up my deliveries. I gave you my access code, and it's saved under my address but for some reason you still have problems. Over it.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 142786,
+    "text": "@AmazonHelp Perfetto grazie mille \ud83d\ude09 buon week",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2253179,
+    "text": "@115821 wheres my rwby case",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1355336,
+    "text": "@AmazonHelp Yes I needed something before I went away and paid for extra shipping and now it won\u2019t be here until tomorrow.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 499991,
+    "text": "@AmazonHelp era un regalo de cumple para hoy. Llevaba mucho tiempo sin hacer un pedido con vosotros xq me pas\u00f3 lo mismo la \u00faltima vez y casualidad pasa lo mismo.Si se pone una fecha espero el pedido en esa fecha, si no iba a llegar hoy hubiera comprado en otro sitio.201730__credit_card__",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 778890,
+    "text": "@AmazonHelp Then why doing business with your consumers? how can they deliver it by next day???",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 970275,
+    "text": "@AmazonHelp Yes, it installs via the Amazon App store, but if I install it this way then I won't be able to use it in Android Auto.",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2728073,
+    "text": "@AmazonHelp @115821  can you explain why my package arrived like this please. Clearly the sticker has been put in a stupid place so my name/address couldn't be seen and the delivery driver had no choice but to open my package. Unacceptable. https://t.co/1EuQNm6x75",
+    "intent": "CourierFeedback",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1064868,
+    "text": "@AmazonHelp But I am not doing canllection for the same Your Delivery Guys Wrongly Put Ths Remarks You Penalise him and ask y ths happen ?",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 639624,
+    "text": "@AmazonHelp I have emailed. Can\u2019t begin to tell you how angry I am with this pathetic excuse which is a complete fake reason",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 44525,
+    "text": "@AmazonHelp Thanks a LOT",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 378959,
+    "text": "@AmazonHelp yes issue with buyer and no enjoy from seller central...sent item ,amz gave refund and they kept it.",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 844155,
+    "text": "@AmazonHelp Kindly arrange call to my number",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 386763,
+    "text": "@115850 I was supposed to get this phone today,asked delivery guy to come in eve. he agreed. Now he doesn't answer his phone &amp; I get this https://t.co/JS1vT14Nmd",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1868799,
+    "text": "\u30a2\u30de\u30be\u30f3\u306e\u30b3\u30f3\u30d3\u30cb\u5230\u7740\u306e\u30e1\u30fc\u30eb\u304d\u305f\u306e\u306b\u30b3\u30f3\u30d3\u30cb\u306b\u5c4a\u3044\u3066\u306a\u304b\u3063\u305f\u3084\u3064\u306a\u3093\u306a\u3093",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "No historical evidence available.",
+    "risk_flags": [
+      "NO_RETRIEVAL_EVIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 1327743,
+    "text": "@AmazonHelp I ordered something and I recieved an email saying that it\u2019d be here on the 27th of October and it isn\u2019t here. Is there a reason https://t.co/s4ntXTSeJQ",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 932222,
+    "text": "@AmazonHelp Forgotten my remote- how to I connect the fire stick to the new WiFi without it?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1561187,
+    "text": "@AmazonHelp Ca aurait pu faire une bonne campagne marketing ..",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1922925,
+    "text": "@115821 hi there i had ordered a product and its not delivered on time even paying the extra money for delivery..",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2371392,
+    "text": "@AmazonHelp And a refund of the $99?",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2979674,
+    "text": "@AmazonHelp That still doesn't make sense, 4 items are the same, coming from the same distribution center, shipped the same day, arriving the same day, but all in their own boxes.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2957075,
+    "text": "@812009 Amazon hat extrem beim Katalog nachgelassen, fr\u00fcher wurden da diverse Quellen eingekauft + gemerged + von Hand! gepflegt.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2356846,
+    "text": "#amazonprimenow Son comes home from school at 6.30. Needs acrylic paints, brushes, pencils NOW. Sorted! Thank you",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1916285,
+    "text": "@AmazonHelp Thanks \ud83d\ude4f\ud83c\udffd",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Intent classification confidence is below threshold.",
+    "risk_flags": [
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 995425,
+    "text": "hallo @116316 was ist denn ein M\u00e4nnergeschenk?\nIch mag die H\u00fcllen f\u00fcr die Smartphones auch.\nNa ja........... https://t.co/uFBTzqhtWp",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 667728,
+    "text": "@AmazonHelp hola el tracking de mi paquete dice ya llego pero no lo he recibido tengo el n\u00famero de orden 113-0449038-9291423",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 64059,
+    "text": "@115821 Amazon making fool of people's for playing quiz on Amazon App..  And not accouncing the winner list on that app.. ...  Only doing there publicity to give prizes..",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 762493,
+    "text": "@AmazonHelp No i ended it as i couldn't stand it any longer",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1188560,
+    "text": "@50431 ordered a fridge thru @115821 on 16th which was 2 ship on 18th. Still not shipped and no way to get in touch with u 1/2",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2944392,
+    "text": "@AmazonHelp Yes, I received a confirmation for my orders (3 separate packages), one is currently out of stock, one has been dispatched and the other I should be recieving tomorrow has not been dispatched yet. But I can not see the items on my account!",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 660430,
+    "text": "@AmazonHelp my mom ordered Tupperware but it shipped without the lids....? What can we do",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2149456,
+    "text": "@AmazonHelp Thank you!",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 984713,
+    "text": "@AmazonHelp already done, waiting for solution not your repetitive statements...",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2352322,
+    "text": "Je crois que je vais arr\u00eater de commander sur @120533 tant que Colis-Priv\u00e9 continuera la livraison de leurs colis jusqu'\u00e0 mon domicile... https://t.co/UXiOQIrF8L",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1844497,
+    "text": "amazon\u306e\u7bb1\u3001\u304a\u6c17\u306b\u5165\u308a\u30cb\u30e3\uff01 https://t.co/5tpV2WlpKw",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1568802,
+    "text": "@115850 what a rubbish?... making fool to people...no delivery https://t.co/CQNqCUMmfb",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2952274,
+    "text": "@119625 Any idea if you will have app on android tv play store? Even hotstar has an app now on it.",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Intent classification confidence is below threshold.",
+    "risk_flags": [
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 520714,
+    "text": "@AmazonHelp Thank you!!",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 440503,
+    "text": "@AmazonHelp Les sims! Toute ma vie \ud83d\ude02 Et pokemon ou Mario sur 3ds ^^",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2372342,
+    "text": "@AmazonHelp Hey, I'd like to cancel a digital pre-order for an xbox game but there's no option to cancel...help?",
+    "intent": "RefundsAndReturns",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1318961,
+    "text": "Ah mon collector de #WolfensteinTheNewColossus est finalement livr\u00e9 par la poste \ud83e\udd14 @120533  n'ont plus leur propre livreur ?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 1595235,
+    "text": "@116316 Es geht mir auch nicht darum, dass es heute nicht kommt, sondern dass wahrscheinlich gar keine CE mehr kommt. Ist immerhin begrenzt (4/*)",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2454020,
+    "text": "@120781 @57247 @AmazonHelp  requesting a return for product since 28 October but it is not being picked up... And Now they @115850 not responding.... It's matter of 33000",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 167892,
+    "text": "@AmazonHelp So the sale would be for sometime? \nSo when does the official normal sales start!",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1774113,
+    "text": "@132037 @19914 @119862 @19915 @120692 @130723",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 144160,
+    "text": "@AmazonHelp \u53c2\u308a\u307e\u3057\u305f\u3002",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 707849,
+    "text": "@AmazonHelp  https://t.co/PbIqznp7ae",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2498247,
+    "text": "@AmazonHelp can you guys at least give me my money back? @115821",
+    "intent": "RefundsAndReturns",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2956933,
+    "text": "@AmazonHelp Siempre cumplieron en tiempo y forma! Por supuesto tienen ganado el derecho a que tengamos paciencia! Seguro en pocos d\u00edas estar\u00e1 todo resuelto de la mejor manera!",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 309464,
+    "text": "@AmazonHelp Am I getting my package today or not?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 856606,
+    "text": "@AmazonHelp Not yet because after I went through checkout the date changed from Saturday to Monday.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 511705,
+    "text": "@AmazonHelp It was a Prime eligible item. Ordered it yesterday, given Monday 04/12 as the soonest prime delivery option.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1190173,
+    "text": "@AmazonHelp This was @6841 response: \"There are some limits to what I can tell you because we have a contractual arrangement with the retailer so the best thing to do is to contact them for a full update.\" I have raised an investigation ticket. I'm just glad @115830 are here to help.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 680402,
+    "text": "@AmazonHelp Done.",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2739406,
+    "text": "Apr\u00e8s 3 soit disant passages du livreur, 5 conseillers au t\u00e9l\u00e9phone, (sans compter #twitter) voila le r\u00e9sultat ! merci @120533 Et bien vous pouvez d\u00e9finitivement m'oublier en tant que client pour #AmazonPrime, et m\u00eame pour #Amazon tout court ! #onnousprendpourdescons https://t.co/a5Pfv5QlTB",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1460567,
+    "text": "Gracias @126718  y @116875 https://t.co/O0oEjH2aNV",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2161848,
+    "text": "@AmazonHelp you\u2019ve sent me a message online, but just can\u2019t reply to it\ud83d\ude44 @115821",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION"
+    ]
+  },
+  {
+    "tweet_id": 2523397,
+    "text": "Thank You @134682 for carefully delivering my Mirror, MARKED FRAGILE, from @AmazonHelp today. https://t.co/9YW4eRQoIY",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 445530,
+    "text": "Record-breaking launch day sales - in just 6 hours, the #OnePlus5T has become our fastest selling device. Order now. https://t.co/vErBcGRqXX https://t.co/0DvxL1dqUA",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 318546,
+    "text": "@115850 how can I DM you in Twitter, https://t.co/J4Hs28M02e",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2433660,
+    "text": "@94907 meant2deliver 2 prime items today.text sayin theyve delivered+ showas delivered on amazon.no reply frm https://t.co/uGAq6WkoYI!",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2319291,
+    "text": "@AmazonHelp Muchas gracias",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2956922,
+    "text": "@AmazonHelp @UPSHelp you got nothing?",
+    "intent": "CourierFeedback",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2571943,
+    "text": "Elektronische Thermostate bei @116316 bestellt und Wodka-Set in Totenkopf \ud83d\udc80-Form geliefert bekommen. Wer von Euch war das? https://t.co/vsxY8x96mS",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2940186,
+    "text": "@AmazonHelp Aidez moi ! Ma commande n'est pas arriv\u00e9 !",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 980065,
+    "text": "@115850 your services is very pathetic I will suggest to everyone just quit this marketplace",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1380493,
+    "text": "I hardly use @119625 because I can\u2019t @5525 it.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 657835,
+    "text": "@AmazonHelp Absolument pas",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1247166,
+    "text": "@AmazonHelp Sent a DM",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1251984,
+    "text": "@AmazonHelp This delay was not expected. There no body to answer. Sadden with service https://t.co/sOiAIzRLR0",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 297880,
+    "text": ".@115850 is just losing it. U guys took the order, and then cancelling it after 4 days saying vendors not confirmed it. 1/2",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2700806,
+    "text": "@AmazonHelp Why was it that right up until close to 8pm your site still said \"Out for delivery\" and then suddenly it said you attempted delivery at 6:58, Item not in the normal secure place, not left with neighbours, and no note was left. #TotalFail",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 824098,
+    "text": "I've had nothing but problems with almost every other shipment with my Canadian Amazon Prime, so frustrated, no one cares @AmazonHelp 1/2",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2697958,
+    "text": "@AmazonHelp after #harassing for a week @115850 has #refunded my money. Now they r not sharing result of invstgtn , no #harassment  #compensation #such a #worst #company",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 478504,
+    "text": "Marre des retards de livraison sur @120533 heureusement je commande pas avant la semaine de No\u00ebl ...",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2303626,
+    "text": "@AmazonHelp This is the item that your order fulfillment teams repeatedly cannot seem to find. https://t.co/KAUqMB82xD",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 572907,
+    "text": "@AmazonHelp \u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\ud83d\ude0a\n\u697d\u3057\u304f\u4fbf\u5229\u306b\u4f7f\u308f\u305b\u3066\u9802\u3044\u3066\u307e\u3059\u2728\nAmazonEcho\u306b\u95a2\u3057\u3066\u306f\u30d6\u30ed\u30b0\u3067\u3082\u8a18\u4e8b\u3092\u66f8\u304b\u305b\u3066\u9802\u3053\u3046\u3068\u601d\u3044\u307e\u3059( \u25e0\u203f\u25e0 )\n\u4eca\u5f8c\u3068\u3082\u5b9c\u3057\u304f\u304a\u9858\u3044\u81f4\u3057\u307e\u3059\u2728",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1128063,
+    "text": "@AmazonHelp After 30 mins on call still there is no result. Things did not work. What do u need?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 179361,
+    "text": "@AmazonHelp First u told wait till 3 Sept then 9 Sept and still u don't have anything. Why are u wasting my time?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 64042,
+    "text": "@AmazonHelp I just got an email with a new delivery date of Friday.  This is unacceptable.  I've gone days without a bed because of this, and I have no reason to believe it won't be pushed to Saturday and beyond.",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 179175,
+    "text": "@AmazonHelp I am shocked.That how can u add seller with half https://t.co/xITKKrwr5z have no contact details of seller. He is not responding.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 853885,
+    "text": "@AmazonHelp Me han cobrado de mi tarjeta d\u00e9bito un cargo que no he autorizado, para amazon Premier 107 d\u00f3lares.No lo autorice ni he tenido AmazPremier",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 324378,
+    "text": "Hey @115850, does prime benefit include delayed deliveries?",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2825704,
+    "text": "@115850 @115821 been 3 days now used cash load servce and i hvnt got the cash till now in amzn pay accnt. I need to shop i cant . I have writn mails but they say to wait n wait , i want my money and compensation for the same i want my bloody cash back",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1044233,
+    "text": "amazon\u304b\u3089\u6ce8\u6587\u3057\u305f\u899a\u3048\u306e\u7121\u3044\u3082\u306e\u304c\u5c4a\u3044\u305f\u30fb\u30fb\u30fb\u3002\u6ce8\u6587\u5c65\u6b74\u304c\u306a\u3044\u304b\u3089\u81ea\u5206\u306f\u660e\u3089\u304b\u306b\u6ce8\u6587\u3057\u3066\u306a\u3044\u3002\u7d0d\u54c1\u66f8\u3082\u5165\u3063\u3066\u306a\u3044\u304b\u3089\u3001\u3069\u3053\u304b\u3089\u306e\u4f9d\u983c\u3067\u767a\u9001\u3055\u308c\u305f\u304b\u3082\u308f\u304b\u3089\u306a\u3044\u30fb\u30fb\u30fb\u3002",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "No historical evidence available.",
+    "risk_flags": [
+      "NO_RETRIEVAL_EVIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2945538,
+    "text": "@AmazonHelp When I was shopping for the item (on Monday) it said have this item by 11/29. After order completion it gave me a date of Dec1. \ud83e\udd14",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2275299,
+    "text": "Tell me how a 2.97$ item has $19.95 in shipping +tax @115821!!! We really boutta fight tho",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2953620,
+    "text": "Multiple @115821 packages delayed in the last 30 days. What\u2019s up with that? #AmazonPrime.",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1786165,
+    "text": "@116875 Sigo esperando.... ya van 15 d\u00edas y todav\u00eda no me resuelven nada de mi pedido. Son la peor tienda. https://t.co/TYX7jpwCVg",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 694411,
+    "text": "@AmazonHelp Done !",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2606135,
+    "text": ".@AmazonHelp Is there any way to put a preference on file on which shipping carriers to avoid at all costs? Like lets say @127917 ?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 984707,
+    "text": "@115850 U can DM ur reply. It's not necessary to tweet.",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2970541,
+    "text": "@AmazonHelp So... I get a damage product from you guys, or the delivery options, and I have to re-buy it at a higher price? I'm already being inconvenienced in having to return three items, but now I have to pay more for them too? That's unacceptable.",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 248609,
+    "text": "@175066 @115850 What u ordered",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2946849,
+    "text": "Nobody is home except my dog lol. I really doubt he opened the door to accept this delivery but okay @115830 https://t.co/6K8RQkuryN",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 314011,
+    "text": "@115850 Either my duplicate has received the courier or the courier service is lying blatantly. And 9 PM is not the time to deliver this. https://t.co/1BcxLOusxn",
+    "intent": "CourierFeedback",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2606647,
+    "text": "Really disappointed with @115830 recently. Anyone else pay for prime but not always get next day delivery?",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2895872,
+    "text": "Honestly @115830 delivery service is impeccable\nMy last 4 orders have all arrived 2 days early\nCloud nine lads",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2078556,
+    "text": "@AmazonHelp can you tell me what\u2019s the difference between them? https://t.co/UCIbCDUcno",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 21939,
+    "text": "@AmazonHelp details updated on link provided. fed up with your delivery system. india resides in Bharat, and your service at bharat is too bad",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 877637,
+    "text": "@AmazonHelp Oui et la 2e a \u00e9tait envoyer dans une poste et non a l'adresse indiqu\u00e9 ( j'ai mis 0 point relai )",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1728639,
+    "text": "@115850 ORDER ID:406-2187606-0997924 the delivery boy is threatening me if i dont come down to the main gate he will take the product back",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 448228,
+    "text": "@AmazonHelp Wenn ihr mit dem Bearbeiten von Retouren nur auch so schnell w\u00e4rt wie ihr es beim Geld einziehen seid \ud83e\udd26\u200d\u2642\ufe0f",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2389771,
+    "text": "@AmazonHelp again amazon delivered the wrong product! Again!!!!",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 160409,
+    "text": "@AmazonHelp Have gotten many emails and have spoken to someone from Password Escalation team. None of their suggestions have worked.",
+    "intent": "AccountAndPayment",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1000142,
+    "text": "Love how these @115821 deliveries have been left outside in the open by our gate when we\u2019re home all day. Our front door is 10ft away! \ud83d\udc4d\ud83c\udffb",
+    "intent": "CourierFeedback",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2105727,
+    "text": "I just ordered a giraffe onesie for my wife on @117795, best day ever.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1241765,
+    "text": "@AmazonHelp And I contacted them 2X since and nothing. That\u2019s when I came here to get help.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 179393,
+    "text": "@AmazonHelp Since 26 September i'm tweeting my issue with u and still u are handling like first time. What is this? I want call back arrange from social",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2569155,
+    "text": "@AmazonHelp Les coins de l'emballage me semble l\u00e9g\u00e8rement ab\u00eemer mais rien qui m'aurait pr\u00e9dit que l'article soit autant ab\u00eemer. Personnellement je trouve les emballages des livres tr\u00e8s en dessous de ce que vous proposez g\u00e9n\u00e9ralement pour d'autres articles",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2696103,
+    "text": "@AmazonHelp I am a frequent customer of your games department and I never received an email of a change, this is unacceptable",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1568701,
+    "text": "@AmazonHelp But the link took me to this..... https://t.co/sB04QPVlvw",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1459740,
+    "text": "Livreur \"Amazon\" au tel : \"Je ne peux pas venir la route est bloqu\u00e9e apr\u00e8s le parking\" ... Oui c'est pi\u00e9ton apr\u00e8s, c'est normal. \ud83e\udd26\u200d\u2642\ufe0f",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 787203,
+    "text": "@115850 ordered ruggers shirt and seller send excalibur shirt",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2184574,
+    "text": "@AmazonHelp All you are avoid this. Please reply here.",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2154301,
+    "text": "@116618 is there any easy way to see what\u2019s available for download in the app w/o going title by title?",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 490467,
+    "text": "@AmazonHelp C'est pr\u00e9vu.  J'attends la r\u00e9ponse de @113441 sur le mod\u00e8le et je vous contacte si besoin",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 944317,
+    "text": "@AppleSupport 18/n The lackadaisical attitude of peole at your service center is unacceptable",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 483765,
+    "text": ". @116928 Estoy cansado de recibir emails diciendo que @4496 \"no ha podido entregar el paquete\" porque estoy ausente. Trabajo en casa. Estoy en casa. Ya van 4 veces en 7 d\u00edas. \nSi no lo quieren entregar, al menos que no mientan! \ud83d\ude21\n#CorreosEsElNuevoSeur",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1681777,
+    "text": "@AmazonHelp You guys are helpless such bad services you @115850 providing, to give back our money you guys need 7 days and you guys don't provide COD",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2221865,
+    "text": "@115850 received this message is it true or spam message https://t.co/ttuHVa6zru",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 466659,
+    "text": "@AmazonHelp @115850 No I haven't. Probably won't. Seems this issue is faced by many people. Thus is the last time I'm using pre-payment.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 1722915,
+    "text": "@AmazonHelp Expanding soon? Apart from the store, music and smart-home features. I think the others can work in any country with internet service?",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 183552,
+    "text": "@115850 Hi today received a parcel through amazon prime. Please check the way it reached me https://t.co/DSSaGokzqt",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 445599,
+    "text": "@AmazonHelp Toujours aucune nouvelle du service client apr\u00e8s mon mail. 0 acc\u00e8s \u00e0 mon compte ni suivi de commande, je devais \u00eatre livr\u00e9 auj.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2393531,
+    "text": "\u67b6\u7a7a\u8acb\u6c42\u306a\u3093\u3066\u59cb\u3081\u3066\u304d\u305f\u308f\u30fc(\u305d\u3082\u305d\u3082Amazon\u767b\u9332\u3057\u3066\u306a\u3044) https://t.co/bAsgCHscz2",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1335111,
+    "text": "@AmazonHelp Prime service is devolving into a joke. Several of my last packages have all been days late. Why I am paying for this service?",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1260830,
+    "text": "@AmazonHelp till yesterday i was able to see my order in my account but from today morning im not able to see my orders in my account.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 483041,
+    "text": "We just received this item from @116090 .... I think there may have been a packaging error\ud83d\ude02 Silly Kitty sister! #dogsoftwitter #cats #Amazon https://t.co/k783ZcSaR2",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 442950,
+    "text": "Oneplus 5t gotcha @115850 @132995 superhappy. Delivered within 24 hours \ud83e\udd17\ud83d\ude18",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2608070,
+    "text": "@AmazonHelp I think it's down to the way @396539 stream",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1677126,
+    "text": "@AmazonHelp It was over a week (I checked your policy before asking). But all is well. Elesha did a great job fixing my problem....was very fast too!",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 918918,
+    "text": "Amazon\u3063\u3066\u30b3\u30f3\u30d3\u30cb\u652f\u6255\u3044\u51fa\u6765\u306a\u304f\u306a\u3063\u3066\u308b\uff1f",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "No historical evidence available.",
+    "risk_flags": [
+      "NO_RETRIEVAL_EVIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 180850,
+    "text": "@AmazonHelp there should be a limit of making fool. it's like WTF experience @115851",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 1296792,
+    "text": "@AmazonHelp They were difficult to understand, but kept trying to reroute the conversation and really offered no explanation.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1745042,
+    "text": "@AmazonHelp I\u2019ll keep writing nice things about you if send me gift cards",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2297682,
+    "text": "@AmazonHelp want to gift an Amazon Dot to my sister, but what's with this invite system? I'll have to wait? Can you help me out here? Thanks",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2553828,
+    "text": "@AmazonHelp @UPSHelp S\u00ed, tengo una orden pendiente desde el 31 de octubre. Tengo otra orden que enviaron por @118706 ayer y est\u00e1 llegando hoy pero el servicio de UPS es terrible. Esta es la segunda vez.",
+    "intent": "CourierFeedback",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2104354,
+    "text": "@AmazonHelp https://t.co/Xkm8gqoeQa",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1680941,
+    "text": "@AmazonHelp Pas pour le moment.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2857279,
+    "text": "@AmazonHelp Pues ten\u00eda. Lleg\u00f3 con 5 d\u00edas de retraso",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1315758,
+    "text": "@AmazonHelp und der Aktionsgutschein l\u00f6st sich dann in Luft auf? \ud83e\udd14",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 673225,
+    "text": "@AmazonHelp It's been two days over still no response worst.... https://t.co/NBchx71IGu",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2764425,
+    "text": "@AmazonHelp Amazon\u5927\u597d\u304d\u3067\u90311\uff5e2\u56de\u983c\u3093\u3067\u3066\n\u305d\u306e\u95a2\u4fc2\u3067\u3001\u914d\u9054\u54e1\u3055\u3093\u3068\u306f\u4ef2\u826f\u3057\u3055\u3093\u3067\u3059w",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2957055,
+    "text": "@AmazonHelp I won't be following any links. First thing tomm am I will be headed to the local fulfilment center to get some face to face answers",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2899616,
+    "text": "#GLS pire soci\u00e9t\u00e9 de livraison !\nTellement m\u00e9diocre qu\u2019ils ont d\u00e9tr\u00f4n\u00e9 tous les autres\ud83e\udd2c\ud83d\ude21 @120533 ma commande devait arriver le 24, apr\u00e8s un avis de passage le 24/11 et une demande de ma part  pour un report au 28/11, leur support me r\u00e9pond que le colis est rest\u00e9 au stock \ud83d\udc7f",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 319710,
+    "text": "@AmazonHelp @115850 Till date nither received product not refund to my account. Why we wait for long time ?",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 183362,
+    "text": "@AmazonHelp Order id - 403-5744159-9022761\n\nHave contacted you numerous times but yet no solution. Can any of you volunteer &amp; get the installation now",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 313721,
+    "text": "@AmazonHelp Dont wanna waste my time sorry.....amount\u2019s not deducted from the credit account..so ll hop onto @118702 thq",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2645175,
+    "text": "@AmazonHelp But yet it comes out On 7 November https://t.co/OsaTBRadza",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 481676,
+    "text": "Al\u00f4 @117086 cad\u00ea meu pedido? J\u00e1 falei com 2 atendentes do SAC, e nada dos meus livros aparecerem \ud83d\ude14\ud83d\udc94",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 468225,
+    "text": "@115850 I have been stuck with a faulty product delivered to me with full advance payment and still no one is picking up the package for return and refunding my amount since a month. This is for no fault of mine. It takes a month to sort out one refund, really? #AmazonIssues",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 1439119,
+    "text": "Amazon\u30d7\u30e9\u30a4\u30e0\u3001\u77e5\u3089\u305a\u306b\u304a\u91d1\u53d6\u3089\u308c\u3066\u305f\u3002\u3044\u3084\u3001\u8584\u3005\u53d6\u3089\u308c\u308b\u304b\u306a\u3042\u3068\u306f\u601d\u3063\u3066\u305f\u3002\u305d\u308c\u3092\u78ba\u8a8d\u3057\u306a\u304b\u3063\u305f\u306e\u306f\u6020\u6162\u3060\u306a\u3002",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2811771,
+    "text": "Two orders from @116316, both not dispatched until after the estimated arrival date and Amazon lied on their site about having shipped days earlier. Why do you do this @AmazonHelp?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2406927,
+    "text": "@AmazonHelp This is what is says https://t.co/ViTnPoOpwG",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1363550,
+    "text": "@AmazonHelp Is there any phone number where I can reach ? Or your all CustomerCare is fake notion",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1842364,
+    "text": "@AmazonHelp What do I get in return ?",
+    "intent": "RefundsAndReturns",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2102459,
+    "text": "@AmazonHelp But they won\u2019t do anything until after it doesn\u2019t arrive tomorrow.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2887325,
+    "text": "@115850 Hi, got a message that the parcel is delivered and I am yet to receive it. Please help",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1204974,
+    "text": "@AmazonHelp @115850 you guys have made sure, it doesn't reach before the estimated delivery time. Because you are playing the customer. And if you still want proofs, i have got screen shots of seller giving prime guaranteed on selling page of amazon which is fulfilled by amazon",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2512026,
+    "text": "Sur 5 livraisons @132988, 1 SEULE livr\u00e9e \u00e0 domicile le jour dit. Bravo #chronopost &amp; #Amazon @120533",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 331940,
+    "text": "@AmazonHelp ou est le lien sur votre site  ? je ne le trouve pas  intuitivement",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 723305,
+    "text": "@AmazonHelp 2/2 t&amp;c issue ? if yes plz update a quantity fr me and your customer serviece executive told it wl get cncld atmtcly fr qty t&amp;c",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2338438,
+    "text": "@AmazonHelp @115850  I need answer here. because of u I missed all diwali offers from @118702 .now i have to pay 1500 extra.who ll give that extra.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2845572,
+    "text": "@AmazonHelp My firehd 6 isn't allowing me to install an app (sideload- the install button stays grey and unclickable)\nIs this part of recent update?",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 582664,
+    "text": "Hey @115830 sad to see this dumped in a lane near me...#santaslittlehelpers https://t.co/5WEwIl0nKt",
+    "intent": "CourierFeedback",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1351695,
+    "text": "\u30a2\u30de\u30be\u30f3\u30d7\u30e9\u30a4\u30e0\u304a\u8a66\u3057\uff01\u30b9\u30ce\u30fc\u30db\u30ef\u30a4\u30c8\u307f\u3066\u308b(\u0e51&gt;\u25e1&lt;\u0e51)",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2377221,
+    "text": "@AmazonHelp \u5ea6\u3005\u3059\u307f\u307e\u305b\u3093\u3001\u6ce8\u6587\u5c65\u6b74\u306e\u3069\u3053\u304b\u3089\u78ba\u8a8d\u3067\u304d\u307e\u3059\u3067\u3057\u3087\u3046\u304b\uff1f",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1728612,
+    "text": "@116928 planeais hacer alguna oferta de amazon coins de cara a la nueva exp de Hearthstone?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 421506,
+    "text": "nonostante quel giorno non mi sia mai mosso di casa",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 734126,
+    "text": "@AmazonHelp still waiting to access my account. I didn't get any automatic mail from Amazon... can't you help me here?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2827311,
+    "text": "@115821 My package never arrived, says it was delivered 2 days ago and Im still waiting! There's no way of telling you this except TWITTER?!",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2825655,
+    "text": "@115850 @AmazonHelp if I buy a used ps4 game can I get to try it on my console and see that its working fine before approving the purchase?",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1610998,
+    "text": "i want to know how u delete my order from my order history. seller has Amazon fulfilled an order placed with one-day delivery. but I have screenshot and emails\ud83d\ude21\ud83d\ude21\ud83d\ude21. Ordered 10 product 4 delivered 6 vanish from order history..@115850",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Customer requested an unsupported account action.",
+    "risk_flags": [
+      "UNSUPPORTED_ACTION",
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 314394,
+    "text": "@AmazonHelp Yes! I described the lack of protection and reported that no protection inside a cardboard box = inevitable damage to new, beautiful books. So far I've received no response whatsoever. Amazon used to take good care with books and they arrived in perfect condition. No more!",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 279874,
+    "text": "@AmazonHelp Sir my issue is still not resolve please help . Please contact on 8087727916",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 936097,
+    "text": "@AmazonHelp Ok",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Intent classification confidence is below threshold.",
+    "risk_flags": [
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 1279884,
+    "text": "@AmazonHelp It's the same old reply. STILL NOT A CONFIRMATION. I'm tired of waiting. CONFIRMATION IS NEEDED. Not those shitty copy pasted mails.",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1724803,
+    "text": "@AmazonHelp Can you please consider 30 minute rush delivery in Chapel Hill, NC? I\u2019d pay high as $100 in shipping for such a service.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 448224,
+    "text": "@AmazonHelp Das 12 Std Zeitfenster indem ich von euch eine R\u00fcckmeldung bekommen sollte ist inzwischen auch vorbei",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1211675,
+    "text": "@AmazonHelp I won't at all tolerate such behavior from you Amazon. This is unacceptable. Make sure you take proper action against such staffs of yours",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1442512,
+    "text": "@130687 aqu\u00ed esperando a los de @80 desde las 3 y sin se\u00f1ales del mensajero,pero yo quieta en casa, como si mi tmp no valiese \ud83d\ude21\ud83d\ude21\ud83d\ude21",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2111066,
+    "text": "@478418 @115850 @127187 @115851 You ask your team they know all details i have \nAlready complained a 100 times",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2539631,
+    "text": "@AmazonHelp I was told I had to wait till the 17th",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1955330,
+    "text": "@AmazonHelp @115851 5 days after package was guaranteed delivery, I still dont have it. Amz supervisor hangs up on me. #awful",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Customer explicitly requested a human agent.",
+    "risk_flags": [
+      "HUMAN_REQUEST",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1306460,
+    "text": "@AmazonHelp el problema es q mi epsoso viaja ma\u00f1ana y por eso necesitamos que aparezca el paquete",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1807357,
+    "text": "@AmazonHelp \u305d\u306e\u901a\u308a\u306b\u3057\u3066\u307f\u307e\u3057\u305f\u304c\u4f55\u5ea6\u304b\u8a66\u3057\u307e\u3057\u305f\u304c\u30a8\u30e9\u30fc\u304c\u51fa\u3066\u3057\u307e\u3044\u307e\u3057\u305f\u3002 https://t.co/G4fkx0ENXQ",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Intent classification confidence is below threshold.",
+    "risk_flags": [
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2760904,
+    "text": "@AmazonHelp Thanks. Will uninstall one. Appreciate it.",
+    "intent": "DigitalServices",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 874895,
+    "text": "Great packaging! frm @115821 album not only in a mailer as normal but that then into a suitcase size box full of air!! #wastefulmfs https://t.co/Nsvo1t4VSd",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2522385,
+    "text": "@115821 how come I could get my Kindle delivered to Puerto Rico last year but all Echo products can't be sent here? They are all electronics. Can you help me out? Planning my Xmas Shopping!",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 327011,
+    "text": "@117795 2 hour delivery and 3 week twitter posts - are you doing digital marketing or not?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1609102,
+    "text": "\u30a2\u30de\u30be\u30f3\u30d7\u30e9\u30a4\u30e0\u306b\u30d3\u30c3\u30b0\u30aa\u30fc\u304c\u3042\u308b\uff01\uff01",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "No historical evidence available.",
+    "risk_flags": [
+      "NO_RETRIEVAL_EVIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2281382,
+    "text": "@AmazonHelp someone has stolen my Amazon account, and changed the email address. How do I recover it?",
+    "intent": "CourierFeedback",
+    "decision": "ESCALATE",
+    "reason": "Account security issue detected.",
+    "risk_flags": [
+      "ACCOUNT_SECURITY",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2576949,
+    "text": "@AmazonHelp I had a notification 2say my package has been delivered when In fact it had not been delivered here. I waited in &amp;heard no knock. Checked the garden and with the neighbours. Then I checked my CCTV&amp;video showed nobody had stepped foot on my property.What can I do next?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 218164,
+    "text": "@AmazonHelp I've already tried contacting from the account 3 times starting from the day the item was delivered. No joy with service we have received.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2379811,
+    "text": "@115850 @115833 Getting an error when trying to add india specific skill.\n\nCan you help? https://t.co/v8VW2ZsQB6",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1633281,
+    "text": "@AmazonHelp Pourquoi pour une commande vous vous obstinez \u00e0 faire 2 ou 3 colis? Alors que les produits sont disponibles... c'est p\u00e9nible",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1385272,
+    "text": "@AmazonHelp Merci \ud83d\ude01",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 986251,
+    "text": "@AmazonHelp Sit I have contact your team they are say that I was a misunderstanding so please wait 15 days for refund",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1831691,
+    "text": "@AmazonHelp That's right. The button is not showing. \nThis is the screen to look it up, right? https://t.co/hoUk748gEK",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 544410,
+    "text": "@AmazonHelp Los empaques de regalo llegaron maltratados y la nota donde ven\u00eda el mensaje ven\u00eda impreso atr\u00e1s del de alguien m\u00e1s xD",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 378971,
+    "text": "After years of exceptional service, bound to get a dud. On the phone for 28 minutes and counting ... @AmazonHelp #KindleUnlimited",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 437920,
+    "text": "@115850 Your Exchange offer service is not available in Sonipat pin code 131001,While amazon pantry &amp; 1 day delivery is available here. Plz add this location also for exchange services.  Thanks",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 349127,
+    "text": "Annoyed I can\u2019t get the Star Date skill on my @115833. US only maybe?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1513395,
+    "text": "Did @115821 change their delivery? Because some girl just pulled up blasting Cardi B and tossed my package on the porch. I'm confused.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 128833,
+    "text": "Is there a way to just browse on @115821 ? I just want to look through their dvds/bluerays and see what's there without having to search for something.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1568147,
+    "text": "@AmazonHelp I tried the desktop app, Firefox, Microsoft Edge, and Internet Explorer. Internet explorer worked the best out of those three.",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 545742,
+    "text": "Merci @120533, j'attends mon colis depuis ce matin et toujours rien, en prime en plus...\ud83d\ude45",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2611609,
+    "text": "@280805 @AmazonHelp Mdr",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1278068,
+    "text": "Wow @115830 your customer services are not good. I spent 18 minutes trying to explain I was missing a parcel. Not impressed.",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 307303,
+    "text": "Me waiting for my @115821 prime package only to find out it was never going to show up https://t.co/b7S37Lw4XE",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1224594,
+    "text": "@AmazonHelp Finally found the chat option (not easy to do. Needs simplifying! ) and being sorted now thanks.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2809462,
+    "text": "#AmazonIndia really bad service, i have requested return Order #405-1487770-2815500, no one picked from 10days",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2853700,
+    "text": "@115821 misplaced another one of my packages and didn\u2019t give it to the Post Office.\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 379350,
+    "text": "@AmazonHelp 9004888638 pls arrange a call",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 348746,
+    "text": "@115821 @118919 @115850 got the invite ; planning to guy the bot; quick question- I already have prime membership; will it extend",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1279861,
+    "text": "@AmazonHelp testing my patience.",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2018639,
+    "text": "@AmazonHelp check I'd be able to change that if I start a new course :)",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 483746,
+    "text": "@115833 I\u2019ve more than 1 echo do you need to have Spotify family account",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2813578,
+    "text": "Hey @115821, could someone from customer service, kindly contact me? Thank you.",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION"
+    ]
+  },
+  {
+    "tweet_id": 167893,
+    "text": "@132994 @139570 @AmazonHelp the one Plus 5T sale on 28th \nIs also for a limited time? \nOr on going onwards?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 903635,
+    "text": "#amazon has become a money grabbing leech with this unwanted prime membership.\nBa*tards make it difficult to find &amp; end membership.\n@115821",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 309942,
+    "text": "@115850 showing update in the app but i m unable to click on the update tab even no update showing in play store https://t.co/gEEbJKltYf",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1722470,
+    "text": "@AmazonHelp sono due volte che provo ad acquistare col bonus Renzi ma tali ordini non arrivano mai e finisco per perdere il bonus. Risolvete",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 764186,
+    "text": "@115821 I love you! Will you hire me? \ud83d\ude06#ButForrealThoo",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2226471,
+    "text": "@115850.... I couldn\u2019t proceed to checkout from my cart..could u help me out???",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 897115,
+    "text": "@AmazonHelp I have replied to your mail as well",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION"
+    ]
+  },
+  {
+    "tweet_id": 2867126,
+    "text": "Oh, for goodness sakes. Hey @AmazonHelp, should I just send this back and get a replacement? https://t.co/h7IxQXnQV9",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 133852,
+    "text": "@AmazonHelp @115851 @120781 @7957 @2246 @AmazonHelp @115821 @115830 @115851  I know you have done nothing to resolve the technical issue with my account but still have sent an email to your team. If only you can do something at least to get this issue resolved as I have been harassed enough by you.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1384183,
+    "text": "@AmazonHelp N\u00e3o. Vim justamente falar com voc\u00eas primeiro.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 427039,
+    "text": "@AmazonHelp Thanks. It\u2019s appalling. Failed attempt when I am sat at home waiting! Been shopping with Amazon for years and keeps happening. Won\u2019t again!",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 282189,
+    "text": "@115850 @115851 y r u demeaning ur brand with Rs.2 discount deals? Pls don't make mockery of #Indians. Learn from @118702 on wat discount means https://t.co/c0fHI8nj4l",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1738953,
+    "text": "@119625 Need more movies &amp; Indian contents. Keep continuing with the best \ud83d\udc4d",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 279160,
+    "text": "@AmazonHelp What should i do?",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1490275,
+    "text": "@AmazonHelp The delivery was estimated for yesterday (sat 25). Now it says \"Now expected\u00a0November 26\u00a0-\u00a0November 28\"",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2861983,
+    "text": "Baixei 7 e-books gratuitos hoje na @117086 to bem feliz \n#Kindle",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1103642,
+    "text": "@AmazonHelp Typically when I pay for 2 day delivery I expect it to be delivered on time. I\u2019ve been waiting for the delivery all day and didn\u2019t even receive an email or notification that it was delayed.",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1480157,
+    "text": "@121284 when are the skills for smartthings, harmony and sony TV going live in India?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1881595,
+    "text": "@AmazonHelp \u3054\u4e01\u5be7\u306b\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3002\u8fd4\u54c1\u624b\u7d9a\u304d\u3092\u3057\u3066\u307f\u307e\u3059\u3002",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 297338,
+    "text": "@115850 @AmazonHelp y r u not selling @141187 origin deluxe edition",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 781237,
+    "text": "@AmazonHelp It now says arriving Tuesday! That's the normal release day! I'll contact live chat but i'm anticipating a \u00a35 off which doesn't help.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 224579,
+    "text": "@AmazonHelp Yes",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2533200,
+    "text": "@AmazonHelp Will do ... have informed my daughter and son in law that there is a number to call .. and trust me ... they will.  I hope whoever takes the call has asbestos ears",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2154463,
+    "text": "@AmazonHelp how can this be. Two separate packages, wo different carriers. Both delayed. Seems like it's on your end https://t.co/hhc2abWAZ2",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1459751,
+    "text": "@AmazonHelp Thank you",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1185029,
+    "text": "@AmazonHelp parece que sigue sin ir, alguna soluci\u00f3n?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 687774,
+    "text": "@AmazonHelp No, just it might be today although looks like it went to Preston not Surrey so don\u2019t hold much hope for today \ud83d\ude14",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2565658,
+    "text": "@AmazonHelp No pattern really. The reasons seem to change, but the end result is the same: delays.\n\nThanks, but I've done that help chat stuff before. Whilst it's nice to be offered a free month of Prime, it's a bit useless considering the problem is with Prime. \ud83d\ude44",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2952159,
+    "text": "@113279 Ich fragte wie das sein kann,die Ware ist ja laut Website auf Lager.Antwort war das die dann schon f\u00fcr andere reserviert w\u00e4ren.Brille storniert.Nochmal auf den Artikel und da stehen immer noch 13 auf Lager.Wollt ihr mich verarschen @AmazonHelp @113279 ?!",
+    "intent": "DamagedOrDefective",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 167904,
+    "text": "@AmazonHelp Done",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2634895,
+    "text": "@AmazonHelp  https://t.co/prNSBcCyd2",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1741031,
+    "text": "Hi @AmazonHelp my dad is upset that his Despicable Me 3 DVD hasn\u2019t been dispatched although it was supposed to come yesterday, please advise https://t.co/wj9heaGX1Y",
+    "intent": "CourierFeedback",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2438368,
+    "text": "is anyone else experiencing shipping delays with #AmazonPrime? placed my order on 11/10 with expected delivery on 11/12... today is 11/14 and all i keep getting are \"delay in shipping\" emails. @AmazonHelp",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2531360,
+    "text": "@115850 @AmazonHelp delivery person denied coming 2 home. Asked aged parents to collect from somewhere. Pls help. Tracking ID 216255586903 https://t.co/tULhLMujD0",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1725376,
+    "text": "@115850 20 days since I ordered dis. I gt updates of delivery attempts in some weird location nd no real delivery #EkBaarAmazonTryTohKarr https://t.co/DBcrycAQUe",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2288186,
+    "text": "Hey @119625 by any chance is it possible to add #KirikParty ? Desperately wanted to see it @48041 @89793",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 637366,
+    "text": "@116928 buenas tardes, quitando en estos d\u00edas de promoci\u00f3n, cu\u00e1nto es el pedido m\u00ednimo para no pagar gastos de env\u00edo?. Gracias y un saludo!.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2146471,
+    "text": "@AmazonHelp customer service representative promise to add gift card of rs 50/- day before yesterday till now no gift had been credited...",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Customer explicitly requested a human agent.",
+    "risk_flags": [
+      "HUMAN_REQUEST",
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 742488,
+    "text": "@AmazonHelp Will anyone help me.. I preordered something a month ago and now in my order it says that the cashier can't deliver my package?",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1153227,
+    "text": "When did @115821 hire delivery folks that just chuck your package on the front lawn?   Really?   Like a newspaper.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 77326,
+    "text": "@AmazonHelp @81 @115817 @118706 what would you guys do? Not this.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 739717,
+    "text": "@AmazonHelp See connection is fine. I'm sending these pics over my Wi-Fi. /2 https://t.co/ZVj4KbUxkR",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 607360,
+    "text": "@AmazonHelp hi Amazon, I don't find this delivery of my book acceptable. You have ruined it, what are the next steps? https://t.co/Agxpw30Fme",
+    "intent": "DamagedOrDefective",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1458913,
+    "text": "@AmazonHelp Sit tight and wait! Going to get in touch with depot again and call me back later.",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 236616,
+    "text": "@AmazonHelp Am looking for quality service# please help",
+    "intent": "DamagedOrDefective",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 319360,
+    "text": "\u3044\u3064\u306e\u9593\u306bAmazon\u30d7\u30e9\u30a4\u30e0\u306e\u4f1a\u54e1\u306b\u306a\u3063\u3066\u305f\u306e\u304b\u3002\n\u3069\u30fc\u305b\u306a\u3063\u305f\u3089\u306a\u3089\u52d5\u753b\u898b\u307e\u304f\u308b\u304b\u3002",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "No historical evidence available.",
+    "risk_flags": [
+      "NO_RETRIEVAL_EVIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 1048804,
+    "text": "Hey @115850 \nWanted to know when the exchange offer on the One Plus 5 was going on till?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1344469,
+    "text": "@AmazonHelp @137605 , entiendo que ya que el problema \"log\u00edstico\" al que hac\u00e9is referencia no es m\u00edo... har\u00e9is la entrega hoy s\u00e1bado ??",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 149304,
+    "text": "@AmazonHelp I have forwarded the details on the above link! Hope this time , issue will be resolved",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 1200790,
+    "text": "@AmazonHelp Yes please being doing this past 5 days =120 hrs",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 288105,
+    "text": "@AmazonHelp @115850  @AmazonHelp  I hope I have given enough time and was patient but no resolution from your side. Now seeing  status is irritating https://t.co/NvvMEMdFLY",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2612246,
+    "text": "@117086 olar\nvai ter promo\u00e7\u00e3o de frete gr\u00e1tis na \u00e9poca do natal/virada do ano?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1302265,
+    "text": "@AmazonHelp same da two parcel deliver different time #irritating #unnecessary. Could have been delivered same time.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 924479,
+    "text": "@115830 Order # 206-7066588-7935500 Prime customer. Due 30 Sept. Never arrived. Reordered from Argos (good service). still awaiting refund",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2760352,
+    "text": "@115850 @118342 amazon is not refund my money. This fraud company. My amount rs130.10 is not give.i send statement not receive money https://t.co/6UyjmvGd7E",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Financial dispute detected.",
+    "risk_flags": [
+      "FINANCIAL_DISPUTE",
+      "UNSUPPORTED_ACTION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 791487,
+    "text": "@AmazonHelp Ya , bt the product is left the delivery station n now on the way for main station @AmazonHelp",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2734292,
+    "text": "@AmazonHelp i cancelled a order on the 6th of nov, the money had already been taken out but i cancelled the order before it was dispatched. the money still has not been refunded!!! what the hell its over 2 weeks now",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1539907,
+    "text": "@AmazonHelp Yes, I have not received a response.",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 787216,
+    "text": "@AmazonHelp To get a returns label it says \ud83e\udd14",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1081439,
+    "text": "@AmazonHelp ok twice you've asked me that. I have NEVER contacted you before in my entire life of 68 years. Now I know why.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 587981,
+    "text": "Superb lightning deal by @115850  ... Great discount.. #deal #nodeal #thanks #nothanks \ud83e\udd2b\ud83e\udd14\ud83d\ude44\ud83d\ude44\ud83d\ude44\ud83d\ude11\ud83d\ude11\ud83d\ude11 https://t.co/nULYuhyeMR",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2526250,
+    "text": "The cool thing about @115821  is you could order a +200 plus item and they'll leave it down my poorly lit driveway rather than drive the 25 yards forward into my well lit yard",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1003652,
+    "text": "@AmazonHelp \u305d\u308c\u3082\u65e2\u306b\u30c4\u30a4\u30fc\u30c8\u524d\u306b\u6e08\u307e\u305b\u3066\u3042\u308a\u307e\u3059\u3002Amazon\u30ab\u30b9\u30bf\u30de\u30fc\u30b5\u30fc\u30d3\u30b9\u3067\u3082\u73fe\u72b6\u5bfe\u5fdc\u3067\u304d\u306a\u3044\uff08\u914d\u9001\u696d\u8005\u3068\u9023\u7d61\u3064\u304b\u306a\u3044\uff09\u306e\u3067\u3001\u3068\u308a\u3042\u3048\u305a\u518d\u5ea6\u518d\u914d\u9054\u7533\u8acb\u3057\u3066\u660e\u65e5\u306e\u69d8\u5b50\u5f85\u3064\u3088\u3046\u306b\u3068\u306e\u3053\u3068\u3067\u3002\u697d\u3057\u307f\u306b\u3057\u3066\u3044\u305f\u3060\u3051\u306b\u3001\u300c\u914d\u9054\u5b8c\u4e86\u300d\u8868\u793a\u304c\u4e0d\u5b89\uff06\u8179\u7acb\u305f\u3057\u304f\u3066\u545f\u304d\u307e\u3057\u305f\u3002\u4e01\u5be7\u306b\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1519059,
+    "text": "@AmazonHelp Sigo en lo mismo, no est\u00e1 disponible y al llamar al n\u00famero que aparece all\u00ed dice que ya no est\u00e1 habilitado.. Solo quiero saber que ha pasado",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2587891,
+    "text": "@AmazonHelp Today about 17:00",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Intent classification confidence is below threshold.",
+    "risk_flags": [
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 1493736,
+    "text": "@AmazonHelp Not to mention, all the #customercare people from #amazon are paid liars who bluff customers into believing shit.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 198800,
+    "text": "@117795 your one click service, as effcient as it is, is totally flawed when my 1 year old daughter gets hold of my phone. https://t.co/MEf7FENgaf",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2309154,
+    "text": "@AmazonHelp \u6025\u3044\u3067\u7121\u3044\u306e\u3067\u5927\u4e08\u592b\u3067\u3059\u3088\uff08\u2579\u25e1\u2579\uff09\n\u3082\u3046\u5c11\u3057\u5f85\u3061\u307e\u3059(*-v\u30fb)",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 522589,
+    "text": "@AmazonHelp Already did. Waiting for your response. Thank you!",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 475161,
+    "text": "@AmazonHelp \u30c4\u30a4\u30fc\u30c8\u306b\u53cd\u5fdc\u3057\u3066\u3044\u305f\u3060\u304d\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3002\n21\u6642\u307e\u3067\u4e00\u5fdc\u5f85\u3063\u3066\u304a\u304d\u307e\u3059\u3002\n\u904e\u53bb\u306b\u3082\u540c\u3058\u696d\u8005\u3067(\u305d\u306e\u6642\u306fAmazon\u3055\u3093\u3067\u306f\u306a\u304f\u5225\u306e\u30cd\u30c3\u30c8\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3067\u3057\u305f)\u3060\u3044\u3076\u9045\u308c\u3066\u5c4a\u3044\u305f\u4e8b\u304c\u3042\u3063\u305f\u306e\u3067\u3001\u3082\u3046\u3057\u3087\u3046\u304c\u306a\u3044\u306e\u304b\u3082\u3057\u308c\u307e\u305b\u3093\ud83d\ude05Amazon\u3055\u3093\u306f\u4f55\u3082\u60aa\u304f\u306a\u3044\u306e\u3067\u3001\u8b1d\u3089\u306a\u3044\u3067\u304f\u3060\u3055\u3044\ud83d\ude2d\ud83d\udca6",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1616062,
+    "text": "@AmazonHelp Retomar series de hace a\u00f1os imposibles de encontrar en otro lugar: Sabrina y por supuesto dir\u00eda 90210.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 300517,
+    "text": "Really glad I used prime @115830 seems @116324 are unable to honour the next day delivery \ud83d\ude21, glad I invest in prime",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2525455,
+    "text": "@AmazonHelp @115821 @115850 bought this item .. after one day of use it stop working #cheaters #Amazon #AmazonIndia",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1760368,
+    "text": "@AmazonHelp Looks like it is sold by amazon. https://t.co/HeAJuBoupW",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2894570,
+    "text": "@AmazonHelp Xbox",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2454089,
+    "text": "Why the hell does @115821 list the Stranger Things 2 score as \u201cChristian Pop &amp; Contemporary?\u201d",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1042327,
+    "text": "@115850 Again\u200b same #AmazonGreatIndianFestival #amazoncheating Checking price different after chwckout https://t.co/6wPVAJHifu",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 62190,
+    "text": "@AmazonHelp Ive tried. I thought it fixed it but then the music stops playing again. What\u2019s weird is that Spotify is still continuing as if sound was on",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 727832,
+    "text": "@AmazonHelp \u305f\u307e\u306b\u3042\u308b\u306e\u3067\u3059\u304c\u3001Blu-ray\u3092\u8cb7\u3063\u3066\u3082DVD\u3092\u52e7\u3081\u3066\u304d\u305f\u308a\u3063\u3066\u306e\u304c\u3042\u308a\u307e\u3059\u3002\u3088\u3063\u307d\u3069\u306e\u30de\u30cb\u30a2\u3058\u3083\u306a\u3044\u9650\u308a\u8cb7\u3044\u307e\u305b\u3093\uff08\u7b11\uff09\n\u304c\u3093\u3070\u3063\u3066\u304f\u3060\u3055\u3044\uff01",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 680376,
+    "text": "Amazon fire TV stick\u4fbf\u5229\u3059\u304e\u3066\u6ce3\u3044\u305f\u3002\nprime\u4f1a\u54e1\u306a\u3089\u30af\u30e9\u30a6\u30c9\u306b\u5199\u771f\u7121\u5236\u9650\u3067\u3042\u3052\u308c\u305f\u308a\u3001\u30b5\u30fc\u30d3\u30b9\u5145\u5b9f\u3057\u3059\u304e\u3002",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 529152,
+    "text": "@119625 Still no support for #Chromecast \ud83d\ude12\nHow pointless is this?",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2353844,
+    "text": "@AmazonHelp Please see my tweet above... why should I need to do this for what will be the 5th time!!! You should be phoning me to resolve this not the the other way around... \u00a390 down and no idea how many hours of holding the phone!",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2144436,
+    "text": "When @115830 Prime fail to deliver 2 parcels, even after expected delivery dates &amp; you have to rewrite your lesson plans. #stressful",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1657874,
+    "text": "@115821 why can\u2019t you deliver on time anymore? When did service become pointless to you? Don\u2019t tell me arrival time is today when it isn\u2019t",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2474898,
+    "text": "meu Kindle travou e n\u00e3o responde nenhum comando, al\u00f4 @117086 @117804 @AmazonHelp ajuda nois",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 480382,
+    "text": "@AmazonHelp Muito obrigada! \u2764\ufe0f",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 1005101,
+    "text": "@AmazonHelp Yeah the name was left called \"spinetinglers\"",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 523469,
+    "text": "@AmazonHelp It hasn't. It appears I need to download the English (ca) language. I think this one only has the English (us) language on it. I have a Canadian account.",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1083878,
+    "text": "@AmazonHelp 16/10 was delivery date. Many fake reasons given for not delivering product and now this stupid reason.",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 861886,
+    "text": "I preordered WWE 2K18: Deluxe edition from Amazon UK and it still hasn\u2019t dispatched yet, I was suppose to get the game today.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1386515,
+    "text": "@AmazonHelp Just asking, I figured that might be it. Thanks.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2593174,
+    "text": "@AmazonHelp Happy me ... Received my item ...!! Thanks finally got it ...!! https://t.co/ERFoHYCps6",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 451952,
+    "text": "@AmazonHelp Yeah, it stopped... shouldn't have happened in the first place. Someone's private conversation was just made public. I'm unplugging my Amazon devices.",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2823975,
+    "text": "@AmazonHelp Ce sont 5 commandes de vendeurs tiers",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 319336,
+    "text": "@AmazonHelp @115851 @123288 Look at you delivery guys , u share their # and they roam keeping phone off. How pathetic u cud b. .@115851 .@123288 https://t.co/rYeoEhQ8iy",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1085466,
+    "text": "@AmazonHelp any way I can change shipping address on order? It hasn\u2019t shipped yet but I can\u2019t find way for the order to update",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2768977,
+    "text": "@132988 2/2 j'ai demand\u00e9 \u00e0 @120533 de ne plus envoyer mes commandes via DPD, ce qui veut dire qu'il vont \u00e9viter de faire appel \u00e0 vous.\nPS: Le d\u00e9pot de courcelles en Belgique pose des probl\u00e8mes \u00e0 la majorit\u00e9 des clients.https://t.co/MLKofLqLhl Allez voir les avis google!!!!",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1104427,
+    "text": "@AmazonHelp When are you introducing family plans? \ud83d\ude02",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 432949,
+    "text": "@AmazonHelp what link?",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 134804,
+    "text": "@116928 sabeis si hay algun problema de inicio de sesion dentro de vuestra pagina web? \nMas que nada porque no me deja iniciar sesion ni ver mis pedidos",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2260816,
+    "text": "@AmazonHelp Seeing as how I've been in contact with customer service 3 days in row I'm not sure that will help.",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1768282,
+    "text": "@AmazonHelp @531661 Your big boxes are perfect, never change \ud83d\udc4c",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 294757,
+    "text": "@AmazonHelp Twice entered walk-in gate labeled, \"Beware of dog,\" twice threw packages onto elec. gate, disabling it.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1451470,
+    "text": "@115830 Do you not do boxes anymore. Found this opened on the porch https://t.co/cWMVa9nN3e",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1581978,
+    "text": "@AmazonHelp En la p\u00e1gina dec\u00eda que hoy. https://t.co/EQt1zWoh0u",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 1651203,
+    "text": "@AmazonHelp They misbehaved and asked to go Police and launch a complaint",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Legal or safety threat detected.",
+    "risk_flags": [
+      "LEGAL_OR_SAFETY",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1514348,
+    "text": "@AmazonHelp And on the 5th call I was told that none of my previous complaints had been registered or processed as I had requested. I waited for nothing",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 300509,
+    "text": "1st time using @153820. Farce. Never again. Waited hour and half. Restaurant cooked food &amp; no delivery driver bothered to pick up.",
+    "intent": "CourierFeedback",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2971868,
+    "text": "@115821 your new \"tracking system\" stinks.\nVague and inaccurate information.\nDoes not show who has the package or where it is.\n4 days for \"2 day prime\" is not acceptable.",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1384293,
+    "text": "@116316 Donnerstagabend einen Xbox Downloadcode bei euch gekauft, seit 34h \"Pr\u00fcfung wird ausgef\u00fchrt\". Support hat bisher nichts erreicht.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 742438,
+    "text": "@AmazonHelp c'est bien normal, vous \u00eates tellement fiables &amp; r\u00e9actifs :)",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 800323,
+    "text": "@AmazonHelp Got to say that @115830 is far to good a company to use @6841 as one of their carriers",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 419419,
+    "text": "@AmazonHelp Ok, but what about resolution of d problem? Such malpractice is also nt acceptable does @115821 do such false status updates in USA as well?",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 430080,
+    "text": "@AmazonHelp or are you retarded? i how many times shall i fill the form again and again?",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1395577,
+    "text": "I bought a Nokia 6 yesterday from @115850  and it hangs everytime even in the basic calling function .@174957 @1107 https://t.co/dbnPHQ3Mpp",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2144470,
+    "text": "@AmazonHelp Okay, but I needed the item TODAY so that's why I chose SAME DAY delivery, and not it's not coming today so....",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2652387,
+    "text": "@AmazonHelp Are your customer service advisors deluded? It's not even been dispatched yet!",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 986212,
+    "text": "@AmazonHelp I have provided the. See if you can deliver my phone. Having such bad experience with Amazon for the first time.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2770665,
+    "text": "@AmazonHelp Merci :), savez vous si vous allez \u00eatre r\u00e9approvisionnez sous peu ? https://t.co/4ZbHqryf0R",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1318946,
+    "text": "Bald ist Halloween! Heute schon \u00fcber 100 Horrorfilme f\u00fcr je 0,99\u20ac leihen! https://t.co/B8cQjyR9WO #AmazonVideo #FreitagFilmeAbend https://t.co/ReR74OKyWJ",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1575696,
+    "text": "@AmazonHelp \u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3002\u30ad\u30e3\u30f3\u30bb\u30eb\u3057\u3066\u307f\u307e\u3059\u3002",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 939421,
+    "text": "@AmazonHelp Response will take 2 working days, what's the point when I need the stuff by then? Not like I placed the order 5 days ago....",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 777877,
+    "text": "@AmazonHelp You're just reinforcing the myth of 'you can't rely on online purchases'. You are in this business. Rectify this asap",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2602299,
+    "text": "@AmazonHelp Woke up this morning and I'm now able to access. Don't know what to say. I didn't do anything different this morning than what I did last night.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 440162,
+    "text": "@AmazonHelp Also die vier Artikel wurden auf drei Lieferungen aufgeteilt, die kommen garantiert aus drei Versandzentren.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1570869,
+    "text": "@AmazonHelp when we request to escalate this issue to senior authority our call is being placed on long holds and at last disconnected.",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 430089,
+    "text": "@AmazonHelp ok",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2539649,
+    "text": "@115850 When is Vegemite being ever available in India?\nhttps://t.co/WZ1Ix8qlZn",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2361804,
+    "text": "@AmazonHelp die Amazon App auf iOS stellt immer wieder die Sprache auf Englisch um. Obwohl ich die Einstellung immer wieder auf Deutsch einstelle. Liegt vmtl. daran dass iOS auf Englisch eingestellt ist. Kann man das fixen?",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 2350870,
+    "text": "@130293 Sabeis Cu\u00e1ntos dias, son necesarios para solventar el error... Gracias...",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 430616,
+    "text": "@115850 ORDER#406-4206073-3655561 delayed for 2 days, contacted customer care thrice, received false notification of delivery. Kidding me?",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2822350,
+    "text": "@AmazonHelp i ordered something with a gift card and it was enough and a few hours later i just got this saying payment declined &amp; i have to pay 41\u00a2 which is fine but it won\u2019t let me put my card information since the giftcard is there. Help? https://t.co/qSrDCO3VG8",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1105561,
+    "text": "@AmazonHelp Are incompetent to provide any support. Even i get depressed by the Amazon grocery app. Support team. @115851 please close the amazon now",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2212029,
+    "text": "@AmazonHelp Thank you. Does it count that it\u2019s already past the delivery estimate? I received an email that it would be delivered Wednesday, November 8, and now it says it will be delivered by November 14. This is the order that is currently in Virginia, even though I live in Mississippi.",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2290249,
+    "text": "Did you pickup my new book? Get creative and show me, I'd love to see your photos... https://t.co/q4fQ4RMKVp https://t.co/tMQhmsXiCr",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1350317,
+    "text": "Alter, wenn @116316 die Bezahlung heute auch nicht rausschickt...-.- \nWof\u00fcr bezahl ich denn sonst f\u00fcr den Prime Versand? Nervt!",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 243168,
+    "text": "@173744 I wish I got a reminder about \u00a339 being taken out of my account nearly cried when I saw it \ud83d\ude22\ud83d\ude05 #Poor",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2372402,
+    "text": "Just had the most amazing customer service from @115821 .   Used the chat feature and it was quick and painless and issue resolved.  I wish all customer service was like that.",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1939137,
+    "text": "@AmazonHelp im to scoially inept to call, was it just a mistake? is it possible they could deliver it correctly tomorrow? :(( https://t.co/CBahjC85lo",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1402830,
+    "text": "Unable to access my Amazon Account, contacted Customer care more than 5 times, still no luck, can some one help me here! @115850",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL",
+      "LOW_CLASSIFIER_CONFIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 1672957,
+    "text": "@509121 @115821 I have no idea. We\u2019ve bought a couple things lately that say ships and sold by amazon eligible for prime and it comes in like a week.",
+    "intent": "DeliveryStatus",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 222609,
+    "text": "@AmazonHelp Thanks, the message advised of a refund initiation without my consent.\nThank you very much. https://t.co/w7bVy4mzEt",
+    "intent": "RefundsAndReturns",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 294839,
+    "text": "@AmazonHelp ORDER # 402-5432279-0949158 is not delivered to me. I asked for A-z claim, CS denied with full arrogant reply. Pls follow Amazon IN facebook",
+    "intent": "CustomerServiceEscalation",
+    "decision": "ESCALATE",
+    "reason": "Severe customer service escalation intent detected.",
+    "risk_flags": [
+      "REPEATED_ESCALATION",
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 627836,
+    "text": "@AmazonHelp Os lo estoy diciendo por DM!!!!! Y no hac\u00e9is nada",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2883334,
+    "text": "@AmazonHelp Bah je peux pas l'ajouter au panier... \nCe que je trouve \"salle\" c'est que l\u00e0 c'est vraiment par version et par console ce tri de client. https://t.co/yrIwKkrfFG",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 2539648,
+    "text": "@AmazonHelp @722227 https://t.co/p3jpGaIPD1",
+    "intent": "OTHER",
+    "decision": "AUTO-HANDLE",
+    "reason": "All safety criteria met. High confidence and strong evidence.",
+    "risk_flags": []
+  },
+  {
+    "tweet_id": 2141978,
+    "text": "@AmazonHelp Amazon, el vendedor lo envvio",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 1100478,
+    "text": "tried ordering Wide Sargasso Sea off @115821 because i need it for college and my shipping address clearly has Fredericksburg, VA in it and they sent it to Troy, AL \ud83d\ude24\ud83d\ude24 @AmazonHelp https://t.co/FAvVqC0fdq",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  },
+  {
+    "tweet_id": 74984,
+    "text": "Amazon\u304b\u3089\u672a\u3060\u306b\u8fd4\u54c1\u5b8c\u4e86\u306e\u901a\u77e5\u6765\u306a\u3044\u3093\u3060\u3051\u3069\u3069\u3046\u3044\u3046\u3053\u3068\uff1f\nAmazon\u8a73\u3057\u3044\u4eba\u6559\u3048\u3066\u304f\u3060\u3055\u3044(\u0e51o\u0334\u0336\u0337\u1dc4\ufe4fo\u0334\u0336\u0337\u0325\u1dc5\u0e51)",
+    "intent": "OTHER",
+    "decision": "ESCALATE",
+    "reason": "No historical evidence available.",
+    "risk_flags": [
+      "NO_RETRIEVAL_EVIDENCE"
+    ]
+  },
+  {
+    "tweet_id": 108221,
+    "text": "@AmazonHelp We don't get error messages it just shuts off, exits apps and disconnected from our wifi accounts.",
+    "intent": "DigitalServices",
+    "decision": "ESCALATE",
+    "reason": "Retrieved evidence is too weak to confidently auto-handle.",
+    "risk_flags": [
+      "WEAK_RETRIEVAL"
+    ]
+  }
+]

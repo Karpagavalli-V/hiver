@@ -1,0 +1,69 @@
+{
+  "brand": "AmazonHelp",
+  "version": "1.0",
+  "intents": [
+    {
+      "id": "DeliveryStatus",
+      "description": "Customer is asking about the location, tracking, or delay of their package, or reporting a package marked as delivered but not received.",
+      "inclusion_criteria": ["Order tracking", "Late or delayed packages", "Lost in transit", "Delivered but not received (DNR)"],
+      "exclusion_criteria": ["Complaints about courier behavior (use CourierFeedback)"],
+      "difficulty": "Easy"
+    },
+    {
+      "id": "RefundsAndReturns",
+      "description": "Customer is inquiring about the process of returning an item, tracking a refund, or cancelling an order.",
+      "inclusion_criteria": ["Where is my refund?", "How do I return this?", "Cancel my order"],
+      "exclusion_criteria": ["Returning an item explicitly because it is damaged (use DamagedOrDefective)", "Returning because it's the wrong item (use WrongItem)"],
+      "difficulty": "Medium"
+    },
+    {
+      "id": "DamagedOrDefective",
+      "description": "Customer received a product that is physically damaged, defective, soiled, or missing parts.",
+      "inclusion_criteria": ["Broken item", "Missing pieces", "Box arrived crushed", "Not working out of the box"],
+      "exclusion_criteria": ["Item works but is not what was ordered (use WrongItem)"],
+      "difficulty": "Easy"
+    },
+    {
+      "id": "WrongItem",
+      "description": "Customer received an incorrect product, wrong size, wrong color, or wrong version of an item.",
+      "inclusion_criteria": ["I ordered an iPhone X and got an 8", "Wrong color sent", "Not what was pictured"],
+      "exclusion_criteria": ["Item is what they ordered but it is broken (use DamagedOrDefective)"],
+      "difficulty": "Easy"
+    },
+    {
+      "id": "CourierFeedback",
+      "description": "Customer is providing feedback or complaints about the delivery driver's behavior or where the package was left.",
+      "inclusion_criteria": ["Driver threw my package", "Left in the rain", "Didn't ring doorbell", "Delivery instructions ignored"],
+      "exclusion_criteria": ["Package is lost in transit without delivery scan (use DeliveryStatus)"],
+      "difficulty": "Medium"
+    },
+    {
+      "id": "AccountAndPayment",
+      "description": "Issues related to Amazon Prime subscription fees, account security, unauthorized purchases, or payment failures.",
+      "inclusion_criteria": ["Charged for Prime without asking", "Account hacked", "Gift card not working", "Promo code failed"],
+      "exclusion_criteria": ["Refund for a physical item (use RefundsAndReturns)"],
+      "difficulty": "Medium"
+    },
+    {
+      "id": "DigitalServices",
+      "description": "Technical support for Amazon digital products like Prime Video, Kindle, Amazon Music, or Fire TV.",
+      "inclusion_criteria": ["Video streaming is buffering", "Kindle book won't download", "Missing subtitles on a movie"],
+      "exclusion_criteria": ["Questions about billing for these services (use AccountAndPayment)"],
+      "difficulty": "Easy"
+    },
+    {
+      "id": "CustomerServiceEscalation",
+      "description": "Customer is angry about a previous interaction with Amazon support, waiting for a promised callback, or demanding a manager.",
+      "inclusion_criteria": ["Been on hold for 30 mins", "Agent hung up on me", "No one replied to my email", "Worst customer service"],
+      "exclusion_criteria": ["General frustration about an order delay (use DeliveryStatus)"],
+      "difficulty": "Hard"
+    },
+    {
+      "id": "OTHER",
+      "description": "Messages that do not fit into actionable support categories, including praise, spam, conversational fragments, or overly vague complaints. Non-English messages should ONLY be placed here if their underlying intent cannot be determined.",
+      "inclusion_criteria": ["Thank you!", "Great job", "Help me", "Ok", "Done"],
+      "exclusion_criteria": ["Vague complaints that mention 'my order' (should be investigated)", "Non-English messages that clearly express one of the other intents"],
+      "difficulty": "Easy"
+    }
+  ]
+}

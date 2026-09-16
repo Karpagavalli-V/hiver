@@ -1,0 +1,902 @@
+[
+  {
+    "tweet_id": 628,
+    "context": "Customer: PLAYERUNKNOWN'S BATTLEGROUNDS is now available for preorder on Xbox One consoles - https://t.co/bqLHcBDqAb https://t.co/muLIqeHq0o ||| Customer: @115828 How about you guys figure out my Xbox One X project Scorpio edition first. No expected delivery or shipping date and it\u2019s only a week away",
+    "target_message": "@115828 How about you guys figure out my Xbox One X project Scorpio edition first. No expected delivery or shipping date and it\u2019s only a week away",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DeliveryStatus",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 627,
+    "context": "Customer: PLAYERUNKNOWN'S BATTLEGROUNDS is now available for preorder on Xbox One consoles - https://t.co/bqLHcBDqAb https://t.co/muLIqeHq0o ||| Customer: @115828 How about you guys figure out my Xbox One X project Scorpio edition first. No expected delivery or shipping date and it\u2019s only a week away ||| Amazon: @115826 I'm sorry for the wait. You'll receive an email as soon as we have an estimated delivery date. ^FJ ||| Customer: @AmazonHelp @115826 Yeah this is crazy we\u2019re less than a week away and still no Shipping Information on something that we Pre-ordered back in August",
+    "target_message": "@AmazonHelp @115826 Yeah this is crazy we\u2019re less than a week away and still no Shipping Information on something that we Pre-ordered back in August",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DeliveryStatus",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 2986043,
+    "context": "Amazon: @115849 Apologies for the delay in delivery of your order, James. We'd like to take a closer look. 1/2 ^HD ||| Amazon: @115849 Please report this to our support team here: https://t.co/TdDksLo6Mf and we'll look into this. 2/2 ^HD ||| Customer: @AmazonHelp Already contacted 3-4 times in the last month. But all I got was assurance that matter is escalated &amp; new status will be provided in 1 day! ||| Customer: @AmazonHelp It's more than ONE MONTH for something that should have taken 2 days. 'Apologies' won't work. Please do some real work &amp; get it delivered.",
+    "target_message": "@AmazonHelp It's more than ONE MONTH for something that should have taken 2 days. 'Apologies' won't work. Please do some real work &amp; get it delivered.",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DeliveryStatus",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 2544,
+    "context": "Amazon: @116314 I'm sorry you haven't received it yet! Have you had an e-mail regarding the order? Please check junk/spam and let us know! ^TG ||| Customer: @AmazonHelp Yeah I sent you a DM too. Had an email saying when it had been dispatched but nothing since. ||| Amazon: @116314 We're unable to view any account information via Twitter. What's the current tracking shown here: https://t.co/aaDyEz1VgE? ^AG ||| Customer: @AmazonHelp Wasn't tracked as sent via Royal Mail. I've emailed the seller.",
+    "target_message": "@AmazonHelp Wasn't tracked as sent via Royal Mail. I've emailed the seller.",
+    "true_label": "DeliveryStatus",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 2584,
+    "context": "Customer: @116324 not dlvd after 1 wk. U lied 2 @AmazonHelp saying left in safe place on Fri. Yesterday u said wld be dlvd 24-48hrs. Sort this now! ||| Amazon: @116323 I'm sorry your order hasn't arrived yet! Please let us know if you haven't received it within 48 hours. ^EB ||| Customer: @AmazonHelp Well ok but @116324 said it\u2019s been dlvd so I can\u2019t see how they will bother to deliver it now! I think they have washed their hands of it",
+    "target_message": "@AmazonHelp Well ok but @116324 said it\u2019s been dlvd so I can\u2019t see how they will bother to deliver it now! I think they have washed their hands of it",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CourierFeedback",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 3737,
+    "context": "Customer: @AmazonHelp Warum ist es mir (und scheinbar auch ein paar anderen) nicht m\u00f6glich per Bankeinzug zu bezahlen?",
+    "target_message": "@AmazonHelp Warum ist es mir (und scheinbar auch ein paar anderen) nicht m\u00f6glich per Bankeinzug zu bezahlen?",
+    "true_label": "AccountAndPayment",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 11977,
+    "context": "Customer: Seriously @115821 what is up with ordering things and it being open?  You guys shipping returned items.  2nd day in a row this happens :SMH: https://t.co/gMyT1z9Zu1 ||| Amazon: @118355 We do not want this to happen and are eager to help. Reach out to us for more assistance here: https://t.co/hApLpMlfHN ^LM ||| Customer: @118355 @115821 My most recent order came without an outer shipping box, with product box obv not designed for shipping and arrived open.",
+    "target_message": "@118355 @115821 My most recent order came without an outer shipping box, with product box obv not designed for shipping and arrived open.",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DigitalServices",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 12504,
+    "context": "Customer: @AmazonHelp How do I disable notifications indicated by the bell icon in upper left corner of iOS Kindle app? ||| Amazon: @118501 We'd like to help in real-time! When you have a free moment, please reach out to us here: https://t.co/hApLpMlfHN ^HM ||| Customer: @AmazonHelp Nah. Just answer my question please.",
+    "target_message": "@AmazonHelp Nah. Just answer my question please.",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DigitalServices",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 15698,
+    "context": "Customer: Hey @115850 @AmazonHelp I need an update on my refund! Can you help? ||| Amazon: @119452 You may track your refunds using the link: https://t.co/LjYILTJREp. Please keep us posted. ^GS ||| Customer: @AmazonHelp Hi. This is where I'm stuck. When will you initiate the pick up? https://t.co/bVTocnrC1k",
+    "target_message": "@AmazonHelp Hi. This is where I'm stuck. When will you initiate the pick up? https://t.co/bVTocnrC1k",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "RefundsAndReturns",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 16115,
+    "context": "Amazon: @119535 Sorry to know the seller hasn't responded to your query. Generally, the seller's respond with in 2 business days if this 1/n ^SH ||| Amazon: @119535 time frame has passed and you haven't received any update or if you aren't satisfied with seller's reply then you may file 2/n ^SH ||| Amazon: @119535 the A-z guarantee claim. You can know more about A-z guarantee claim here: https://t.co/cly38I8avX 3/3 ^SH ||| Customer: @AmazonHelp Ur customer care didnt provide me a correct answer",
+    "target_message": "@AmazonHelp Ur customer care didnt provide me a correct answer",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 16432,
+    "context": "Customer: @119356 @AmazonHelp     horrible service, lousy customer care, non existent courier phone numbers. So much for becoming a Prime customer! ||| Amazon: @119620 Sorry to know about the delivery issue. Did we happen to miss estimate as mentioned here: https://t.co/ykWpCt0ely ?^KA ||| Customer: @AmazonHelp Yes you have missed the deadline which was set at the time of purchase. After missing that deadline you have given me a new deadline now",
+    "target_message": "@AmazonHelp Yes you have missed the deadline which was set at the time of purchase. After missing that deadline you have given me a new deadline now",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CourierFeedback",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 18150,
+    "context": "Amazon: @120034 That's really weird! Have you contacted them to see if they could provide any insight? ^AJ ||| Customer: @AmazonHelp No, is USPS even contactable, esp after hours?  I'll wait and see what happens tomorrow. Two delivery mishaps this month - one UPS, one USPS ||| Amazon: @120034 Unfortunately not. However, you can check the carrier website for more detailed tracking information. Please keep us posted. ^SY ||| Customer: @AmazonHelp I gave it another day and still not delivered. \ud83d\ude21",
+    "target_message": "@AmazonHelp I gave it another day and still not delivered. \ud83d\ude21",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CourierFeedback",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 18152,
+    "context": "Amazon: @120034 I'm so sorry for the trouble. If you have a moment, please contact us by phone or chat here: https://t.co/hApLpMlfHN. ^LH ||| Customer: @AmazonHelp Called USPS for delivery info. Estimated hold time for the next representative is FIFTY MINUTES. As YOUR customer, I shouldn't be doing this ||| Amazon: @120034 We're able to contact the carrier on your behalf using the link ^LH provided above. ^KP ||| Customer: @AmazonHelp Yes, I've sent an email through your link.",
+    "target_message": "@AmazonHelp Yes, I've sent an email through your link.",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 21904,
+    "context": "Customer: Anyone here who has used Amazon Echo or Echo plus? How is the experience? Have a couple of questions that their @AmazonHelp rep doesn't know ||| Amazon: @120773 Sorry about that. Kindly elaborate the issue and we'll be happy to help. ^AK ||| Customer: @AmazonHelp 1. Does it work without being plugged in to power? \n2. If yes, what is battery life? \n3. Can it be used for receiving and making calls?",
+    "target_message": "@AmazonHelp 1. Does it work without being plugged in to power? \n2. If yes, what is battery life? \n3. Can it be used for receiving and making calls?",
+    "true_label": "OTHER",
+    "predicted_message_only": "AccountAndPayment",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 21903,
+    "context": "Customer: Anyone here who has used Amazon Echo or Echo plus? How is the experience? Have a couple of questions that their @AmazonHelp rep doesn't know ||| Amazon: @120773 Sorry about that. Kindly elaborate the issue and we'll be happy to help. ^AK ||| Customer: @AmazonHelp 1. Does it work without being plugged in to power? \n2. If yes, what is battery life? \n3. Can it be used for receiving and making calls? ||| Customer: @AmazonHelp 4. Works on bluetooth? \n5. How does it pair with electronics at home?b",
+    "target_message": "@AmazonHelp 4. Works on bluetooth? \n5. How does it pair with electronics at home?b",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 21909,
+    "context": "Amazon: @120773 It doesn't have a built in battery, so plugging in to an electric socket is a must. You can use the \"Drop in\" feature 1/3 ^RW ||| Amazon: @120773 to connect via voice through the Alexa app. Yes, you can connect it as a Bluetooth speaker. 2/3 ^RW ||| Amazon: @120773 It can connect to all the smart electronics at your place. 3/3 ^RW ||| Customer: @AmazonHelp Your customer support told me it has battery!",
+    "target_message": "@AmazonHelp Your customer support told me it has battery!",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DigitalServices",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 21910,
+    "context": "Amazon: @120773 to connect via voice through the Alexa app. Yes, you can connect it as a Bluetooth speaker. 2/3 ^RW ||| Amazon: @120773 It can connect to all the smart electronics at your place. 3/3 ^RW ||| Customer: @AmazonHelp Your customer support told me it has battery! ||| Customer: @120773 @AmazonHelp Lmao\ud83e\udd23\ud83e\udd23",
+    "target_message": "@120773 @AmazonHelp Lmao\ud83e\udd23\ud83e\udd23",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DigitalServices",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 21938,
+    "context": "Amazon: @120777 We regret the inconvenience. We have received your details. We'll work on it and get back to you.  ^SB ||| Customer: @AmazonHelp Check my order ID and the details I have shared with your online form. ||| Customer: @AmazonHelp Something for which I received mail stating out for delivery today is now returned and refund is issued.  It's all in a mess. ||| Customer: @AmazonHelp @115851 Amazon's Indian operations needs a big review. Talking to random people at customer care rather than Amazon as organisation.",
+    "target_message": "@AmazonHelp @115851 Amazon's Indian operations needs a big review. Talking to random people at customer care rather than Amazon as organisation.",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "RefundsAndReturns",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 21937,
+    "context": "Customer: @AmazonHelp Check my order ID and the details I have shared with your online form. ||| Customer: @AmazonHelp Something for which I received mail stating out for delivery today is now returned and refund is issued.  It's all in a mess. ||| Customer: @AmazonHelp @115851 Amazon's Indian operations needs a big review. Talking to random people at customer care rather than Amazon as organisation. ||| Customer: @AmazonHelp @115851 @115850 has only response (apologies) I thought u deliver product. But now it seems Apologies are being delivered",
+    "target_message": "@AmazonHelp @115851 @115850 has only response (apologies) I thought u deliver product. But now it seems Apologies are being delivered",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "RefundsAndReturns",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 21927,
+    "context": "Amazon: @120777 I understand the unpleasantness here, Himanshu. We'll respond to you via mail soon. ^JC ||| Customer: @AmazonHelp Have you gone deeper into the issue or it's just an automated instant reply over Twitter?? @115851 ||| Amazon: @120777 Kindly reply to the email received from us and we shall get back to you on this. ^SH ||| Customer: @AmazonHelp U need to ur mails first.. Are they of any use???",
+    "target_message": "@AmazonHelp U need to ur mails first.. Are they of any use???",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 21930,
+    "context": "Customer: @AmazonHelp Have you gone deeper into the issue or it's just an automated instant reply over Twitter?? @115851 ||| Amazon: @120777 Kindly reply to the email received from us and we shall get back to you on this. ^SH ||| Customer: @AmazonHelp U need to ur mails first.. Are they of any use??? ||| Customer: @AmazonHelp Those are standard mails not catering to customers problems.. Only apologies n assurance nothing else.",
+    "target_message": "@AmazonHelp Those are standard mails not catering to customers problems.. Only apologies n assurance nothing else.",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 21925,
+    "context": "Customer: @AmazonHelp Those are standard mails not catering to customers problems.. Only apologies n assurance nothing else. ||| Amazon: @120777 Sorry for the disappointment. We can't gain access to your account via Twitter. Please reply to the email from (1/2) ^KA ||| Amazon: @120777 our team and we'll get back. (2/2) ^KA ||| Customer: @AmazonHelp How long it will take..??? I had ordered on 8th October.",
+    "target_message": "@AmazonHelp How long it will take..??? I had ordered on 8th October.",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 21948,
+    "context": "Amazon: @120779 That's odd! Please flag your concern here: https://t.co/vlvfJr4nN9 &amp; we'll help you further on this. ^BS ||| Customer: @AmazonHelp 2 days and zero outcome ||| Amazon: @120779 Just to confirm, have you reported this to our support team as requested earlier? If not kindly let them know about it. ^AB ||| Customer: @AmazonHelp yes did that but no outcome till now. waste of time",
+    "target_message": "@AmazonHelp yes did that but no outcome till now. waste of time",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 23990,
+    "context": "Customer: @115850 ek saal me Amazon app pr sare contest me participate kiya...aaj tak kuch nahi mila\n.\n.\n.\nIsme koi jeetta bhi h ya sb fake h ||| Amazon: @121157 All the promotions displayed on our website are 100% genuine. The winners are announced here: https://t.co/ICRkX2fNTQ. ^GS ||| Customer: @AmazonHelp Yaar Baat toh sahi h tumhari..\nShayad meri hi kismat kharab h",
+    "target_message": "@AmazonHelp Yaar Baat toh sahi h tumhari..\nShayad meri hi kismat kharab h",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DigitalServices",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 24555,
+    "context": "Customer: @AmazonHelp your courier sucks really! ||| Amazon: @121283 Well that doesn't sound good, what happened? ^AS ||| Customer: @AmazonHelp kindly check all my tweets if you really want to help",
+    "target_message": "@AmazonHelp kindly check all my tweets if you really want to help",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CourierFeedback",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 24971,
+    "context": "Customer: Happy #Halloween! What treats are you hoping to snack on this evening? \ud83c\udf6c\ud83c\udf6d\ud83c\udf6b https://t.co/kgpz71997n ||| Customer: @117093 Thanks for the mold amazonfresh https://t.co/0GR6LuOxAp",
+    "target_message": "@117093 Thanks for the mold amazonfresh https://t.co/0GR6LuOxAp",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DigitalServices",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 25921,
+    "context": "Amazon: @121656 Please tell us what went wrong Rajdeep, so that we can check this for you. ^HN ||| Customer: @AmazonHelp I never received an alert that my Amazon pay balance was about to expire. ||| Amazon: @121656 We send an alert 15 and 30 days prior to the expiration to your registered email ID, please check. ^HA ||| Customer: @AmazonHelp I recvd for Gift Card Expiry and redeemed to add Rs.1000 to my Pay Balance. Did not recv alert for Pay Balance expiry. Check my email to cs.",
+    "target_message": "@AmazonHelp I recvd for Gift Card Expiry and redeemed to add Rs.1000 to my Pay Balance. Did not recv alert for Pay Balance expiry. Check my email to cs.",
+    "true_label": "OTHER",
+    "predicted_message_only": "AccountAndPayment",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 25889,
+    "context": "Amazon: @121656 We'll be sure to look into it. Do keep us posted for any further concerns. ^KH ||| Customer: @AmazonHelp Please push CS to reply... ||| Amazon: @121656 Thanks for getting in touch with our support team. Kindly wait till you receive an update. Do keep us posted. ^AK (1/2) ||| Customer: @AmazonHelp Still the issue is open....how come its taking so long?",
+    "target_message": "@AmazonHelp Still the issue is open....how come its taking so long?",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 25898,
+    "context": "Amazon: @121656 Sorry for the disappointment. Please reply to the email you've received from our team and we'll get back. ^KA ||| Customer: @AmazonHelp I clicked \"NO\" on whether the issue was resolved. And once again narrated my prob in online feedback portal. Customer service is abysmal ||| Amazon: @121656 I understand your upset, may I know if you've replied to the email sent by the Social Media team? ^EM ||| Customer: @AmazonHelp At the bottom it was mentioned-  Did I solve your problem? I clicked NO and detailed the issue on the feedback portal.",
+    "target_message": "@AmazonHelp At the bottom it was mentioned-  Did I solve your problem? I clicked NO and detailed the issue on the feedback portal.",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 25901,
+    "context": "Customer: @121657 @AmazonHelp Its because they have got their payment ||| Customer: @121656 @AmazonHelp yes, and they are shameless people.. with vague explanations every time ! they used to be good...now worst in Industry ||| Customer: @121657 @AmazonHelp for CoD orders they are prompt...but if paid by credit card - they are slow...because they already got their money. #amazonscam ||| Customer: @AmazonHelp Still no reply...my complaint is still pending",
+    "target_message": "@AmazonHelp Still no reply...my complaint is still pending",
+    "true_label": "CustomerServiceEscalation",
+    "predicted_message_only": "CustomerServiceEscalation",
+    "predicted_context_aware": "AccountAndPayment",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 25908,
+    "context": "Amazon: @121656 Apologies for the ordeal. Kindly reply to our correspondence here: https://t.co/8DAc10S7ww and we'll check this further for you. ^VN ||| Customer: @AmazonHelp There is no provision to make a reply...Why aren't you replying my question on amazon pay balance??? @115851 - #amazonsucks ||| Amazon: @121656 Please check the link above and reply to our email. You will have an option to reply to the email. ^PS ||| Customer: @AmazonHelp Where?? I am fed up....you guys are useless....you deducted my Amazon Pay Balance without alerting me. #amazonsucks @115851 https://t.co/FxG86Khf6f",
+    "target_message": "@AmazonHelp Where?? I am fed up....you guys are useless....you deducted my Amazon Pay Balance without alerting me. #amazonsucks @115851 https://t.co/FxG86Khf6f",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 25910,
+    "context": "Amazon: @121656 Please check the link above and reply to our email. You will have an option to reply to the email. ^PS ||| Customer: @AmazonHelp Where?? I am fed up....you guys are useless....you deducted my Amazon Pay Balance without alerting me. #amazonsucks @115851 https://t.co/FxG86Khf6f ||| Amazon: @121656 Sorry about that. Kindly write back to the email you've received from our team and we will respond on the same. ^GK ||| Customer: @AmazonHelp No Not Again. I have written it at least thrice by now...and narrated the same over my phone call...not again. You go and read. Why did you not alert me before deducting the pay balance??? @115851 #amazonsucks",
+    "target_message": "@AmazonHelp No Not Again. I have written it at least thrice by now...and narrated the same over my phone call...not again. You go and read. Why did you not alert me before deducting the pay balance??? @115851 #amazonsucks",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 25915,
+    "context": "Customer: @AmazonHelp I have replied and emailed and web posted....enough...you go trace it out. #amazonsucks @115851 ||| Amazon: @121656 Thanks for the update, we'll get back to you with a resolution soon. ^MJ ||| Customer: @AmazonHelp I recvd a response...but my question was not answered. I haver replied again. #amazonsucks @115851 ||| Customer: @AmazonHelp @115851 I recvd another response. Each time response content is same. Not once has my question on amazon pay balance been answered. @115851 #amazonsucks",
+    "target_message": "@AmazonHelp @115851 I recvd another response. Each time response content is same. Not once has my question on amazon pay balance been answered. @115851 #amazonsucks",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 25952,
+    "context": "Customer: @AmazonHelp Fresh completely ignored my messages and you guys just ask how u can help then disappear when i ask. https://t.co/XPjmFqRyA4",
+    "target_message": "@AmazonHelp Fresh completely ignored my messages and you guys just ask how u can help then disappear when i ask. https://t.co/XPjmFqRyA4",
+    "true_label": "DigitalServices",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 27429,
+    "context": "Customer: What????   @120474 https://t.co/BV7iTTVueX ||| Amazon: @121889 Hi Chrissie, please use this link to get in touch and we'll look into this for you: https://t.co/JzP7hlA23B ^RL ||| Customer: @AmazonHelp I've been on hold to your phone line for nearly ten minutes what will this do? Why can't we book morrissey tickets in Brighton??!!",
+    "target_message": "@AmazonHelp I've been on hold to your phone line for nearly ten minutes what will this do? Why can't we book morrissey tickets in Brighton??!!",
+    "true_label": "CustomerServiceEscalation",
+    "predicted_message_only": "CustomerServiceEscalation",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 27432,
+    "context": "Amazon: @121889 Hi Chrissie, please use this link to get in touch and we'll look into this for you: https://t.co/JzP7hlA23B ^RL ||| Customer: @AmazonHelp I've been on hold to your phone line for nearly ten minutes what will this do? Why can't we book morrissey tickets in Brighton??!! ||| Customer: @121889 @AmazonHelp Any answer, I still can\u2019t book ||| Customer: @122012 @AmazonHelp It's a technical issue that everyone is getting. They said they'll phone me back when it's sorted but can't t give me a time!",
+    "target_message": "@122012 @AmazonHelp It's a technical issue that everyone is getting. They said they'll phone me back when it's sorted but can't t give me a time!",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 27433,
+    "context": "Customer: @AmazonHelp I've been on hold to your phone line for nearly ten minutes what will this do? Why can't we book morrissey tickets in Brighton??!! ||| Customer: @121889 @AmazonHelp Any answer, I still can\u2019t book ||| Customer: @122012 @AmazonHelp It's a technical issue that everyone is getting. They said they'll phone me back when it's sorted but can't t give me a time! ||| Customer: @121889 @AmazonHelp God, so we\u2019re stuck clicking hopefully that it will be fixed! It\u2019s like bloody Glastonbury tickets!",
+    "target_message": "@121889 @AmazonHelp God, so we\u2019re stuck clicking hopefully that it will be fixed! It\u2019s like bloody Glastonbury tickets!",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 27825,
+    "context": "Customer: @AmazonHelp I\u2019ve found a parcel at my door that\u2019s not mine.Googled address and it\u2019s not recognised. How do I return it ? ||| Amazon: @122091 Sorry for any troubles! We can help set up the return. Reach out here for further assistance: https://t.co/JzP7hlA23B ^TH ||| Customer: @AmazonHelp I don\u2019t have an amazon account. The parcel has been delivered to the wrong address.",
+    "target_message": "@AmazonHelp I don\u2019t have an amazon account. The parcel has been delivered to the wrong address.",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "RefundsAndReturns",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 28433,
+    "context": "Amazon: @122220 Wir versenden so, dass es am Freitag bei dir zugestellt werden kann. Liebe Gr\u00fc\u00dfe ^AN ||| Customer: @AmazonHelp Weil es schon seid Montag unterwegs sein sollte ?! ||| Amazon: @122220 Warte doch mal bis morgen ab. Noch ist doch alles im gr\u00fcnen Bereich. ^AN ||| Customer: @AmazonHelp Mache mir nur Gedanken das es Freitag nicht an kommt ,\nMit welchen Dienst versendet ihr es ? Wenn ich fragen darf!?",
+    "target_message": "@AmazonHelp Mache mir nur Gedanken das es Freitag nicht an kommt ,\nMit welchen Dienst versendet ihr es ? Wenn ich fragen darf!?",
+    "true_label": "OTHER",
+    "predicted_message_only": "DigitalServices",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 28456,
+    "context": "Customer: @121284 my echo plus is on the way...... I am an existing prime user.. what will happen to the membership that is coming along with ||| Amazon: @122225 Your prime membership would be extended by one year in this case. ^GS ||| Customer: @121284 @AmazonHelp thanks for the reply",
+    "target_message": "@121284 @AmazonHelp thanks for the reply",
+    "true_label": "CustomerServiceEscalation",
+    "predicted_message_only": "CustomerServiceEscalation",
+    "predicted_context_aware": "DigitalServices",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 41525,
+    "context": "Customer: @115851 @AmazonHelp Have send the details via fax .\n@AmazonHelp \n@115851 ||| Amazon: @122600 I understand your disappointment. We'd like to help. May I know if you replied the correspondence from the accounts team? ^BS ||| Customer: @AmazonHelp Yes I have replied ||| Customer: @AmazonHelp N have mail the details with fax too",
+    "target_message": "@AmazonHelp N have mail the details with fax too",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 41524,
+    "context": "Amazon: @122600 I understand your disappointment. We'd like to help. May I know if you replied the correspondence from the accounts team? ^BS ||| Customer: @AmazonHelp Yes I have replied ||| Customer: @AmazonHelp N have mail the details with fax too ||| Customer: @AmazonHelp Request to pls look into the same as account team is not available on phone",
+    "target_message": "@AmazonHelp Request to pls look into the same as account team is not available on phone",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 30501,
+    "context": "Customer: \u4eca\u65e5\u3082\u5c4a\u304b\u306a\u3044....\u3002Amazon\uff01\uff01\uff01\n\u3067\u3082\u3001\u3044\u3064\u5c4a\u304f\u304b\u308f\u304b\u3089\u306a\u3044\u30c9\u30ad\u30c9\u30ad\u304c\u3042\u308b\u304b\u3089\u6bce\u65e5\u697d\u3057\u304f\u5e30\u308c\u308b\u3093\u3060\u306a\u3063\u3066\u601d\u3063\u305f\u3089\u307e\u3001\u3001\u3044\u3063\u304b\uff01\uff01\u7b11\u7b11\n#\u30c8\u30a4\u30b9\u30de",
+    "target_message": "\u4eca\u65e5\u3082\u5c4a\u304b\u306a\u3044....\u3002Amazon\uff01\uff01\uff01\n\u3067\u3082\u3001\u3044\u3064\u5c4a\u304f\u304b\u308f\u304b\u3089\u306a\u3044\u30c9\u30ad\u30c9\u30ad\u304c\u3042\u308b\u304b\u3089\u6bce\u65e5\u697d\u3057\u304f\u5e30\u308c\u308b\u3093\u3060\u306a\u3063\u3066\u601d\u3063\u305f\u3089\u307e\u3001\u3001\u3044\u3063\u304b\uff01\uff01\u7b11\u7b11\n#\u30c8\u30a4\u30b9\u30de",
+    "true_label": "OTHER",
+    "predicted_message_only": "DigitalServices",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 31333,
+    "context": "Customer: @115821 still hasn\u2019t taken my money for my order! WHY",
+    "target_message": "@115821 still hasn\u2019t taken my money for my order! WHY",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "RefundsAndReturns",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 31332,
+    "context": "Customer: @115821 still hasn\u2019t taken my money for my order! WHY ||| Amazon: @122906 Sorry for any troubles caused! What is the latest order status showing here: https://t.co/Y5jpI9gRhE ? ^TH ||| Customer: @AmazonHelp Saying arriving Friday",
+    "target_message": "@AmazonHelp Saying arriving Friday",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DeliveryStatus",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 32317,
+    "context": "Customer: @115850 don't you even bother the problem of customers,you send incomplete package then Leave customer on their own\nToo bad .. ||| Amazon: @123159 I understand your concern. Due to courier restrictions, we're unable to arrange a pick up for you. Request you to (1/2) ^MO ||| Amazon: @123159 kindly self return the package. Further, I'll be sure to forward your feedback. (2/2) ^MO ||| Customer: @AmazonHelp ok i will change the address to somewhere your pick is available but by 12 nov. also it is not feasible for me to self-return as",
+    "target_message": "@AmazonHelp ok i will change the address to somewhere your pick is available but by 12 nov. also it is not feasible for me to self-return as",
+    "true_label": "RefundsAndReturns",
+    "predicted_message_only": "RefundsAndReturns",
+    "predicted_context_aware": "CourierFeedback",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 36553,
+    "context": "Customer: @123963 Please give us some time to get back to you. Rest assured, we'll assist you in the best possible way in this regard. ||| Customer: @123964 UR ASSURANCE HAVE FAILED. \nI AM GOING TO FILE A COMPLAINT IN CONSUMER FORUM FOR THIS MENTAL AGONY. \nTHANKS @115850 @AmazonHelp ||| Customer: @123963 Apologies for the inconvenience. Our team will get in touch with you at the earliest regarding your concern. ||| Customer: @123964 WHEN WILL BE THAT DATE, TIME? \nI DON'T WANT YOUR PRODUCT,  IT'S A WASTE AND UNSAFE PRODUCT",
+    "target_message": "@123964 WHEN WILL BE THAT DATE, TIME? \nI DON'T WANT YOUR PRODUCT,  IT'S A WASTE AND UNSAFE PRODUCT",
+    "true_label": "OTHER",
+    "predicted_message_only": "DamagedOrDefective",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 36550,
+    "context": "Customer: @123964 WHEN WILL BE THAT DATE, TIME? \nI DON'T WANT YOUR PRODUCT,  IT'S A WASTE AND UNSAFE PRODUCT ||| Customer: @123963 We'll surely get in touch with you soon to assist further with your issue. Kindly allow us some time. ||| Customer: @123964 It's now 8 DAYS\nHOW MUCH MORE TIME.. \n\nPLEASE RETURN MY MONEY.. ||| Customer: @123963 We would request you to please allow us some time. Our team will get back to you as soon as there is an update.",
+    "target_message": "@123963 We would request you to please allow us some time. Our team will get back to you as soon as there is an update.",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "RefundsAndReturns",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 36549,
+    "context": "Customer: @123963 We'll surely get in touch with you soon to assist further with your issue. Kindly allow us some time. ||| Customer: @123964 It's now 8 DAYS\nHOW MUCH MORE TIME.. \n\nPLEASE RETURN MY MONEY.. ||| Customer: @123963 We would request you to please allow us some time. Our team will get back to you as soon as there is an update. ||| Customer: @123964 DO WE NEED MORE TIME???",
+    "target_message": "@123964 DO WE NEED MORE TIME???",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "RefundsAndReturns",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 36548,
+    "context": "Customer: @123964 It's now 8 DAYS\nHOW MUCH MORE TIME.. \n\nPLEASE RETURN MY MONEY.. ||| Customer: @123963 We would request you to please allow us some time. Our team will get back to you as soon as there is an update. ||| Customer: @123964 DO WE NEED MORE TIME??? ||| Customer: @123963 We apologize for the inconvenience. Kindly give us a chance to make this right for you, we'll check on the matter right away.",
+    "target_message": "@123963 We apologize for the inconvenience. Kindly give us a chance to make this right for you, we'll check on the matter right away.",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "RefundsAndReturns",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 36543,
+    "context": "Amazon: @123963 I'm sorry for the delay in installing Geyser. Have your reported this to our support team here: https://t.co/vlvfJr4nN9? ^MJ ||| Customer: @AmazonHelp This isn't now about installation. \nIt's now about faulty product ||| Amazon: @123963 That's unexpected! Sorry about the received product. Please flag this to our support team &amp; we'll get this sorted. ^BS ||| Customer: @AmazonHelp No help received either from them. \nThey have directed to  speak to KENSTAR",
+    "target_message": "@AmazonHelp No help received either from them. \nThey have directed to  speak to KENSTAR",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 36521,
+    "context": "Amazon: @123963 If you've already shared your details, our team will reach out to you soon with an update. Appreciate your understanding. ^MA ||| Customer: @AmazonHelp This is height of unprofessionalism. \n@123964 \nARE U BOTH WINDING UP UR OPERATIONS\n@120033 @120319 ||| Amazon: @123963 You'd have received a correspondence from our team. Do check it here:https://t.co/8DAc10S7ww &amp; reply for further concerns. ^EM ||| Customer: @AmazonHelp Not able to contact you, getting calls from UK https://t.co/zoVPnr8Z9r",
+    "target_message": "@AmazonHelp Not able to contact you, getting calls from UK https://t.co/zoVPnr8Z9r",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 36518,
+    "context": "Amazon: @123963 You'd have received a correspondence from our team. Do check it here:https://t.co/8DAc10S7ww &amp; reply for further concerns. ^EM ||| Customer: @AmazonHelp Not able to contact you, getting calls from UK https://t.co/zoVPnr8Z9r ||| Amazon: @123963 We use international severs to connect through call. Be assured that it is from our team that you'll receive the call back.^PR ||| Customer: @AmazonHelp When I am getting call,  call is getting disconnected addressing that product not recognized",
+    "target_message": "@AmazonHelp When I am getting call,  call is getting disconnected addressing that product not recognized",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 36523,
+    "context": "Customer: @AmazonHelp  https://t.co/Gs9GHwZnBA ||| Customer: @AmazonHelp I am surprised by such remarks, I was assured that my product will be replaced but nothing is happening. ||| Amazon: @123963 I'm sorry to know about that. Please fill this form: https://t.co/GIJyeYqKE0 and we'll contact you soon. ^MP ||| Customer: @AmazonHelp Form filled,  no resolution yet",
+    "target_message": "@AmazonHelp Form filled,  no resolution yet",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DigitalServices",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 39582,
+    "context": "Customer: Constantly getting notifications that my @115821 orders arrived when they didn\u2019t. And the customer service agent I\u2019m chatting with is so rude. I already canceled Fresh.. don\u2019t want to cancel Prime, too \ud83d\ude10 ||| Amazon: @124653 I'm so sorry for the poor experience! What is being advised by the agent? We'd be happy to try to help in any way we can. ^WJ ||| Customer: @AmazonHelp The agent is advising I continue to wait. I understand that, but it\u2019s pretty common that my orders are marked delivered when they never were. Delivery is very unreliable!",
+    "target_message": "@AmazonHelp The agent is advising I continue to wait. I understand that, but it\u2019s pretty common that my orders are marked delivered when they never were. Delivery is very unreliable!",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "RefundsAndReturns",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 40405,
+    "context": "Customer: @115830 Your delivery has really gone down hill.    No delivery.  Lets see what my Nest cam shows tomorrow.  If they lie again.",
+    "target_message": "@115830 Your delivery has really gone down hill.    No delivery.  Lets see what my Nest cam shows tomorrow.  If they lie again.",
+    "true_label": "OTHER",
+    "predicted_message_only": "CourierFeedback",
+    "predicted_context_aware": "DeliveryStatus",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 43256,
+    "context": "Customer: @AmazonHelp Seit wann wird bei eurem Super Unternehmen eigentlich das Zustelldatum auf ca. 24h Stunden gesch\u00e4tzt, wenn das wunderbar erwartete Paket dann in diesem kleinen aber feinen (Achtung Ironie) Zeitraum nicht ankommt? Arbeitet ihr auch vern\u00fcnftig?",
+    "target_message": "@AmazonHelp Seit wann wird bei eurem Super Unternehmen eigentlich das Zustelldatum auf ca. 24h Stunden gesch\u00e4tzt, wenn das wunderbar erwartete Paket dann in diesem kleinen aber feinen (Achtung Ironie) Zeitraum nicht ankommt? Arbeitet ihr auch vern\u00fcnftig?",
+    "true_label": "OTHER",
+    "predicted_message_only": "DigitalServices",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 43264,
+    "context": "Customer: @79389 purchased these from @115830 and they don't come charged as advertised neither do the charge fully, only to 95%, shocking item https://t.co/zEpNnZg5Sk ||| Amazon: @125586 I'm sorry for the frustration! Have you looked into our return options? You can do so here: https://t.co/eAmHs9K1Ei ^AC ||| Customer: @AmazonHelp I'm currently speaking with duracell as I think they are counterfeit batteries personally",
+    "target_message": "@AmazonHelp I'm currently speaking with duracell as I think they are counterfeit batteries personally",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "AccountAndPayment",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 44522,
+    "context": "Customer: @115850 @AmazonHelp my OD ID is 4__credit_card__ &amp; Tracking ID is 213112426556 It was a replacement of faulty product ||| Amazon: @125591 I'm sorry about the situation. Kindly share your details here: https://t.co/GIJyeYqKE0 and I'll look into this. ^SG(1/2) ||| Amazon: @125591 Please don\u2019t provide your order details as we consider them to be personal info. Our page is visible to public. ^SG(2/2) ||| Customer: @AmazonHelp OK, let me wait till tomorrow, hope that problem will be solved by then, anyway request u to keep the communication channel open, 1/2",
+    "target_message": "@AmazonHelp OK, let me wait till tomorrow, hope that problem will be solved by then, anyway request u to keep the communication channel open, 1/2",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DeliveryStatus",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 47941,
+    "context": "Customer: @119356 For my return amazon has issued refund amount on 29th oct 2017 but this is still not credited into my bank account. ||| Amazon: @126321 Usually it will take 3-5 business days for the refund to be reflected in your bank account as per the bank's regulations. ^SU ||| Customer: @AmazonHelp It's been 9 days now.",
+    "target_message": "@AmazonHelp It's been 9 days now.",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "AccountAndPayment",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 48911,
+    "context": "Amazon: @126911 I'm sorry for the trouble with your delivery. What's the latest tracking update here: https://t.co/aaDyEz1VgE? Have we arranged another delivery attempt for tomorrow, or contacted the courier on your behalf? ^RA ||| Customer: @AmazonHelp @1713 It says expected 21 Nov, contact courier for more info. DHL tracking says 2nd delivery attempt will be made (it'll be 3rd), that the driver usually leaves note but sometimes just sets the status but no driver came, i saw no1 out window :( ||| Amazon: @126911 That sounds like a troubling experience, Ben. I apologize for any hassle. Delivery attempts will typically take place the following business day. Have you received any further insight from DHL? ^FD ||| Customer: @AmazonHelp Today was the following business day! And I set my work address as delivery - normal i think for signed delivery, and 20:00 eta 2 days in a row, hours of my time lost waiting in office for nothing :( DHL on site says '2nd delivery will be attempted' despite it now being 3rd!",
+    "target_message": "@AmazonHelp Today was the following business day! And I set my work address as delivery - normal i think for signed delivery, and 20:00 eta 2 days in a row, hours of my time lost waiting in office for nothing :( DHL on site says '2nd delivery will be attempted' despite it now being 3rd!",
+    "true_label": "DeliveryStatus",
+    "predicted_message_only": "DeliveryStatus",
+    "predicted_context_aware": "CourierFeedback",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 649658,
+    "context": "Amazon: @126911 I'm sorry for the wait! We'd like to look at available options with you. Please reach us by phone here: https://t.co/JzP7hlA23B ^JM ||| Customer: @AmazonHelp I'd at least like the option to pick it up. I don't mind the delay in delivery, these things happen. I do mind being told it's coming late in the evening, waiting around for 2 days in a row, all for nothing! @124285 contact number redirects to Deutschpost who can't help me! \ud83d\ude15 ||| Amazon: @126911 Please contact us by phone using the link ^JM provided so we can look into options. ^JF ||| Customer: @AmazonHelp yeah my issue has been handled by amazon after contacint them with the same as what Ben said, its all down to the delivery driver now to get it to us before the office shuts :)",
+    "target_message": "@AmazonHelp yeah my issue has been handled by amazon after contacint them with the same as what Ben said, its all down to the delivery driver now to get it to us before the office shuts :)",
+    "true_label": "CourierFeedback",
+    "predicted_message_only": "CourierFeedback",
+    "predicted_context_aware": "DeliveryStatus",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 49930,
+    "context": "Customer: @115821 Cre\u00eda que compraba y era atendido por una empresa seria. Mi paciencia ha sido ilimitada. Por favor RT ||| Amazon: @127183 Lamento este inconveniente Juan, \u00bfhas entrado en contacto con nuestro Servicio al Cliente para reportar lo sucedido? ^AZ ||| Customer: @AmazonHelp Desde el 11-9. He cumplido TODO lo que me ped\u00edsteis. El hartazgo es total. Mirad mi historial desde ese d\u00eda.",
+    "target_message": "@AmazonHelp Desde el 11-9. He cumplido TODO lo que me ped\u00edsteis. El hartazgo es total. Mirad mi historial desde ese d\u00eda.",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 50766,
+    "context": "Customer: @115821 @120533 @AmazonHelp @127390 #TurtlesAllTheWayDown Et je ne pense pas \u00eatre la seule...? Has this happened to someone else? https://t.co/cnkB2p99RQ ||| Amazon: @127389 Bonsoir, je suis d\u00e9sol\u00e9e pour cela. Avez-vous pass\u00e9 votre commande sur Amazon.fr ? ^SB ||| Customer: @AmazonHelp Oui. On m'a confirm\u00e9 par mail qu'il y a eu + de pr\u00e9co que d'ex. dispos. J'aurais aim\u00e9 \u00eatre pr\u00e9venue avant pour le commander autre part.",
+    "target_message": "@AmazonHelp Oui. On m'a confirm\u00e9 par mail qu'il y a eu + de pr\u00e9co que d'ex. dispos. J'aurais aim\u00e9 \u00eatre pr\u00e9venue avant pour le commander autre part.",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DigitalServices",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 50768,
+    "context": "Customer: @115821 @120533 @AmazonHelp @127390 #TurtlesAllTheWayDown Et je ne pense pas \u00eatre la seule...? Has this happened to someone else? https://t.co/cnkB2p99RQ ||| Amazon: @127389 Bonsoir, je suis d\u00e9sol\u00e9e pour cela. Avez-vous pass\u00e9 votre commande sur Amazon.fr ? ^SB ||| Customer: @AmazonHelp Oui. On m'a confirm\u00e9 par mail qu'il y a eu + de pr\u00e9co que d'ex. dispos. J'aurais aim\u00e9 \u00eatre pr\u00e9venue avant pour le commander autre part. ||| Customer: @AmazonHelp Je sais qu'il n'y a plus grand chose \u00e0 faire, mais je voulais le faire savoir car je n'ai pas envie que \u00e7a arrive de nouveau.",
+    "target_message": "@AmazonHelp Je sais qu'il n'y a plus grand chose \u00e0 faire, mais je voulais le faire savoir car je n'ai pas envie que \u00e7a arrive de nouveau.",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DigitalServices",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 58068,
+    "context": "Customer: Yeah, @115821 app be like https://t.co/5koH6lQWbZ ||| Amazon: @129182 Are you seeing this on every item you look at? If you can send us a link to the item, we'd love to look into this further. ^MB ||| Customer: @AmazonHelp Nah, seemed like just a temporary issue. On the second call it was fine again",
+    "target_message": "@AmazonHelp Nah, seemed like just a temporary issue. On the second call it was fine again",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DigitalServices",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 58130,
+    "context": "Customer: @115830 been told my parcel was out for delivery since 630 now I'm told not to expect it till tomorrow. What is going on? It's prime ||| Amazon: @129195 I'm so sorry for the wait! What does the order confirmation say the delivery date is? ^MH ||| Customer: @AmazonHelp tonight before 800pm",
+    "target_message": "@AmazonHelp tonight before 800pm",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DeliveryStatus",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 59516,
+    "context": "Customer: Ho ordinato sia il vinile che il cd autografato! Non vedo l\u2019ora! Muoviti tempo che non posso aspettare +! @43723 @120540 #duets https://t.co/Efi01hi8PF",
+    "target_message": "Ho ordinato sia il vinile che il cd autografato! Non vedo l\u2019ora! Muoviti tempo che non posso aspettare +! @43723 @120540 #duets https://t.co/Efi01hi8PF",
+    "true_label": "OTHER",
+    "predicted_message_only": "DigitalServices",
+    "predicted_context_aware": "DamagedOrDefective",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 59517,
+    "context": "Customer: Ho ordinato sia il vinile che il cd autografato! Non vedo l\u2019ora! Muoviti tempo che non posso aspettare +! @43723 @120540 #duets https://t.co/Efi01hi8PF ||| Amazon: @129575 Manca poco ormai! \ud83d\ude09 ^GD ||| Customer: @129575 @43723 @120540 Anche a me arriva lo stesso giorno mio non vedo l ora @43723",
+    "target_message": "@129575 @43723 @120540 Anche a me arriva lo stesso giorno mio non vedo l ora @43723",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DamagedOrDefective",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 62159,
+    "context": "Customer: @AmazonHelp Hi im sending this message about a product i bought on saturday with two day shipping that said i was suppose to receive on ||| Customer: @AmazonHelp Tuesday but i got an email saying it was delivered on monday and ive asked everyone in my household but they all confirmed nothing came in",
+    "target_message": "@AmazonHelp Tuesday but i got an email saying it was delivered on monday and ive asked everyone in my household but they all confirmed nothing came in",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DeliveryStatus",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 62190,
+    "context": "Amazon: @130242 That's odd! Have you tried restarting the device? Let us know! ^MT ||| Customer: @AmazonHelp how do u do that? ||| Amazon: @130242 To restart your device, please unplug it/plug it back in; this will reboot the system. More info: https://t.co/dVpLHbteFC ^BE ||| Customer: @AmazonHelp Ive tried. I thought it fixed it but then the music stops playing again. What\u2019s weird is that Spotify is still continuing as if sound was on",
+    "target_message": "@AmazonHelp Ive tried. I thought it fixed it but then the music stops playing again. What\u2019s weird is that Spotify is still continuing as if sound was on",
+    "true_label": "DigitalServices",
+    "predicted_message_only": "DigitalServices",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 63112,
+    "context": "Customer: Gutted my @117634 fire 8 has just stopped working half way through my trip. It won't turn on. It's less than 2 months old. advice?",
+    "target_message": "Gutted my @117634 fire 8 has just stopped working half way through my trip. It won't turn on. It's less than 2 months old. advice?",
+    "true_label": "OTHER",
+    "predicted_message_only": "DigitalServices",
+    "predicted_context_aware": "DigitalServices",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 63127,
+    "context": "Customer: Thanks for nothing @115821 @81 https://t.co/qixSZRs3g4 ||| Customer: @130471 @115821 @81 what was it ||| Customer: @130472 @115821 @81 It was a computer desk smh put the whole thing together get to the box with the glass pieces and heard the pieces slide",
+    "target_message": "@130472 @115821 @81 It was a computer desk smh put the whole thing together get to the box with the glass pieces and heard the pieces slide",
+    "true_label": "OTHER",
+    "predicted_message_only": "DamagedOrDefective",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 63144,
+    "context": "Customer: #amazon how many times will u send this? Its not working! @115821 \ud83d\ude21 https://t.co/oCNIUuNJSp ||| Amazon: @124288 Our team would like to take a closer look at this. Please provide your details here: https://t.co/i3p4vzOELo ^LJ ||| Customer: @AmazonHelp Have u been able to ckarify anything? I still cannot purchase anything......\ud83d\ude22",
+    "target_message": "@AmazonHelp Have u been able to ckarify anything? I still cannot purchase anything......\ud83d\ude22",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DamagedOrDefective",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 63873,
+    "context": "Amazon: @130675 Sorry to hear your order is delayed. If you have not received your order by the revised delivery date please let us know.^ES ||| Customer: @AmazonHelp But no-one can give me a revised delivery date.... that is all I wanted to know! ||| Amazon: @130675 Did we inform if the item was out of stock?^PJ ||| Customer: @AmazonHelp It's not. I have checked. All items are in stock.\n\nThe email did not give an estimate of how long I have to wait. \n\nThe online support bod said 'just wait until after delivery day'",
+    "target_message": "@AmazonHelp It's not. I have checked. All items are in stock.\n\nThe email did not give an estimate of how long I have to wait. \n\nThe online support bod said 'just wait until after delivery day'",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DeliveryStatus",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 63881,
+    "context": "Customer: @AmazonHelp I fear you have missed the point... I would be more patient if I knew how long I have to be patient for, or if I have to add items to my @Tesco order.\n\nI would prefer to cancel the entire \u00a3100 order as you can not get it to me by the date you agreed to, but I was locked in 24/11 ||| Customer: @AmazonHelp @Tesco But I can not cancel the order,  you can not deliver the order on time (you have had 7 days to dispatch it) and you can not tell me when it will arrive. ....\n\nWhat exactly do I commit to \u00a33k spending and a \u00a379 a year membership for? ||| Amazon: @130675 Have you received a dispatch email yet Darren? ^MI ||| Customer: @AmazonHelp No... I received multiple emails saying this, for multiple items.\n\nThere is no estimate for the length of delay.\n\nYour online agents can see no estimate for the length of delay, no dispatch notes, no notes at all.\n\nThere is nothing on 'Your Orders' at all. https://t.co/wHOE2o3a0u",
+    "target_message": "@AmazonHelp No... I received multiple emails saying this, for multiple items.\n\nThere is no estimate for the length of delay.\n\nYour online agents can see no estimate for the length of delay, no dispatch notes, no notes at all.\n\nThere is nothing on 'Your Orders' at all. https://t.co/wHOE2o3a0u",
+    "true_label": "CustomerServiceEscalation",
+    "predicted_message_only": "CustomerServiceEscalation",
+    "predicted_context_aware": "RefundsAndReturns",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 64054,
+    "context": "Customer: @115821 what does \"guaranteed delivery date\" mean?  Apparently my understanding is a few days off. ||| Amazon: @130704 We aim to meet the delivery date provided in your order confirmation e-mail, but unexpected delays can occur. Are you having trouble with a current order? If so, what's going on? Please don't include any account details. ^RA ||| Customer: @AmazonHelp I\u2019m already working with CS, but I\u2019ve asked what the \u201cguaranteed\u201d part means and haven\u2019t gotten an answer. It has left me with no mattress for 2 days.",
+    "target_message": "@AmazonHelp I\u2019m already working with CS, but I\u2019ve asked what the \u201cguaranteed\u201d part means and haven\u2019t gotten an answer. It has left me with no mattress for 2 days.",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DeliveryStatus",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 64044,
+    "context": "Amazon: @130704 Thanks for keeping us informed. Please keep us posted about the delivery tomorrow and let us know if there are any further issues.^PJ ||| Customer: @AmazonHelp I just got an email with a new delivery date of Friday.  This is unacceptable.  I've gone days without a bed because of this, and I have no reason to believe it won't be pushed to Saturday and beyond. ||| Amazon: @130704 I am very sorry to hear this Barry. Can I ask, have you been given a reason as to why this order is delayed please? ||| Customer: @AmazonHelp I was not told any reason by UPS.",
+    "target_message": "@AmazonHelp I was not told any reason by UPS.",
+    "true_label": "CourierFeedback",
+    "predicted_message_only": "CourierFeedback",
+    "predicted_context_aware": "DeliveryStatus",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 64048,
+    "context": "Amazon: @130704 Have you been contacted by us via email with a reason for the delay?^TI ||| Customer: @AmazonHelp No.  I spent an hour waiting on hold with UPS today, and they told me they'd make sure it got out tomorrow. But just now I got an email saying Friday. ||| Amazon: @130704 I am very sorry to hear this Barry. Can I ask, who is the seller of this item please? You can find this info here: https://t.co/Y5jpI9gRhE.^GA ||| Customer: @AmazonHelp Sold by: https://t.co/8lsCC88NSG LLC\n\nhttps://t.co/JGNPnX1uku",
+    "target_message": "@AmazonHelp Sold by: https://t.co/8lsCC88NSG LLC\n\nhttps://t.co/JGNPnX1uku",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CourierFeedback",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 64058,
+    "context": "Customer: Sit back, relax, and let your Amazon App do the work. Watch deals and receive notifications when they go live: https://t.co/2LeVQpNsDv https://t.co/UGnppuKzyN ||| Customer: @115821 Amazon making fool of people's for playing quiz on Amazon App..  And not accouncing the winner list on that app.. ...  Only doing there publicity to give prizes.. ||| Amazon: @130705 That's quite a negative comments, Ashok! Did we miss out on announcing the winner list for any contest? You can find the winner's list of the contests here: https://t.co/hnENfJwtHo. ^SF ||| Customer: @AmazonHelp Not upload winner list of LGQ6APPQUIZ on 30th nov",
+    "target_message": "@AmazonHelp Not upload winner list of LGQ6APPQUIZ on 30th nov",
+    "true_label": "DigitalServices",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DigitalServices",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 65722,
+    "context": "Customer: @AmazonHelp It does show and let me clarify: I did not accidentally order two of the item. I have the original order I made, and a duplicate order from ten minutes later I had nothing to do with. I ordered via the app, which I won\u2019t be doing again if this is what happens. ||| Customer: @AmazonHelp Can I get a response please? Having checked the reviews for your app, it seems I\u2019m not the only one with strange activity from it. Am I just supposed to suck up the cost of your app not working? ||| Amazon: @131038 We wouldn't have the option to place an order on your account Rikki, due to security reasons. Has the return been organised for the unwanted order? ^JC. ||| Customer: @AmazonHelp Well I didn\u2019t authorise it either so where exactly did it come from? I am in the process of returning it now.",
+    "target_message": "@AmazonHelp Well I didn\u2019t authorise it either so where exactly did it come from? I am in the process of returning it now.",
+    "true_label": "RefundsAndReturns",
+    "predicted_message_only": "RefundsAndReturns",
+    "predicted_context_aware": "DigitalServices",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 472353,
+    "context": "Customer: @AmazonHelp Dankesehr \ud83d\udc9f ||| Amazon: @131414 Immer wieder gerne. ^DW ||| Amazon: @131414 Konnten meine Kollegen den Verbleib deiner Sendung kl\u00e4ren? ^TG ||| Customer: @AmazonHelp Halli hallo ihr Schnuckelm\u00e4use \ud83d\udc4b \nDer zweite Zustellversuch hatte dann geklappt nachdem ich meinen Wunschnachbarn eingetragen hatte \ud83d\udc4d \nW\u00fcnsch euch 1 sch\u00f6n 1. Dezember &amp; DAMKE f\u00fcr euern Support \ud83c\udf84\u2764\ud83c\udf85",
+    "target_message": "@AmazonHelp Halli hallo ihr Schnuckelm\u00e4use \ud83d\udc4b \nDer zweite Zustellversuch hatte dann geklappt nachdem ich meinen Wunschnachbarn eingetragen hatte \ud83d\udc4d \nW\u00fcnsch euch 1 sch\u00f6n 1. Dezember &amp; DAMKE f\u00fcr euern Support \ud83c\udf84\u2764\ud83c\udf85",
+    "true_label": "DigitalServices",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 69264,
+    "context": "Customer: Hey @115821 @AmazonHelp not sure this is the best/safest place to leave a package... in the grass, by the mailbox, next to the street in plain sight.... https://t.co/SUTwX8cFPe",
+    "target_message": "Hey @115821 @AmazonHelp not sure this is the best/safest place to leave a package... in the grass, by the mailbox, next to the street in plain sight.... https://t.co/SUTwX8cFPe",
+    "true_label": "OTHER",
+    "predicted_message_only": "CourierFeedback",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 69260,
+    "context": "Amazon: @131675 I'm so sorry to see this! Can you let us know who the carrier was for the order? You can review this information here: https://t.co/q4LAMZ3tbE ^JS ||| Customer: @AmazonHelp It was \"AMZL US\" ||| Amazon: @131675 We would like to look into this with you so please provide your order information here: https://t.co/B4JI4CV7K8 ^DD ||| Customer: @AmazonHelp Order #: 111-2104955-8689840",
+    "target_message": "@AmazonHelp Order #: 111-2104955-8689840",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CourierFeedback",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 73429,
+    "context": "Amazon: @132320 Hi Michael, sorry to hear this. Were you able to get a return label organised for your suit?^PJ ||| Customer: @AmazonHelp put in the return request yesterday and still waiting to hear back from the seller ||| Amazon: @132320 Hi Michael, we do give the seller 2 days to respond. If they haven't responded by today please contact us via this link: https://t.co/JzP7hlA23B. We will do our best to help you! ^JC. ||| Customer: @AmazonHelp If they respond today do you think I can get the exchange in time though?",
+    "target_message": "@AmazonHelp If they respond today do you think I can get the exchange in time though?",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "RefundsAndReturns",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 73599,
+    "context": "Customer: #Amazon # Delivering Sadness# Received Fake Product # worst customer Experience in the world # Amazon #@132458 #@132459 #@132460 #No replacement # Amazon flooding fake product in India # Stop shopping at Amazon#Lets uninstall Amazon from India # https://t.co/XqGdV7rON1 ||| Amazon: @131812 I get your situation. We've responded to your concern here: https://t.co/80GCWwU5Qi. Request you to check and do the needful. ^HS ||| Customer: @AmazonHelp Don't tell stories! I need original speakers at any cost!",
+    "target_message": "@AmazonHelp Don't tell stories! I need original speakers at any cost!",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 73598,
+    "context": "Customer: #Amazon # Delivering Sadness# Received Fake Product # worst customer Experience in the world # Amazon #@132458 #@132459 #@132460 #No replacement # Amazon flooding fake product in India # Stop shopping at Amazon#Lets uninstall Amazon from India # https://t.co/XqGdV7rON1 ||| Amazon: @131812 I get your situation. We've responded to your concern here: https://t.co/80GCWwU5Qi. Request you to check and do the needful. ^HS ||| Customer: @AmazonHelp Don't tell stories! I need original speakers at any cost! ||| Customer: @AmazonHelp Stop selling fake bose product in India",
+    "target_message": "@AmazonHelp Stop selling fake bose product in India",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 73609,
+    "context": "Customer: @115850 need to update its app services to update address after order . I ordered some books and paid by @115823 but want to update my address because i\u2019m not available there even you should help me out to deliver all my orders at same day.\n#helpmeout ||| Amazon: @132463 We don't have direct access to your Amazon account over Twitter. Allow our support team to look into this. You can connect with us here: https://t.co/R3EfhzgU8B ^CB. ||| Customer: @AmazonHelp I\u2019d already contact to #amazoncustomerservice but there is not such type of service yet now what?",
+    "target_message": "@AmazonHelp I\u2019d already contact to #amazoncustomerservice but there is not such type of service yet now what?",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 75875,
+    "context": "Customer: @132703 @116928 Buenas tardes. En ASM tienen mi pedido (31__credit_card__) desde ayer, d\u00eda de entrega inicialmente previsto. Hoy me informan por sms de que la entrega se har\u00e1 la pr\u00f3xima semana. \u00bf5 d\u00edas para llevar al domicilio lo que tienen en su almac\u00e9n? Gracias",
+    "target_message": "@132703 @116928 Buenas tardes. En ASM tienen mi pedido (31__credit_card__) desde ayer, d\u00eda de entrega inicialmente previsto. Hoy me informan por sms de que la entrega se har\u00e1 la pr\u00f3xima semana. \u00bf5 d\u00edas para llevar al domicilio lo que tienen en su almac\u00e9n? Gracias",
+    "true_label": "OTHER",
+    "predicted_message_only": "CustomerServiceEscalation",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 75936,
+    "context": "Customer: @120533 @120534 \nVous n'en n'avez pas marre de syst\u00e9matiquement prendre les gens pour des cons ? Surtout quand il y a bien quelqu'un. Faudrait revoir la fonction m\u00eame de votre m\u00e9tier. https://t.co/i7Ug2bro6E",
+    "target_message": "@120533 @120534 \nVous n'en n'avez pas marre de syst\u00e9matiquement prendre les gens pour des cons ? Surtout quand il y a bien quelqu'un. Faudrait revoir la fonction m\u00eame de votre m\u00e9tier. https://t.co/i7Ug2bro6E",
+    "true_label": "OTHER",
+    "predicted_message_only": "DigitalServices",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 76096,
+    "context": "Customer: There is nothing worse than checking your order on amazon and seeing \u201cDelayed\u201d next to it \ud83d\ude29\ud83d\ude29\ud83d\ude29 ||| Amazon: @133026 Oh no!  We're sorry to hear that your package was delayed Michelle.  Have you received an e-mail with an updated delivery date? It may have been routed to a junk/spam folder as sometimes happens.  Keep us posted, we're here to help any way we can! ^AZ ||| Customer: @AmazonHelp No worries! It was delivered on time. Just to my next door neighbors house :( not your fault",
+    "target_message": "@AmazonHelp No worries! It was delivered on time. Just to my next door neighbors house :( not your fault",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DeliveryStatus",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 77320,
+    "context": "Customer: @115821 like I'd really give these people a key to my house ... they can't even find it! No point in Prime when #amzl_us\nis delivering. In one week = lost 1 package and others (below) sitting at local station for 24 hrs and counting bc no delivery person to get to the customer. https://t.co/jueuU1vLmL ||| Amazon: @133238 So sorry to hear about the issues! Our team would like to look into this situation with you further, can you please provide your details here so that we can reach out? https://t.co/rBoI8yXgn2 ^GS ||| Customer: @AmazonHelp I've already initiated support from a supervisor but there is no connection to the \"station\" where these issues are originating. No control over contractors. I was told by an Amazon rep that the stations only respond \"when they feel like it.\" What kind of operation is this?",
+    "target_message": "@AmazonHelp I've already initiated support from a supervisor but there is no connection to the \"station\" where these issues are originating. No control over contractors. I was told by an Amazon rep that the stations only respond \"when they feel like it.\" What kind of operation is this?",
+    "true_label": "CustomerServiceEscalation",
+    "predicted_message_only": "CustomerServiceEscalation",
+    "predicted_context_aware": "DeliveryStatus",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 77319,
+    "context": "Customer: @115821 like I'd really give these people a key to my house ... they can't even find it! No point in Prime when #amzl_us\nis delivering. In one week = lost 1 package and others (below) sitting at local station for 24 hrs and counting bc no delivery person to get to the customer. https://t.co/jueuU1vLmL ||| Amazon: @133238 So sorry to hear about the issues! Our team would like to look into this situation with you further, can you please provide your details here so that we can reach out? https://t.co/rBoI8yXgn2 ^GS ||| Customer: @AmazonHelp I've already initiated support from a supervisor but there is no connection to the \"station\" where these issues are originating. No control over contractors. I was told by an Amazon rep that the stations only respond \"when they feel like it.\" What kind of operation is this? ||| Customer: @AmazonHelp Delivery person outright lied about delivering my package, proven by my outdoor cameras AND your GPS location app.",
+    "target_message": "@AmazonHelp Delivery person outright lied about delivering my package, proven by my outdoor cameras AND your GPS location app.",
+    "true_label": "DigitalServices",
+    "predicted_message_only": "DigitalServices",
+    "predicted_context_aware": "DeliveryStatus",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 77326,
+    "context": "Amazon: @133238 Hi, we'll be happy to look into this in more detail if you can send through the secure form provided by ^GS, thank you. ^TS ||| Customer: @AmazonHelp I'd rather just share my story here until my items are delivered. \nOne of your reps compared your delivery model to the Uber driving program. These \"independent contractors\" don't care about your company like you should. It's obvious to the customers. ||| Customer: @AmazonHelp Could you imagine your competition in this market (UPS, USPS, Fedex) telling a customer that their packages have been at a nearby location but there's no delivery person available to bring them - for more than an entire day? ||| Customer: @AmazonHelp @81 @115817 @118706 what would you guys do? Not this.",
+    "target_message": "@AmazonHelp @81 @115817 @118706 what would you guys do? Not this.",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CourierFeedback",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 77498,
+    "context": "Amazon: @133264 Hi, have you had a chance to request a refund or replacement for your order?^PJ ||| Customer: @AmazonHelp not yet, would a replacement still be of the same amount if one of the items was a part of a lightning deal? ||| Amazon: @133264 Great question! Please reach out to us here: https://t.co/JzP7hlA23B so we can look into this together. ^SC ||| Customer: @AmazonHelp ok but this is a link to the UK site and i live in the US",
+    "target_message": "@AmazonHelp ok but this is a link to the UK site and i live in the US",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "CustomerServiceEscalation",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 78803,
+    "context": "Customer: @122924 Hallo, ich erwarte ein P\u00e4ckchen von Amazon hier in Aachen, bin die ganze Zeit hier. Jetzt wird mir bei Amazon angezeigt, dass Paket nach Stolberg zur\u00fcckgestellt wird. Was soll der Scherz?",
+    "target_message": "@122924 Hallo, ich erwarte ein P\u00e4ckchen von Amazon hier in Aachen, bin die ganze Zeit hier. Jetzt wird mir bei Amazon angezeigt, dass Paket nach Stolberg zur\u00fcckgestellt wird. Was soll der Scherz?",
+    "true_label": "OTHER",
+    "predicted_message_only": "DamagedOrDefective",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 78797,
+    "context": "Customer: @122924  https://t.co/avMelJUCJL ||| Customer: @122924 zur Not k\u00f6nnen Sie das ja auf Ihre Kosten per Taxi ausliefern lassen - Stolberg-Aachen ist ja nicht so weit ;) ||| Customer: @122924 Bin ja extra heute nicht weggewesen#Kundenservice ||| Customer: @122924 Liebes @116316 wieso soll man eigentlich Prime Kunde sein und daf\u00fcr bezahlen, wenn ihr es nicht schafft rechzeitig zu liefern, trotz Bankeinzug ;)",
+    "target_message": "@122924 Liebes @116316 wieso soll man eigentlich Prime Kunde sein und daf\u00fcr bezahlen, wenn ihr es nicht schafft rechzeitig zu liefern, trotz Bankeinzug ;)",
+    "true_label": "AccountAndPayment",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 78793,
+    "context": "Amazon: @133571 Deine Ver\u00e4rgerung kann ich verstehen :( Da wir \u00fcber Twitter keinen Einblick in deine Bestellung haben, bitte ich dich, unseren Kundenservice zu kontaktieren: https://t.co/ohyvGrpvrY\nDieser pr\u00fcft alles Weitere gerne f\u00fcr dich. ^SK ||| Customer: @AmazonHelp sie brauchen nur die fr\u00fcheren tweets zu verfolgen 71332205299377 ||| Amazon: @133571 Wir haben hier \u00fcber Twitter keinen Einblick in deine Bestellung, Till. Bitte wende dich an die Kollegen - sie helfen dir gerne weiter! Liebe Gr\u00fc\u00dfe ^TA ||| Customer: @AmazonHelp Ich habe meine Sendungsnummer getwittert, es w\u00e4re Kundenservice, wenn Sie sich darum k\u00fcmmern ;)",
+    "target_message": "@AmazonHelp Ich habe meine Sendungsnummer getwittert, es w\u00e4re Kundenservice, wenn Sie sich darum k\u00fcmmern ;)",
+    "true_label": "OTHER",
+    "predicted_message_only": "OTHER",
+    "predicted_context_aware": "DamagedOrDefective",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 78781,
+    "context": "Customer: @AmazonHelp @4772 doch sie brauchen nur bei Hermes anrufen, sich mit dem \u00f6rtlichen Zentrum (Stolberg/Rhl.)verbinden lassen und zur Not den dortigen Leiter auffordern, in sein Auto zu steigen und auszuliefern, bekam gerade pm von Hermes - vielleicht morgen....ohne Worte ||| Customer: @AmazonHelp @4772 @122924 ||| Customer: @AmazonHelp @4772 meinetwegen k\u00f6nnen das auch Herr Kleber oder diese Leute https://t.co/xGmQtdLq1S ausliefern. ||| Customer: @AmazonHelp @122924 Wann soll denn heute der Zustellversuch stattfinden? Liebe Hermes sie ver... ja nicht nur mich, sondern l\u00fcgen ja anscheinend auch noch @116316 an \"dass die Sendung heute nicht zugestellt werden konnte\". Ich war auch gestern ganze Zeit da und warte heute der Dinge.",
+    "target_message": "@AmazonHelp @122924 Wann soll denn heute der Zustellversuch stattfinden? Liebe Hermes sie ver... ja nicht nur mich, sondern l\u00fcgen ja anscheinend auch noch @116316 an \"dass die Sendung heute nicht zugestellt werden konnte\". Ich war auch gestern ganze Zeit da und warte heute der Dinge.",
+    "true_label": "OTHER",
+    "predicted_message_only": "DamagedOrDefective",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  },
+  {
+    "tweet_id": 78860,
+    "context": "Customer: What @115821 really needs is personalized browsing  options for each family member on a prime account, similar to the ID icons on @116602, that way I can buy Christmas gifts for the fam on there without them being able to see \ud83d\udc40",
+    "target_message": "What @115821 really needs is personalized browsing  options for each family member on a prime account, similar to the ID icons on @116602, that way I can buy Christmas gifts for the fam on there without them being able to see \ud83d\udc40",
+    "true_label": "OTHER",
+    "predicted_message_only": "DigitalServices",
+    "predicted_context_aware": "OTHER",
+    "hypothesis": "Model struggled with overlapping keywords or lacked sufficient context/reasoning capability."
+  }
+]
