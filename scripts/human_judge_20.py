@@ -38,7 +38,19 @@ def main():
 
     df = pd.read_csv(CSV_PATH, dtype=str)
     total_rows = len(df)
-    current_idx = 0
+
+    # Detect the first unrated example to resume automatically
+    rating_cols = ["human_relevance", "human_groundedness", "human_helpfulness", "human_safety", "human_tone"]
+    current_idx = total_rows
+    for idx in range(total_rows):
+        row = df.iloc[idx]
+        is_complete = all(
+            str(row.get(col, "")).strip() not in ("", "nan", "None")
+            for col in rating_cols
+        )
+        if not is_complete:
+            current_idx = idx
+            break
 
     print_header("HUMAN-AS-A-JUDGE RATING WORKFLOW (20 EXAMPLES)")
     print("Commands at rating prompt:")
